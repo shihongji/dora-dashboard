@@ -43,3 +43,35 @@
     - Home
     - Away
 - game_time: How much time has passed
+
+### Game Info
+```json
+{
+  "game_info": {
+    "id": "werh78weru",
+    "game_id": "kwerujiwejr",
+    "home_team": {
+      "name": "Team A",
+      "score": 25,
+      "turnovers": 12
+    },
+    "away_team": {
+      "name": "Team B",
+      "score": 29,
+      "turnovers": 15
+    },
+    "game_date": "2024-10-20",
+    "venue": "Arena Name, City",
+    "status": "Ongoing", 
+    "game_time": 1739,
+    "quarter": 3,  
+    "time_left_in_quarter": "03:24",
+    "possession": "away"
+  }
+}
+```
+- id: event id, request many times in one game
+- game_id: unique for each game
+- status
+    - Ongoing
+    - Pause
