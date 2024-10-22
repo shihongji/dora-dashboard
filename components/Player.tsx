@@ -12,6 +12,8 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [palyedSeconds, setPalyedSeconds] = useState(0);
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
+    // trim the decimal points to 2
+    playedSeconds = Math.round(playedSeconds * 100) / 100;
     setPalyedSeconds(playedSeconds);
     onTimeUpdate(playedSeconds);
   }
@@ -26,8 +28,7 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   }, []);
 
   return (
-    <div className="flex-1 bg-gray-300 p-4">
-      <h2>Player</h2>
+    <div className="flex-1 bg-gray-300 p-2">
       {isMounted ? (
         <ReactPlayer
           url="ot.mp4"

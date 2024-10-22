@@ -1,12 +1,17 @@
 // components/StyledText.tsx
 const AlertText = () => {
-    return (
-      <div className="mt-4 p-4 bg-white rounded shadow-md">
-        <h3 className="text-4xl font-semibold text-gray-700 text-center">换人</h3>
-        <p className="text-xl text-gray-500 mt-2">This is the first line of styled text.</p>
-        <p className="text-xl text-gray-500">This is the second line of styled text.</p>
+  return (
+    <div className="mt-4 p-4">
+      <h3 className="text-4xl font-semibold text-gray-700 text-center mb-4">
+        换人
+      </h3>
+      <div className="flex items-center justify-between text-2xl my-4">
+        <span className="text-gray-700 font-medium">上 3号 赵继伟</span>
+        <span className="text-3xl text-gray-500 font-light mx-4">—</span>
+        <span className="text-gray-700 font-medium">下 36号 鄢手骐</span>
       </div>
-    );
-  };
-  
-  export default AlertText
+    </div>
+  );
+};
+
+export default AlertText;

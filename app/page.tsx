@@ -16,13 +16,17 @@ export default function Home() {
     <div className="p-8 h-screen">
       <p>Current time: {currentSeconds}</p>
       {/* Row 1: Pad and Player horizontally */}
-      <div className="flex space-x-4 h-4/6">
-        <Pad />
-        <Player onTimeUpdate={handleTimeUpdate}/>
+      <div className="flex space-x-4">
+        <div className="flex-1">
+          <Pad currentSeconds={currentSeconds}/>
+        </div>
+        <div className="flex-1">
+          <Player onTimeUpdate={handleTimeUpdate}/>
+        </div>
       </div>
 
       {/* Row 2: Feed below */}
-      <div className="h-2/6">
+      <div className="">
         <Feed />
       </div>
     </div>
