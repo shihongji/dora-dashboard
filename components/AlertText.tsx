@@ -1,5 +1,4 @@
 import { GameInsight } from "@data/GenData";
-import { useEffect, useState } from "react";
 
 interface AlertTextProps {
   gameInsight: GameInsight | null;
@@ -7,16 +6,6 @@ interface AlertTextProps {
 
 // components/StyledText.tsx
 const AlertText: React.FC<AlertTextProps> = ({ gameInsight }) => {
-  const [currentInsight, setCurrentInsight] = useState({
-    event_type: gameInsight?.event_type || "暂无置顶事件",
-    event_description: gameInsight?.event_description || "点击下方事件置顶",
-  })
-
-  useEffect(() => {
-    if (gameInsight) {
-      setCurrentInsight(gameInsight);
-    }
-  }, [gameInsight]);
 
   return (
     <div className="mt-4 p-4">
