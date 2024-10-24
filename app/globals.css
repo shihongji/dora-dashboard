@@ -26,3 +26,12 @@ body {
     text-wrap: balance;
   }
 }
+
+.resizable-container {
+  resize:vertical; /* Allow resizing both horizontally and vertically */
+  overflow: auto; /* Ensure content scrolls if it exceeds the size */
+  min-width: 200px; /* Set minimum dimensions to avoid shrinking too much */
+  min-height: 50px;
+  max-width: 100%; /* Prevent exceeding the parent's width */
+  max-height: 200%; /* Prevent exceeding the parent's height */
+}
