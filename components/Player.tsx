@@ -29,11 +29,12 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
       {isMounted ? (
         <div className="rounded-lg shadow-md overflow-auto">
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=ZUXj6HRJCYQ"
+          url="https://www.youtube.com/watch?v=ZUXj6HRJCYQ&t=21s"
           controls={true}
           width={"100%"}
           height={"500px"}
           onProgress={handleProgress}
+          volume={0.2}
         />
         </div>
       ) : (
