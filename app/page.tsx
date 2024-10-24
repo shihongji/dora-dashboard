@@ -7,6 +7,7 @@ import { useState } from "react";
 import { GameInfo, GameInsight } from "@data/GenData";
 import gameInfoArrayFile from "@data/gameInfo.json";
 import gameInsightArrayFile from "@data/gameInsights.json";
+import Header from "@components/Header";
 
 export default function Home() {
   const [, setCurrentSeconds] = useState(0);
@@ -65,6 +66,8 @@ export default function Home() {
   };
 
   return (
+    <div>
+      <Header />
     <div className="p-8 h-screen">
       {/* Row 1: Pad and Player horizontally */}
       <div className="flex space-x-4">
@@ -80,6 +83,7 @@ export default function Home() {
       <div className="">
         <Feed gameInsightArray={gameInsights} onItemClick={handleItemClick}/>
       </div>
+    </div>
     </div>
   );
 }
