@@ -1,6 +1,6 @@
 'use client';
 import React, { useState, useEffect } from 'react';
-import { GameInsight } from '@/data/GenData';
+import { GameInsight } from '@data/GenData';
 // Define the structure of each advice
 
 interface FeedProps {

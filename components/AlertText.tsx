@@ -1,4 +1,4 @@
-import { GameInsight } from "@/data/GenData";
+import { GameInsight } from "@data/GenData";
 import { useEffect, useState } from "react";
 
 interface AlertTextProps {
