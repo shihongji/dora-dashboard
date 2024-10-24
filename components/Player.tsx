@@ -9,7 +9,7 @@ interface PlayerProps {
 
 const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [isMounted, setIsMounted] = useState(false);
-  const [palyedSeconds, setPalyedSeconds] = useState(0);
+  const [, setPalyedSeconds] = useState(0);
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
     // trim the decimal points to 2
@@ -18,9 +18,6 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
     onTimeUpdate(playedSeconds);
   }
 
-  const formatTime = (seconds: number) => {
-    return `current: ${seconds}`;
-  };
 
   // Ensure the player only renders on the client side
   useEffect(() => {

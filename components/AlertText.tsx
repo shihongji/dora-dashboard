@@ -16,7 +16,7 @@ const AlertText: React.FC<AlertTextProps> = ({ gameInsight }) => {
     if (gameInsight) {
       setCurrentInsight(gameInsight);
     }
-  });
+  }, []);
 
   return (
     <div className="mt-4 p-4">

@@ -9,7 +9,7 @@ import gameInfoArrayFile from "@/data/gameinfo.json";
 import gameInsightArrayFile from "@/data/gameInsights.json";
 
 export default function Home() {
-  const [currentSeconds, setCurrentSeconds] = useState(0);
+  const [, setCurrentSeconds] = useState(0);
   const [pinnedInsight, setPinnedInsight] = useState<GameInsight | null>(null);
   const [gameInfo, setGameInfo] = useState<Partial<GameInfo>>({});
   const [gameInsights, setGameInsights] = useState<GameInsight[]>([]);
@@ -19,7 +19,7 @@ export default function Home() {
   }
 
   // read from the data file
-  let gameInfoArray: Partial<GameInfo>[] = gameInfoArrayFile;
+  const gameInfoArray: Partial<GameInfo>[] = gameInfoArrayFile;
   gameInfoArray.sort((a, b) => a.game_time! - b.game_time!);
   // Update the game info to the current time
   const updateGameInfo = (seconds: number): void => {
@@ -40,7 +40,7 @@ export default function Home() {
   const updateGameInsights = (seconds: number): void => {
     // loop the array, append to the gameInsights
     let newInsights = gameInsights;
-    let lastTimeExist = gameInsights[0] ? gameInsights[0].video_time! : 0;
+    const lastTimeExist = gameInsights[0] ? gameInsights[0].video_time! : 0;
     if (lastTimeExist >= seconds) {
       newInsights = [];
     }
