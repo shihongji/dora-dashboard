@@ -75,3 +75,5 @@
 - status
     - Ongoing
     - Pause
+
+We'd better not show `time_left_in_quarter`, as this is hardly inferable from video. It's controlled by the committee.
