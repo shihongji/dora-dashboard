@@ -1,12 +1,12 @@
 "use client";
 
-import Pad from "@/components/Pad";
-import Player from "@/components/Player";
-import Feed from "@/components/Feed";
+import Pad from "@components/Pad";
+import Player from "@components/Player";
+import Feed from "@components/Feed";
 import { useState } from "react";
-import { GameInfo, GameInsight } from "@/data/GenData";
-import gameInfoArrayFile from "@/data/gameinfo.json";
-import gameInsightArrayFile from "@/data/gameInsights.json";
+import { GameInfo, GameInsight } from "@data/GenData";
+import gameInfoArrayFile from "@data/gameInfo.json";
+import gameInsightArrayFile from "@data/gameInsights.json";
 
 export default function Home() {
   const [, setCurrentSeconds] = useState(0);
