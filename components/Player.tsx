@@ -30,12 +30,12 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   return (
     <div className="flex-1 bg-gray-300">
       {isMounted ? (
-        <div className="rounded-lg shadow-md overflow-hidden">
+        <div className="rounded-lg shadow-md overflow-auto">
         <ReactPlayer
-          url="ot.mp4"
+          url="https://www.youtube.com/watch?v=ZUXj6HRJCYQ"
           controls={true}
           width={"100%"}
-          height={"95%"}
+          height={"500px"}
           onProgress={handleProgress}
         />
         </div>
