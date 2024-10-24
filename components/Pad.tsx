@@ -2,9 +2,14 @@
 import AlertText from "@/components/AlertText";
 import ScoreBoard from "@/components/ScoreBoard";
 import { useEffect, useState } from "react";
-import { GameInfo } from "@/data/GenData";
+import { GameInfo, GameInsight } from "@/data/GenData";
 
-const Pad = ({ gameInfo }: { gameInfo: Partial<GameInfo> }) => {
+interface PadProps {
+  gameInfo: Partial<GameInfo>;
+  gameInsight: GameInsight | null;
+}
+
+const Pad: React.FC<PadProps> = ({ gameInfo, gameInsight }) => {
   // Set initial state with fallback/default values
   const [gameState, setGameState] = useState({
     team1: gameInfo?.home_team?.team_name || "Team A",
@@ -31,7 +36,7 @@ const Pad = ({ gameInfo }: { gameInfo: Partial<GameInfo> }) => {
 
   return (
     <>
-      <div className="bg-gray-300 h-full">
+      <div className="bg-slate-100 h-full rounded-lg shadow-md">
         <ScoreBoard
           team1={gameState.team1}
           team2={gameState.team2}
@@ -40,9 +45,9 @@ const Pad = ({ gameInfo }: { gameInfo: Partial<GameInfo> }) => {
           quarter={gameState.quarter.toString()}
           timeRemaining={gameState.timeRemaining}
         />
-        <div className="flex-1 bg-gray-200 p-4 flex items-center justify-center">
+        <div className="flex-1 bg-gray-100 p-4 flex items-center justify-center">
           <div className="flex items-center justify-center h-full">
-            <AlertText />
+            <AlertText gameInsight={gameInsight} />
           </div>
         </div>
       </div>

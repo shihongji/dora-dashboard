@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'cp-light-blue': "#8ECAE6",
+        'cp-blue': "#219EBC",
+        'cp-dark-blue': "#023047",
+        'cp-yellow': "#FFB703",
+        'cp-orange': "#FB8500",
+        'cp-bg-light': "#fefae0",
       },
     },
   },

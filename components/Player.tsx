@@ -28,8 +28,9 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   }, []);
 
   return (
-    <div className="flex-1 bg-gray-300 p-2">
+    <div className="flex-1 bg-gray-300">
       {isMounted ? (
+        <div className="rounded-lg shadow-md overflow-hidden">
         <ReactPlayer
           url="ot.mp4"
           controls={true}
@@ -37,6 +38,7 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
           height={"95%"}
           onProgress={handleProgress}
         />
+        </div>
       ) : (
         <p>Loading player...</p> // Optional: a fallback or loader while the player mounts
       )}
