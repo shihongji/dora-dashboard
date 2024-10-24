@@ -9,16 +9,15 @@ interface PlayerProps {
 
 const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [isMounted, setIsMounted] = useState(false);
-  const [palyedSeconds, setPalyedSeconds] = useState(0);
+  const [, setPalyedSeconds] = useState(0);
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
+    // trim the decimal points to 2
+    playedSeconds = Math.round(playedSeconds * 100) / 100;
     setPalyedSeconds(playedSeconds);
     onTimeUpdate(playedSeconds);
   }
 
-  const formatTime = (seconds: number) => {
-    return `current: ${seconds}`;
-  };
 
   // Ensure the player only renders on the client side
   useEffect(() => {
@@ -26,16 +25,17 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   }, []);
 
   return (
-    <div className="flex-1 bg-gray-300 p-4">
-      <h2>Player</h2>
+    <div className="flex-1 bg-gray-300">
       {isMounted ? (
+        <div className="rounded-lg shadow-md overflow-auto">
         <ReactPlayer
-          url="ot.mp4"
+          url="https://www.youtube.com/watch?v=ZUXj6HRJCYQ"
           controls={true}
           width={"100%"}
-          height={"95%"}
+          height={"500px"}
           onProgress={handleProgress}
         />
+        </div>
       ) : (
         <p>Loading player...</p> // Optional: a fallback or loader while the player mounts
       )}

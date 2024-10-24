@@ -1,0 +1,3530 @@
+[
+  {
+    "id": "lrhmn8s07c",
+    "game_id": "zbrwuymsf39",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 74
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 59
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2160,
+    "quarter": 4,
+    "time_left_in_quarter": "12:00",
+    "possession": "home"
+  },
+  {
+    "id": "clyfbldt8vw",
+    "game_id": "8bjkbdfpz8k",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 74
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 59
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2166,
+    "quarter": 4,
+    "time_left_in_quarter": "11:54",
+    "possession": "away"
+  },
+  {
+    "id": "oshh10sasy",
+    "game_id": "xehcliqwpkl",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 59
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2174,
+    "quarter": 4,
+    "time_left_in_quarter": "11:46",
+    "possession": "away"
+  },
+  {
+    "id": "8i5fatizp82",
+    "game_id": "r9cj6fwnvv",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 59
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2180,
+    "quarter": 4,
+    "time_left_in_quarter": "11:40",
+    "possession": "away"
+  },
+  {
+    "id": "b7s1bs5576u",
+    "game_id": "hibcpuntvvb",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2182,
+    "quarter": 4,
+    "time_left_in_quarter": "11:38",
+    "possession": "home"
+  },
+  {
+    "id": "md06gsi1abq",
+    "game_id": "mtdp5a0ry9b",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2191,
+    "quarter": 4,
+    "time_left_in_quarter": "11:29",
+    "possession": "home"
+  },
+  {
+    "id": "ufexvrfed8d",
+    "game_id": "6lktjp2w0w",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2191,
+    "quarter": 4,
+    "time_left_in_quarter": "11:29",
+    "possession": "away"
+  },
+  {
+    "id": "92ssone92n7",
+    "game_id": "kcvoltpti7",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2198,
+    "quarter": 4,
+    "time_left_in_quarter": "11:22",
+    "possession": "home"
+  },
+  {
+    "id": "pywjij7l88h",
+    "game_id": "ujyc6vgijqo",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2204,
+    "quarter": 4,
+    "time_left_in_quarter": "11:16",
+    "possession": "home"
+  },
+  {
+    "id": "6nwoujct76",
+    "game_id": "sxrt2mioh7r",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 62
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2208,
+    "quarter": 4,
+    "time_left_in_quarter": "11:12",
+    "possession": "away"
+  },
+  {
+    "id": "26pp8p0yuynh",
+    "game_id": "orrodp26ebp",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 65
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2215,
+    "quarter": 4,
+    "time_left_in_quarter": "11:05",
+    "possession": "home"
+  },
+  {
+    "id": "p5beowfzqf",
+    "game_id": "m59ot6biqic",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 65
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2218,
+    "quarter": 4,
+    "time_left_in_quarter": "11:02",
+    "possession": "away"
+  },
+  {
+    "id": "nxklj8x417",
+    "game_id": "owusggaquk",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 65
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2221,
+    "quarter": 4,
+    "time_left_in_quarter": "10:59",
+    "possession": "home"
+  },
+  {
+    "id": "414e41s22dr",
+    "game_id": "pjcmpdib80c",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 68
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2227,
+    "quarter": 4,
+    "time_left_in_quarter": "10:53",
+    "possession": "home"
+  },
+  {
+    "id": "hfu57j5b6mi",
+    "game_id": "ters86lhh5",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 68
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2229,
+    "quarter": 4,
+    "time_left_in_quarter": "10:51",
+    "possession": "home"
+  },
+  {
+    "id": "l0fr4dlmf7",
+    "game_id": "ve5lxqq61z",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 68
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2229,
+    "quarter": 4,
+    "time_left_in_quarter": "10:51",
+    "possession": "away"
+  },
+  {
+    "id": "diootw8pnmm",
+    "game_id": "5oayoa0z0eg",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 70
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2229,
+    "quarter": 4,
+    "time_left_in_quarter": "10:51",
+    "possession": "home"
+  },
+  {
+    "id": "bmic88pexxr",
+    "game_id": "41drl5t7r7v",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 71
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2234,
+    "quarter": 4,
+    "time_left_in_quarter": "10:46",
+    "possession": "home"
+  },
+  {
+    "id": "2x0kjba7plh",
+    "game_id": "1ntdgvv0sg5",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 72
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2238,
+    "quarter": 4,
+    "time_left_in_quarter": "10:42",
+    "possession": "away"
+  },
+  {
+    "id": "fe4uviw83wb",
+    "game_id": "xl9vqk0edbe",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2239,
+    "quarter": 4,
+    "time_left_in_quarter": "10:41",
+    "possession": "home"
+  },
+  {
+    "id": "s2zico15vi",
+    "game_id": "6eltefx3hgo",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2243,
+    "quarter": 4,
+    "time_left_in_quarter": "10:37",
+    "possession": "home"
+  },
+  {
+    "id": "brkvy1hkwc8",
+    "game_id": "t3hwln6excf",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2243,
+    "quarter": 4,
+    "time_left_in_quarter": "10:37",
+    "possession": "away"
+  },
+  {
+    "id": "mmq8y5ynuge",
+    "game_id": "8r3uz8wjbnv",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2252,
+    "quarter": 4,
+    "time_left_in_quarter": "10:28",
+    "possession": "home"
+  },
+  {
+    "id": "fstn9ziadne",
+    "game_id": "le64x5z7ut",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2253,
+    "quarter": 4,
+    "time_left_in_quarter": "10:27",
+    "possession": "away"
+  },
+  {
+    "id": "u0i359vr5oc",
+    "game_id": "wdelyisf5mr",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2256,
+    "quarter": 4,
+    "time_left_in_quarter": "10:24",
+    "possession": "away"
+  },
+  {
+    "id": "ss3428503kb",
+    "game_id": "lc9uzc14h8s",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2262,
+    "quarter": 4,
+    "time_left_in_quarter": "10:18",
+    "possession": "away"
+  },
+  {
+    "id": "isb0655rlc",
+    "game_id": "4ek1qbr1xtt",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2264,
+    "quarter": 4,
+    "time_left_in_quarter": "10:16",
+    "possession": "away"
+  },
+  {
+    "id": "on4vk0jgb9t",
+    "game_id": "dakl88eh6m8",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2266,
+    "quarter": 4,
+    "time_left_in_quarter": "10:14",
+    "possession": "away"
+  },
+  {
+    "id": "wqw6xa1mngi",
+    "game_id": "p3qt9h2rau",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 75
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2266,
+    "quarter": 4,
+    "time_left_in_quarter": "10:14",
+    "possession": "away"
+  },
+  {
+    "id": "5nxse5ukj8b",
+    "game_id": "zy1atrofmki",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2270,
+    "quarter": 4,
+    "time_left_in_quarter": "10:10",
+    "possession": "home"
+  },
+  {
+    "id": "yt6q9q1jhk",
+    "game_id": "at752xspvtq",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2279,
+    "quarter": 4,
+    "time_left_in_quarter": "10:01",
+    "possession": "home"
+  },
+  {
+    "id": "e62xki9aksg",
+    "game_id": "s9i6b5b1y8h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2288,
+    "quarter": 4,
+    "time_left_in_quarter": "9:52",
+    "possession": "home"
+  },
+  {
+    "id": "h3bad9yt9eb",
+    "game_id": "3tiuty05t3w",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 73
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2294,
+    "quarter": 4,
+    "time_left_in_quarter": "9:46",
+    "possession": "away"
+  },
+  {
+    "id": "l935qmcg2",
+    "game_id": "67zfr86aqz6",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 75
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2302,
+    "quarter": 4,
+    "time_left_in_quarter": "9:38",
+    "possession": "home"
+  },
+  {
+    "id": "6aqzp259mph",
+    "game_id": "882286ggii",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 75
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2305,
+    "quarter": 4,
+    "time_left_in_quarter": "9:35",
+    "possession": "home"
+  },
+  {
+    "id": "2f10r0ehqds",
+    "game_id": "7elhsr8fn55",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 78
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2312,
+    "quarter": 4,
+    "time_left_in_quarter": "9:28",
+    "possession": "home"
+  },
+  {
+    "id": "wdq1f9olzvn",
+    "game_id": "k35smhlx1a",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 78
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2312,
+    "quarter": 4,
+    "time_left_in_quarter": "9:28",
+    "possession": "away"
+  },
+  {
+    "id": "29lv0fny6q4",
+    "game_id": "w7hurkkri3",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2315,
+    "quarter": 4,
+    "time_left_in_quarter": "9:25",
+    "possession": "away"
+  },
+  {
+    "id": "tnovqo4ha2",
+    "game_id": "yvqf7vppk",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2323,
+    "quarter": 4,
+    "time_left_in_quarter": "9:17",
+    "possession": "away"
+  },
+  {
+    "id": "v6xf4zggppt",
+    "game_id": "i8xlu71dzre",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2332,
+    "quarter": 4,
+    "time_left_in_quarter": "9:08",
+    "possession": "away"
+  },
+  {
+    "id": "rt25ufbk0xl",
+    "game_id": "thdmzqajddg",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2339,
+    "quarter": 4,
+    "time_left_in_quarter": "9:01",
+    "possession": "home"
+  },
+  {
+    "id": "7iv64uti88a",
+    "game_id": "7lg95mof9ec",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2339,
+    "quarter": 4,
+    "time_left_in_quarter": "9:01",
+    "possession": "away"
+  },
+  {
+    "id": "tqfa2iccfsf",
+    "game_id": "g7qrmtsm0x",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 80
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2341,
+    "quarter": 4,
+    "time_left_in_quarter": "8:59",
+    "possession": "home"
+  },
+  {
+    "id": "be6ebw80sjk",
+    "game_id": "bbabagpbjpl",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2349,
+    "quarter": 4,
+    "time_left_in_quarter": "8:51",
+    "possession": "home"
+  },
+  {
+    "id": "zwna8lb2mri",
+    "game_id": "s5d0kn4br1r",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 78
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2358,
+    "quarter": 4,
+    "time_left_in_quarter": "8:42",
+    "possession": "away"
+  },
+  {
+    "id": "4pnpuvey4u",
+    "game_id": "dd29s1p9yn8",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2358,
+    "quarter": 4,
+    "time_left_in_quarter": "8:42",
+    "possession": "home"
+  },
+  {
+    "id": "57bspzig9sc",
+    "game_id": "zg509bvz7lr",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2367,
+    "quarter": 4,
+    "time_left_in_quarter": "8:33",
+    "possession": "home"
+  },
+  {
+    "id": "u0gj43thf6",
+    "game_id": "5xng293cpdh",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2367,
+    "quarter": 4,
+    "time_left_in_quarter": "8:33",
+    "possession": "home"
+  },
+  {
+    "id": "4bax8k6mgv1",
+    "game_id": "vbb8umx4v8h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 83
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2370,
+    "quarter": 4,
+    "time_left_in_quarter": "8:30",
+    "possession": "home"
+  },
+  {
+    "id": "ikx7fiu61dr",
+    "game_id": "kzot55hdch",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2371,
+    "quarter": 4,
+    "time_left_in_quarter": "8:29",
+    "possession": "home"
+  },
+  {
+    "id": "yik83xkz48",
+    "game_id": "881uo5cvj6h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2378,
+    "quarter": 4,
+    "time_left_in_quarter": "8:22",
+    "possession": "away"
+  },
+  {
+    "id": "c2sbi4j8zg",
+    "game_id": "yx9h6kgwtm",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2379,
+    "quarter": 4,
+    "time_left_in_quarter": "8:21",
+    "possession": "home"
+  },
+  {
+    "id": "c33lwngbm8o",
+    "game_id": "d62d0nj4atc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2384,
+    "quarter": 4,
+    "time_left_in_quarter": "8:16",
+    "possession": "home"
+  },
+  {
+    "id": "t01pxpif3f7",
+    "game_id": "azlzi2jbmd",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 80
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2388,
+    "quarter": 4,
+    "time_left_in_quarter": "8:12",
+    "possession": "home"
+  },
+  {
+    "id": "ftfc77n836",
+    "game_id": "4ttcs7ueotd",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 83
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2391,
+    "quarter": 4,
+    "time_left_in_quarter": "8:09",
+    "possession": "away"
+  },
+  {
+    "id": "zkr13lm5nnb",
+    "game_id": "b9f9zcejfvs",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 83
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2395,
+    "quarter": 4,
+    "time_left_in_quarter": "8:05",
+    "possession": "away"
+  },
+  {
+    "id": "xmfmjgnt0pk",
+    "game_id": "ztv2ftuuc8f",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2398,
+    "quarter": 4,
+    "time_left_in_quarter": "8:02",
+    "possession": "home"
+  },
+  {
+    "id": "mooa1vhnx8g",
+    "game_id": "qwj6obc00a",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2402,
+    "quarter": 4,
+    "time_left_in_quarter": "7:58",
+    "possession": "away"
+  },
+  {
+    "id": "ppebk0ircam",
+    "game_id": "berk49p454",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2404,
+    "quarter": 4,
+    "time_left_in_quarter": "7:56",
+    "possession": "home"
+  },
+  {
+    "id": "vwye2lmd1c8",
+    "game_id": "u5xffbgpgvo",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2410,
+    "quarter": 4,
+    "time_left_in_quarter": "7:50",
+    "possession": "home"
+  },
+  {
+    "id": "0x4m1rv2p5b",
+    "game_id": "n6qtoigkjyr",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2412,
+    "quarter": 4,
+    "time_left_in_quarter": "7:48",
+    "possession": "home"
+  },
+  {
+    "id": "b96i5y2vh6h",
+    "game_id": "uaxephcub8n",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2412,
+    "quarter": 4,
+    "time_left_in_quarter": "7:48",
+    "possession": "home"
+  },
+  {
+    "id": "rpx78xep1zo",
+    "game_id": "bbe0ij5cc2k",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2417,
+    "quarter": 4,
+    "time_left_in_quarter": "7:43",
+    "possession": "away"
+  },
+  {
+    "id": "epuajcr5lvr",
+    "game_id": "te14ft10fxi",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2426,
+    "quarter": 4,
+    "time_left_in_quarter": "7:34",
+    "possession": "away"
+  },
+  {
+    "id": "uvel305knqc",
+    "game_id": "dli3hobthg9",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2428,
+    "quarter": 4,
+    "time_left_in_quarter": "7:32",
+    "possession": "home"
+  },
+  {
+    "id": "q2kbhgua14f",
+    "game_id": "jmczgc3vkfl",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2437,
+    "quarter": 4,
+    "time_left_in_quarter": "7:23",
+    "possession": "away"
+  },
+  {
+    "id": "1w8sbck6rg0h",
+    "game_id": "e1bdkjvj8l9",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2437,
+    "quarter": 4,
+    "time_left_in_quarter": "7:23",
+    "possession": "home"
+  },
+  {
+    "id": "xd6ot9rjo6k",
+    "game_id": "xkasue1rl5g",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2445,
+    "quarter": 4,
+    "time_left_in_quarter": "7:15",
+    "possession": "home"
+  },
+  {
+    "id": "61vmwr4qbvw",
+    "game_id": "g9jjnpuz1s",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2450,
+    "quarter": 4,
+    "time_left_in_quarter": "7:10",
+    "possession": "home"
+  },
+  {
+    "id": "jv4l8eb78w",
+    "game_id": "bdqbi1kmb4f",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 84
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2452,
+    "quarter": 4,
+    "time_left_in_quarter": "7:08",
+    "possession": "away"
+  },
+  {
+    "id": "xdhnnqe09e",
+    "game_id": "wqhp1xeeayk",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 86
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2454,
+    "quarter": 4,
+    "time_left_in_quarter": "7:06",
+    "possession": "home"
+  },
+  {
+    "id": "79b84znn0ij",
+    "game_id": "2x51gjbnb3p",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2461,
+    "quarter": 4,
+    "time_left_in_quarter": "6:59",
+    "possession": "home"
+  },
+  {
+    "id": "ukz9xh0tzrf",
+    "game_id": "oe5jvy4kk5",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2461,
+    "quarter": 4,
+    "time_left_in_quarter": "6:59",
+    "possession": "away"
+  },
+  {
+    "id": "ubfz6k0a86",
+    "game_id": "3serpv2wmv4",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2467,
+    "quarter": 4,
+    "time_left_in_quarter": "6:53",
+    "possession": "home"
+  },
+  {
+    "id": "f10raexj87c",
+    "game_id": "kflkp5vhxb8",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2472,
+    "quarter": 4,
+    "time_left_in_quarter": "6:48",
+    "possession": "away"
+  },
+  {
+    "id": "4zm2jwx625f",
+    "game_id": "ad7p6qzst3m",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2472,
+    "quarter": 4,
+    "time_left_in_quarter": "6:48",
+    "possession": "home"
+  },
+  {
+    "id": "c9u7dwpu6tg",
+    "game_id": "wwvqdun6vf",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2475,
+    "quarter": 4,
+    "time_left_in_quarter": "6:45",
+    "possession": "home"
+  },
+  {
+    "id": "mkulu6aojpl",
+    "game_id": "0ehas0oxeoxp",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2478,
+    "quarter": 4,
+    "time_left_in_quarter": "6:42",
+    "possession": "away"
+  },
+  {
+    "id": "14yuvvejlvk",
+    "game_id": "dyw34rcrgcd",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2481,
+    "quarter": 4,
+    "time_left_in_quarter": "6:39",
+    "possession": "home"
+  },
+  {
+    "id": "qnfqnl76phs",
+    "game_id": "xksshvofzi",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2483,
+    "quarter": 4,
+    "time_left_in_quarter": "6:37",
+    "possession": "home"
+  },
+  {
+    "id": "tu8ihj2lam",
+    "game_id": "zspfrc63o5",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2491,
+    "quarter": 4,
+    "time_left_in_quarter": "6:29",
+    "possession": "home"
+  },
+  {
+    "id": "wqbzynibmls",
+    "game_id": "qdzgtsb0ci9",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2495,
+    "quarter": 4,
+    "time_left_in_quarter": "6:25",
+    "possession": "away"
+  },
+  {
+    "id": "9b728w7dr1u",
+    "game_id": "tjfv8eemwr",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2498,
+    "quarter": 4,
+    "time_left_in_quarter": "6:22",
+    "possession": "away"
+  },
+  {
+    "id": "8h5247dgmzu",
+    "game_id": "sx2rmwkku48",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2507,
+    "quarter": 4,
+    "time_left_in_quarter": "6:13",
+    "possession": "home"
+  },
+  {
+    "id": "n1eye7kccv",
+    "game_id": "a8sbxky0pjl",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2507,
+    "quarter": 4,
+    "time_left_in_quarter": "6:13",
+    "possession": "home"
+  },
+  {
+    "id": "rzfst36k1xj",
+    "game_id": "t8l6urlbvnp",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2512,
+    "quarter": 4,
+    "time_left_in_quarter": "6:08",
+    "possession": "home"
+  },
+  {
+    "id": "ccu820h7rfv",
+    "game_id": "hirt40ci5j6",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2512,
+    "quarter": 4,
+    "time_left_in_quarter": "6:08",
+    "possession": "home"
+  },
+  {
+    "id": "iwvranc7rcd",
+    "game_id": "2jjhltr96gu",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 85
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2519,
+    "quarter": 4,
+    "time_left_in_quarter": "6:01",
+    "possession": "away"
+  },
+  {
+    "id": "q8dth3d4szf",
+    "game_id": "nos8f3ijrb",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 87
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2524,
+    "quarter": 4,
+    "time_left_in_quarter": "5:56",
+    "possession": "home"
+  },
+  {
+    "id": "f9mxz70olfk",
+    "game_id": "2cyytlao0vc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 87
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2531,
+    "quarter": 4,
+    "time_left_in_quarter": "5:49",
+    "possession": "away"
+  },
+  {
+    "id": "jxvzeiewh7h",
+    "game_id": "205k9sbxrrc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 87
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2533,
+    "quarter": 4,
+    "time_left_in_quarter": "5:47",
+    "possession": "away"
+  },
+  {
+    "id": "atwcj6tonpr",
+    "game_id": "h1n4v16t3l",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 87
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2534,
+    "quarter": 4,
+    "time_left_in_quarter": "5:46",
+    "possession": "away"
+  },
+  {
+    "id": "tuaz7bae3ph",
+    "game_id": "ksklhogjm8a",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 87
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2541,
+    "quarter": 4,
+    "time_left_in_quarter": "5:39",
+    "possession": "away"
+  },
+  {
+    "id": "hpgs01lrvy",
+    "game_id": "df3sfyvtd4",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 89
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2549,
+    "quarter": 4,
+    "time_left_in_quarter": "5:31",
+    "possession": "home"
+  },
+  {
+    "id": "5wxuxw5ur3",
+    "game_id": "tn5prvjsetn",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 89
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2557,
+    "quarter": 4,
+    "time_left_in_quarter": "5:23",
+    "possession": "home"
+  },
+  {
+    "id": "e8fm02x923b",
+    "game_id": "eg3gyqkzqpj",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 89
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2557,
+    "quarter": 4,
+    "time_left_in_quarter": "5:23",
+    "possession": "away"
+  },
+  {
+    "id": "zo21nb5hpd",
+    "game_id": "vihv6jotq2",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 89
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2558,
+    "quarter": 4,
+    "time_left_in_quarter": "5:22",
+    "possession": "home"
+  },
+  {
+    "id": "cfg01dv5kff",
+    "game_id": "dn2f25yof3l",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 91
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2561,
+    "quarter": 4,
+    "time_left_in_quarter": "5:19",
+    "possession": "away"
+  },
+  {
+    "id": "gb7hqweekjm",
+    "game_id": "yyc4w6dhj9h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 91
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 89
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2565,
+    "quarter": 4,
+    "time_left_in_quarter": "5:15",
+    "possession": "home"
+  },
+  {
+    "id": "f6rc5oiib6o",
+    "game_id": "ep0g186xu5n",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 91
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2566,
+    "quarter": 4,
+    "time_left_in_quarter": "5:14",
+    "possession": "away"
+  },
+  {
+    "id": "w8wsb2hx6y",
+    "game_id": "4725fmznaxw",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2566,
+    "quarter": 4,
+    "time_left_in_quarter": "5:14",
+    "possession": "away"
+  },
+  {
+    "id": "f5l5p0wyl5k",
+    "game_id": "50bia8hb2u4",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2569,
+    "quarter": 4,
+    "time_left_in_quarter": "5:11",
+    "possession": "away"
+  },
+  {
+    "id": "hxj45wldsw",
+    "game_id": "hhohpbasxlg",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2576,
+    "quarter": 4,
+    "time_left_in_quarter": "5:04",
+    "possession": "away"
+  },
+  {
+    "id": "qhhgw3z7y7",
+    "game_id": "ca5p6rysqj",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2584,
+    "quarter": 4,
+    "time_left_in_quarter": "4:56",
+    "possession": "away"
+  },
+  {
+    "id": "kv0mt4q41r",
+    "game_id": "oaxqedafoar",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2593,
+    "quarter": 4,
+    "time_left_in_quarter": "4:47",
+    "possession": "home"
+  },
+  {
+    "id": "h72495jkiqw",
+    "game_id": "0mmput52mhd",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 94
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2594,
+    "quarter": 4,
+    "time_left_in_quarter": "4:46",
+    "possession": "home"
+  },
+  {
+    "id": "fdgs6eg2ol",
+    "game_id": "ikczi1carch",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2597,
+    "quarter": 4,
+    "time_left_in_quarter": "4:43",
+    "possession": "home"
+  },
+  {
+    "id": "yodac1ibf08",
+    "game_id": "ejmlv520fve",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2606,
+    "quarter": 4,
+    "time_left_in_quarter": "4:34",
+    "possession": "away"
+  },
+  {
+    "id": "0jhgf2dmuqqd",
+    "game_id": "np8ptezrp5",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2606,
+    "quarter": 4,
+    "time_left_in_quarter": "4:34",
+    "possession": "home"
+  },
+  {
+    "id": "fg5te94otuu",
+    "game_id": "9x8tjloayv",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2613,
+    "quarter": 4,
+    "time_left_in_quarter": "4:27",
+    "possession": "away"
+  },
+  {
+    "id": "1os7wmlj2qm",
+    "game_id": "z7os8mje2t",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2622,
+    "quarter": 4,
+    "time_left_in_quarter": "4:18",
+    "possession": "away"
+  },
+  {
+    "id": "vns8q6e4gl8",
+    "game_id": "un525kitqn9",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2630,
+    "quarter": 4,
+    "time_left_in_quarter": "4:10",
+    "possession": "home"
+  },
+  {
+    "id": "hmju10j80os",
+    "game_id": "pgbyoreqb8s",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2635,
+    "quarter": 4,
+    "time_left_in_quarter": "4:05",
+    "possession": "home"
+  },
+  {
+    "id": "uzqccrgk3yj",
+    "game_id": "phle7vxfqi",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2637,
+    "quarter": 4,
+    "time_left_in_quarter": "4:03",
+    "possession": "home"
+  },
+  {
+    "id": "92z2adl0qz",
+    "game_id": "08pez2hs8gcn",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2642,
+    "quarter": 4,
+    "time_left_in_quarter": "3:58",
+    "possession": "away"
+  },
+  {
+    "id": "yn9vetsu6ua",
+    "game_id": "75h2ogv7e1f",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2647,
+    "quarter": 4,
+    "time_left_in_quarter": "3:53",
+    "possession": "home"
+  },
+  {
+    "id": "n25q76cnd78",
+    "game_id": "ahkylrbtfki",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 92
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2652,
+    "quarter": 4,
+    "time_left_in_quarter": "3:48",
+    "possession": "away"
+  },
+  {
+    "id": "0u4jr36op20k",
+    "game_id": "w19pn67swq",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 94
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2659,
+    "quarter": 4,
+    "time_left_in_quarter": "3:41",
+    "possession": "home"
+  },
+  {
+    "id": "haqd46187gg",
+    "game_id": "gbp7395xc7",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 95
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2668,
+    "quarter": 4,
+    "time_left_in_quarter": "3:32",
+    "possession": "home"
+  },
+  {
+    "id": "jusvcqf9kt",
+    "game_id": "nf6lnjihbc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 95
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2673,
+    "quarter": 4,
+    "time_left_in_quarter": "3:27",
+    "possession": "away"
+  },
+  {
+    "id": "kegpiy2nn5r",
+    "game_id": "lplbsggyfra",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 95
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2680,
+    "quarter": 4,
+    "time_left_in_quarter": "3:20",
+    "possession": "home"
+  },
+  {
+    "id": "buyweckpxq",
+    "game_id": "l3i1ldhbnuo",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 95
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2689,
+    "quarter": 4,
+    "time_left_in_quarter": "3:11",
+    "possession": "home"
+  },
+  {
+    "id": "ac75cxp0x7",
+    "game_id": "ucbrocyuq2h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 98
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2693,
+    "quarter": 4,
+    "time_left_in_quarter": "3:07",
+    "possession": "home"
+  },
+  {
+    "id": "ikx3r1s9e3b",
+    "game_id": "w12halqb84",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2693,
+    "quarter": 4,
+    "time_left_in_quarter": "3:07",
+    "possession": "away"
+  },
+  {
+    "id": "tq82dzenplr",
+    "game_id": "y3lfouepw5h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2698,
+    "quarter": 4,
+    "time_left_in_quarter": "3:02",
+    "possession": "home"
+  },
+  {
+    "id": "ssfxy778i9e",
+    "game_id": "qm5pbjr8fvc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2705,
+    "quarter": 4,
+    "time_left_in_quarter": "2:55",
+    "possession": "home"
+  },
+  {
+    "id": "knucgpxzuzp",
+    "game_id": "q5sf4eabus7",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2705,
+    "quarter": 4,
+    "time_left_in_quarter": "2:55",
+    "possession": "away"
+  },
+  {
+    "id": "ygpzpoowj0c",
+    "game_id": "9ebrv63ybwv",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2708,
+    "quarter": 4,
+    "time_left_in_quarter": "2:52",
+    "possession": "away"
+  },
+  {
+    "id": "kodvveuildf",
+    "game_id": "nml3gj4rq8h",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2717,
+    "quarter": 4,
+    "time_left_in_quarter": "2:43",
+    "possession": "away"
+  },
+  {
+    "id": "2xv6jhjxvxe",
+    "game_id": "yxr80bogx9a",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2722,
+    "quarter": 4,
+    "time_left_in_quarter": "2:38",
+    "possession": "away"
+  },
+  {
+    "id": "4mkzpmnu3d8",
+    "game_id": "bdl39z82kgi",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2728,
+    "quarter": 4,
+    "time_left_in_quarter": "2:32",
+    "possession": "home"
+  },
+  {
+    "id": "6m02992x937",
+    "game_id": "2nlv3o3jbz7",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 96
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2732,
+    "quarter": 4,
+    "time_left_in_quarter": "2:28",
+    "possession": "away"
+  },
+  {
+    "id": "9d9zluyff8d",
+    "game_id": "5fwi6sfig8",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 97
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2734,
+    "quarter": 4,
+    "time_left_in_quarter": "2:26",
+    "possession": "home"
+  },
+  {
+    "id": "6rug6phsmhu",
+    "game_id": "gaj8eb2ky8w",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2743,
+    "quarter": 4,
+    "time_left_in_quarter": "2:17",
+    "possession": "away"
+  },
+  {
+    "id": "omuit09ro5f",
+    "game_id": "x4qmvnuaqcq",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2749,
+    "quarter": 4,
+    "time_left_in_quarter": "2:11",
+    "possession": "away"
+  },
+  {
+    "id": "msndq5cuc4",
+    "game_id": "ywlymyfocv",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2750,
+    "quarter": 4,
+    "time_left_in_quarter": "2:10",
+    "possession": "away"
+  },
+  {
+    "id": "dzcexztwfnf",
+    "game_id": "9blx3fj2h1p",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 100
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2750,
+    "quarter": 4,
+    "time_left_in_quarter": "2:10",
+    "possession": "home"
+  },
+  {
+    "id": "fuom9rv0pg4",
+    "game_id": "134fha6k9uo",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2752,
+    "quarter": 4,
+    "time_left_in_quarter": "2:08",
+    "possession": "away"
+  },
+  {
+    "id": "g3fwzyln91c",
+    "game_id": "l5uos1tvfjg",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2755,
+    "quarter": 4,
+    "time_left_in_quarter": "2:05",
+    "possession": "home"
+  },
+  {
+    "id": "eb8voqnhtp5",
+    "game_id": "po3hd50gy1",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2764,
+    "quarter": 4,
+    "time_left_in_quarter": "1:56",
+    "possession": "home"
+  },
+  {
+    "id": "vjf3m76astr",
+    "game_id": "gb5exfs16ij",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 99
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2770,
+    "quarter": 4,
+    "time_left_in_quarter": "1:50",
+    "possession": "home"
+  },
+  {
+    "id": "9ov9vu1bl9",
+    "game_id": "u4ef7fgt7sj",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2774,
+    "quarter": 4,
+    "time_left_in_quarter": "1:46",
+    "possession": "home"
+  },
+  {
+    "id": "xc91iq9fei",
+    "game_id": "uznx32rh9m",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2782,
+    "quarter": 4,
+    "time_left_in_quarter": "1:38",
+    "possession": "home"
+  },
+  {
+    "id": "4ibggn7niro",
+    "game_id": "z0x052ykd1d",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2782,
+    "quarter": 4,
+    "time_left_in_quarter": "1:38",
+    "possession": "away"
+  },
+  {
+    "id": "cywxr78w3wh",
+    "game_id": "6qsyuvlue5r",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 101
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2790,
+    "quarter": 4,
+    "time_left_in_quarter": "1:30",
+    "possession": "away"
+  },
+  {
+    "id": "pf1fnaaruu",
+    "game_id": "92tevufbfr7",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2794,
+    "quarter": 4,
+    "time_left_in_quarter": "1:26",
+    "possession": "away"
+  },
+  {
+    "id": "391n5b6k7h9",
+    "game_id": "w86b7qxyfys",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2798,
+    "quarter": 4,
+    "time_left_in_quarter": "1:22",
+    "possession": "home"
+  },
+  {
+    "id": "g601llccv5b",
+    "game_id": "0dgnibx81qt",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 100
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2802,
+    "quarter": 4,
+    "time_left_in_quarter": "1:18",
+    "possession": "home"
+  },
+  {
+    "id": "yxx280cfoih",
+    "game_id": "5z6ohq3nq7l",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 102
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2803,
+    "quarter": 4,
+    "time_left_in_quarter": "1:17",
+    "possession": "home"
+  },
+  {
+    "id": "orj0luo976c",
+    "game_id": "o9noj9h50w",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 104
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2803,
+    "quarter": 4,
+    "time_left_in_quarter": "1:17",
+    "possession": "away"
+  },
+  {
+    "id": "0ojjzl07et7",
+    "game_id": "971d2vyx5or",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 104
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 102
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2804,
+    "quarter": 4,
+    "time_left_in_quarter": "1:16",
+    "possession": "home"
+  },
+  {
+    "id": "ugvlwmt5hec",
+    "game_id": "4fql2cx4scl",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 104
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 103
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2809,
+    "quarter": 4,
+    "time_left_in_quarter": "1:11",
+    "possession": "home"
+  },
+  {
+    "id": "hm7pxx11dpi",
+    "game_id": "j02ldmrbzn",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 104
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 103
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2815,
+    "quarter": 4,
+    "time_left_in_quarter": "1:05",
+    "possession": "home"
+  },
+  {
+    "id": "4vx02g1opcd",
+    "game_id": "qoshzvcbjj",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 106
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 103
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2817,
+    "quarter": 4,
+    "time_left_in_quarter": "1:03",
+    "possession": "home"
+  },
+  {
+    "id": "d9kuo7fz0m",
+    "game_id": "fx19ambyhu",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 106
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 103
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2824,
+    "quarter": 4,
+    "time_left_in_quarter": "0:56",
+    "possession": "away"
+  },
+  {
+    "id": "azbu4mj5wa",
+    "game_id": "jrjmw00rkc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 103
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2830,
+    "quarter": 4,
+    "time_left_in_quarter": "0:50",
+    "possession": "home"
+  },
+  {
+    "id": "ujw9s98f4gd",
+    "game_id": "lrn8e5y85r",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2837,
+    "quarter": 4,
+    "time_left_in_quarter": "0:43",
+    "possession": "home"
+  },
+  {
+    "id": "j2ffv4ps4rt",
+    "game_id": "fpljm1w6f66",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2840,
+    "quarter": 4,
+    "time_left_in_quarter": "0:40",
+    "possession": "away"
+  },
+  {
+    "id": "e4u7drhzx35",
+    "game_id": "76xu5vidrmf",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2849,
+    "quarter": 4,
+    "time_left_in_quarter": "0:31",
+    "possession": "home"
+  },
+  {
+    "id": "44puhtl5afn",
+    "game_id": "1kvx4hpbaqx",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2852,
+    "quarter": 4,
+    "time_left_in_quarter": "0:28",
+    "possession": "home"
+  },
+  {
+    "id": "xl85izmqnmi",
+    "game_id": "xvsax1fhx3m",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2859,
+    "quarter": 4,
+    "time_left_in_quarter": "0:21",
+    "possession": "home"
+  },
+  {
+    "id": "8ux7h8lso7l",
+    "game_id": "3ohhke94zi",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 109
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2859,
+    "quarter": 4,
+    "time_left_in_quarter": "0:21",
+    "possession": "away"
+  },
+  {
+    "id": "vivjbfn0fce",
+    "game_id": "njvv9m0l0pb",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 110
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2860,
+    "quarter": 4,
+    "time_left_in_quarter": "0:20",
+    "possession": "home"
+  },
+  {
+    "id": "ayav9j4bbus",
+    "game_id": "zhmuh0rnir",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 110
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2869,
+    "quarter": 4,
+    "time_left_in_quarter": "0:11",
+    "possession": "away"
+  },
+  {
+    "id": "9ko8u2jlwmg",
+    "game_id": "s8oi6mpmcve",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 110
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2874,
+    "quarter": 4,
+    "time_left_in_quarter": "0:06",
+    "possession": "away"
+  },
+  {
+    "id": "1c3gzjuk0ko",
+    "game_id": "n7c1vd37ngc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 112
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2876,
+    "quarter": 4,
+    "time_left_in_quarter": "0:04",
+    "possession": "away"
+  },
+  {
+    "id": "si885bk0uv8",
+    "game_id": "0sajvn9wvzdc",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 113
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2877,
+    "quarter": 4,
+    "time_left_in_quarter": "0:03",
+    "possession": "home"
+  },
+  {
+    "id": "grrew75e2ic",
+    "game_id": "yhbzivp0o8i",
+    "home_team": {
+      "team_id": "ln020",
+      "team_name": "辽宁本钢",
+      "score": 113
+    },
+    "away_team": {
+      "team_id": "tj002",
+      "team_name": "天津先行者",
+      "score": 106
+    },
+    "game_date": "2024-10-24",
+    "venue": "辽宁体育馆",
+    "status": "In Progress",
+    "game_time": 2877,
+    "quarter": 4,
+    "time_left_in_quarter": "0:03",
+    "possession": "home"
+  }
+]

@@ -7,12 +7,13 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: light) {
+/* Disable color theme switch */
+/* @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
-}
+} */
 
 body {
   color: var(--foreground);
@@ -24,4 +25,13 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+.resizable-container {
+  resize:vertical; /* Allow resizing both horizontally and vertically */
+  overflow: auto; /* Ensure content scrolls if it exceeds the size */
+  min-width: 200px; /* Set minimum dimensions to avoid shrinking too much */
+  min-height: 50px;
+  max-width: 100%; /* Prevent exceeding the parent's width */
+  max-height: 200%; /* Prevent exceeding the parent's height */
 }
