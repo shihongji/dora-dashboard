@@ -1,6 +1,7 @@
 'use client';
 import React, { useState, useEffect } from 'react';
 import { GameInsight } from '@data/GenData';
+import { Tabs } from "flowbite-react";
 // Define the structure of each advice
 
 interface FeedProps {
@@ -20,9 +21,11 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
   }
 
   return (
-    <div className="bg-slate-100 p-4 mt-4 h-96 overflow-y-auto rounded-lg shadow-md">
+    <div className="bg-slate-100 p-2 mt-4  rounded-lg shadow-md">
+    <Tabs aria-label="Default tabs" variant="default">
+    <Tabs.Item active title="Events">
       {/* <h2>Feed</h2> */}
-      <div className="mt-2">
+      <div className="overflow-y-auto h-80">
         {adviceList.length === 0 ? (
           <p className="text-zinc-400 text-xl">Loading...</p>
         ) : (
@@ -39,6 +42,17 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
           </ul>
         )}
       </div>
+    </Tabs.Item>
+    <Tabs.Item title="Stats">
+      <div className='h-80'></div>
+      </Tabs.Item>
+    <Tabs.Item title="Tab 3">
+      <div className='h-80'></div>
+      </Tabs.Item>
+    <Tabs.Item title="Tab 4">
+      <div className='h-80'></div>
+      </Tabs.Item>
+    </Tabs>
     </div>
   );
 };

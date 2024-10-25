@@ -30,7 +30,7 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   }, []);
 
   return (
-    <div className="flex-1 bg-gray-300">
+    <div className="flex-1 bg-slate-100">
       {isMounted ? (
         <div className="rounded-lg shadow-md overflow-auto">
         <ReactPlayer
