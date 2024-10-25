@@ -68,7 +68,7 @@ export default function Home() {
   return (
     <div>
       <Header />
-    <div className="p-8 h-screen">
+    <div className="p-4 h-screen">
       {/* Row 1: Pad and Player horizontally */}
       <div className="flex space-x-4">
         <div className="flex-1">
