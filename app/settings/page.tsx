@@ -18,7 +18,7 @@ const Settings: React.FC = () => {
   };
 
   return (
-    <div className="p-4">
+    <div className="p-4 h-2/6 w-2/5 mx-auto">
       <h1 className="text-2xl font-bold mb-4">Settings</h1>
       <div>
         <label>Video URL:</label>
