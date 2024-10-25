@@ -10,6 +10,7 @@ interface PlayerProps {
 const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [isMounted, setIsMounted] = useState(false);
   const [, setPalyedSeconds] = useState(0);
+  const [videoUrl, setVideoUrl] = useState('ot.mp4');
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
     // trim the decimal points to 2
@@ -21,6 +22,10 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
 
   // Ensure the player only renders on the client side
   useEffect(() => {
+    const videoUrl = localStorage.getItem('videoUrl');
+    if (videoUrl) {
+      setVideoUrl(videoUrl);
+    }
     setIsMounted(true);
   }, []);
 
@@ -29,7 +34,7 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
       {isMounted ? (
         <div className="rounded-lg shadow-md overflow-auto">
         <ReactPlayer
-          url="https://www.youtube.com/watch?v=ZUXj6HRJCYQ&t=21s"
+          url={videoUrl}
           controls={true}
           width={"100%"}
           height={"500px"}
