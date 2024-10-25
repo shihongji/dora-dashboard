@@ -29,7 +29,7 @@ const Settings: React.FC = () => {
           className="border p-2 w-full"
         />
       </div>
-      <div className="mt-4">
+      <div className="mt-4 hidden">
         <label>JSON URL:</label>
         <input 
           type="text" 
