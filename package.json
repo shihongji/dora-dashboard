@@ -17,6 +17,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-player": "^2.16.0",
+    "react-tabs": "^6.0.2",
     "rimraf": "^6.0.1"
   },
   "devDependencies": {
