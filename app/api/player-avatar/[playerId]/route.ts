@@ -23,6 +23,7 @@ export async function GET(
       },
     });
   } catch (error) {
+    console.error(error);
     return NextResponse.json({ error: 'Player avatar not found' }, { status: 404 });
   }
 }
