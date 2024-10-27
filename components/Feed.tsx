@@ -5,6 +5,7 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import '@components/tabs.css';
 import PlayerAvatars from "@/components/PlayerAvatars";
 import HistoStatsContainer from "@/components/HistoStatsContainer";
+import RealTimeStatsContainer from "./ReatTimeStatsContainer";
 // Define the structure of each advice
 
 interface FeedProps {
@@ -44,6 +45,14 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
               <Tab>Home</Tab>
               <Tab>Away</Tab>
             </TabList>
+            <TabPanel>
+              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <RealTimeStatsContainer playerId={playerId} />
+              </TabPanel>
+            <TabPanel>
+              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <RealTimeStatsContainer playerId={playerId} />
+              </TabPanel>
           </Tabs>
         </TabPanel>
         {/* historical data */}
