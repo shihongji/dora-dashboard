@@ -14,7 +14,7 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({playerId}) => {
     freeThrow: 6 + (playerId || 0),
     steals: 3 + (playerId || 0),
     blocks: 2 + (playerId || 0),
-    playTime: `32:15 + ${playerId || 0}`,
+    playTime: `32:15`,
     fouls: 4 + (playerId || 0),
   };
 
