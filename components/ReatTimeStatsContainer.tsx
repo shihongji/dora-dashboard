@@ -22,7 +22,7 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
     const fetchStats = async () => {
       try {
         // Append a timestamp query parameter to avoid caching
-        const response = await fetch(`/api/realtime-player-stats?timestamp=${new Date().getTime()}`);
+        const response = await fetch(`/api/realtime-player-stats?timestamp=${new Date().getTime()}`, { cache: 'no-store' });
         const data = await response.json();
         setStats(data.stats);
       } catch (error) {
