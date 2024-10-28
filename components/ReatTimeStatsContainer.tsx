@@ -19,10 +19,10 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
 }) => {
   const [stats, setStats] = useState<Stat[]>([]);
   useEffect(() => {
-    // Fetch data from the API
     const fetchStats = async () => {
       try {
-        const response = await fetch(`/api/realtime-player-stats`);
+        // Append a timestamp query parameter to avoid caching
+        const response = await fetch(`/api/realtime-player-stats?timestamp=${new Date().getTime()}`);
         const data = await response.json();
         setStats(data.stats);
       } catch (error) {
