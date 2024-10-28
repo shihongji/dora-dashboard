@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from "react";
 import { GameInsight } from "@data/GenData";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import '@components/tabs.css';
+import "@components/tabs.css";
 import PlayerAvatars from "@/components/PlayerAvatars";
 import HistoStatsContainer from "@/components/HistoStatsContainer";
 import RealTimeStatsContainer from "./ReatTimeStatsContainer";
@@ -42,34 +42,34 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
         <TabPanel>
           <Tabs forceRenderTabPanel defaultIndex={0}>
             <TabList>
-              <Tab>Home</Tab>
-              <Tab>Away</Tab>
+              <Tab>主队</Tab>
+              <Tab>客队</Tab>
             </TabList>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <PlayerAvatars onAvatarClick={handlePlayerClick} />
               <RealTimeStatsContainer playerId={playerId} />
-              </TabPanel>
+            </TabPanel>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <PlayerAvatars onAvatarClick={handlePlayerClick} />
               <RealTimeStatsContainer playerId={playerId} />
-              </TabPanel>
+            </TabPanel>
           </Tabs>
         </TabPanel>
         {/* historical data */}
         <TabPanel>
           <Tabs forceRenderTabPanel defaultIndex={0}>
             <TabList>
-              <Tab>Home</Tab>
-              <Tab>Away</Tab>
+              <Tab>主队</Tab>
+              <Tab>客队</Tab>
             </TabList>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <PlayerAvatars onAvatarClick={handlePlayerClick} />
               <HistoStatsContainer playerId={playerId} />
-              </TabPanel>
+            </TabPanel>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick}/>
+              <PlayerAvatars onAvatarClick={handlePlayerClick} />
               <HistoStatsContainer playerId={playerId} />
-              </TabPanel>
+            </TabPanel>
           </Tabs>
         </TabPanel>
       </Tabs>

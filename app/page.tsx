@@ -79,6 +79,7 @@ export default function Home() {
       }
     }
     setGameInsights(newInsights);
+    setPinnedInsight(newInsights[0]);
     return;
   };
 

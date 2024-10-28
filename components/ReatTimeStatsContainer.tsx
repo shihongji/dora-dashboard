@@ -9,6 +9,7 @@ interface RealTimeStatsContainerProps {
 interface Stat {
   label: string;
   label_zh: string;
+  max: number;
   value: number;
   img: string;
 }
@@ -48,9 +49,12 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
             <div className="flex flex-col flex-grow">
               <div className="flex justify-between my-auto text-gray-600 text-xl">
                 <span className="">{stat.label_zh}</span>
-                <span className="">{stat.value}</span>
+                <div>
+                  <span className="mr-1 font-bold">{stat.value}</span>/
+                <span className="ml-1">{stat.max}</span>
+                </div>
               </div>
-              <StatBar value={stat.value} />
+              <StatBar value={stat.value} max={stat.max} />
             </div>
           </div>
         ))}
