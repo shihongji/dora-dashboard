@@ -17,5 +17,9 @@ export async function GET() {
     { label: "Rebounding Ability", label_zh: "篮板能力", max: 86, value: getRandomValue(86), img: "/icons/ReboundingAbility.png" },
   ];
 
-  return NextResponse.json({ stats });
+    // Set caching headers to disable caching on Vercel
+    const response = NextResponse.json({ stats });
+    response.headers.set('Cache-Control', 'no-store, max-age=0');
+  
+    return response;
 }
