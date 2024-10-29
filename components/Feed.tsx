@@ -46,11 +46,11 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
               <Tab>客队</Tab>
             </TabList>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick} />
+              <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={true} dataType="real-time"/>
               <RealTimeStatsContainer playerId={playerId} />
             </TabPanel>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick} />
+              <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={false} dataType="real-time"/>
               <RealTimeStatsContainer playerId={playerId} />
             </TabPanel>
           </Tabs>
@@ -63,12 +63,12 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
               <Tab>客队</Tab>
             </TabList>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick} />
-              <HistoStatsContainer playerId={playerId} />
+              <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={true} dataType="historical"/>
+              <HistoStatsContainer playerId={playerId} teamHome={true}/>
             </TabPanel>
             <TabPanel>
-              <PlayerAvatars onAvatarClick={handlePlayerClick} />
-              <HistoStatsContainer playerId={playerId} />
+              <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={false} dataType="historical"/>
+              <HistoStatsContainer playerId={playerId} teamHome={false}/>
             </TabPanel>
           </Tabs>
         </TabPanel>
