@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import StatBar from "./StatBar";
 
 interface RealTimeStatsContainerProps {
-  playerId: number | null;
+  playerId: string | null;
 }
 
 interface Stat {
