@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import path from 'path';
 import { promises as fs } from 'fs';
-import playerMapData from '@data/players_info/playerMap.json';
+import playerMapData from '@data/playerMap.json';
 interface Player {
   name: string;
   team: string;
