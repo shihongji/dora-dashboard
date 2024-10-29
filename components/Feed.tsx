@@ -15,7 +15,7 @@ interface FeedProps {
 
 const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
   const [adviceList, setAdviceList] = useState<GameInsight[]>([]);
-  const [playerId, setPlayerId] = useState<number | null>(null);
+  const [playerId, setPlayerId] = useState<string | null>(null);
 
   useEffect(() => {
     setAdviceList(gameInsightArray);
@@ -25,7 +25,7 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
     onItemClick(id);
   };
 
-  const handlePlayerClick = (id: number) => {
+  const handlePlayerClick = (id: string) => {
     setPlayerId(id);
   };
 

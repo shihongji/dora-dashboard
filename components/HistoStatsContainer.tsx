@@ -3,7 +3,7 @@ import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 import PlayerStats from "@components/PlayerStats";
 
 interface HistoStatsContainerProps {
-  playerId: number | null;
+  playerId: string | null;
 }
 const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId}) => {
   return (

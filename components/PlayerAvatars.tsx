@@ -4,30 +4,34 @@ import Image from 'next/image';
 import { useEffect, useState } from 'react';
 
 interface PlayerAvatarsProps {
-  onAvatarClick?: (id: number) => void;
+  onAvatarClick?: (id: string) => void;
 }
 interface Player {
-  id: number;
+  ID: string; // Use string to match the ID type in player data
   name: string;
+  team: string;
+  position: string;
   img: string;
 }
 
+
 const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick}) => {
   const [players, setPlayers] = useState<Player[]>([]);
-  const [selectedPlayerId, setSelectedPlayerId] = useState<number | null>(null);
+  const [selectedPlayerId, setSelectedPlayerId] = useState<string | null>(null);
   useEffect(() => {
     const fetchPlayerImages = async () => {
       try {
         const response = await fetch('/api/player-avatar/random');
         const data = await response.json();
-        console.log(data);
 
-        // Create player objects using the fetched image URLs
-        const randomPlayers: Player[] = data.imageUrls.map((url: string, index: number) => ({
-          id: index + 1, // Assign a unique ID to each player
-          name: `Player ${index + 1}`,
-          img: url,
+        const randomPlayers: Player[] = data.players.map((player: Player) => ({
+          ID: player.ID,
+          name: player.name,
+          team: player.team,
+          position: player.position,
+          img: `/images/players/${player.ID}.jpg`, // Construct image path based on player ID
         }));
+
 
         setPlayers(randomPlayers);
       } catch (error) {
@@ -38,8 +42,7 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick}) => {
     fetchPlayerImages();
   }, []);
 
-  const handlePlayerClick = (id: number) => {
-    console.log(`Player with id ${id} clicked`);
+  const handlePlayerClick = (id: string) => {
     setSelectedPlayerId(id);
     if (onAvatarClick) {
       onAvatarClick(id);
@@ -47,15 +50,22 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick}) => {
   }
 
   return (
-    <div className="flex gap-2">
+    <div className="flex gap-2 w-full justify-between px-4">
       {players.map((player) => (
-        <div key={player.id} 
-        onClick={() => handlePlayerClick(player.id)}
-        className={`mx-2 w-20 h-20 overflow-hidden border border-gray-300 
-          ${selectedPlayerId === player.id ? "border-cp-yellow border-4 scale-125" : "hover:border-cp-yellow hover:border-4 hover:scale-125"}
-          transition-all duration-300`}
+        <div key={player.ID} 
+        onClick={() => handlePlayerClick(player.ID)}
+        className={`mx-2 flex px-1
+          ${selectedPlayerId === player.ID ? "border-emerald-400 border-t-8" : "border-transparent border-t-8"}
+          `}
       >
-          <Image src={player.img} alt={player.name} width={80} height={80} className="object-cover" />
+        <div className='flex flex-col w-20 h-20 overflow-hidden border border-gray-300'>
+          <Image src={player.img} alt={player.name} width={80} height={80} className="object-cover flex-1" />
+          </div>
+          <div className='ml-2 text-base my-auto text-left'>
+            <p className="font-semibold text-gray-700">{player.name}</p>
+            <p className="font-semibold text-gray-700">24</p>
+            <p className="font-semibold text-gray-700">{player.position}</p>
+          </div>
         </div>
       ))}
     </div>

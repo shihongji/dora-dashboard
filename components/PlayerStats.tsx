@@ -2,20 +2,21 @@
 import React from 'react';
 
 interface PlayerStatsProps {
-    playerId: number | null;
+    playerId: string | null;
 }   
 
 const PlayerStats: React.FC<PlayerStatsProps> = ({playerId}) => {
+  console.log(playerId);
   // Sample stats data for a player
   const playerStats = {
-    threePoint: 5 + (playerId || 0),
-    rebounds: 12 + (playerId || 0),
-    twoPoint: 8 + (playerId || 0),
-    freeThrow: 6 + (playerId || 0),
-    steals: 3 + (playerId || 0),
-    blocks: 2 + (playerId || 0),
+    threePoint: 5 ,
+    rebounds: 12 ,
+    twoPoint: 8 ,
+    freeThrow: 6 ,
+    steals: 3 ,
+    blocks: 2 ,
     playTime: `32:15`,
-    fouls: 4 + (playerId || 0),
+    fouls: 4 ,
   };
 
   return (
