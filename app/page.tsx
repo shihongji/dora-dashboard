@@ -12,7 +12,7 @@ import BannerContainer from "@components/Banner";
 
 /**
  * The `Home` component serves as the main page for the dashboard application.
- * It manages the state and updates for game information and insights, and 
+ * It manages the state and updates for game information and insights, and
  * renders the header, banner, pad, player, and feed components.
  *
  * State:
@@ -22,11 +22,11 @@ import BannerContainer from "@components/Banner";
  * - `gameInsights`: Stores an array of game insights.
  *
  * Functions:
- * - `handleItemClick`: Handles the event when an item is clicked in the feed, 
+ * - `handleItemClick`: Handles the event when an item is clicked in the feed,
  *   setting the pinned insight based on the clicked item's ID.
  * - `updateGameInfo`: Updates the game information based on the current time.
  * - `updateGameInsights`: Updates the game insights based on the current time.
- * - `handleTimeUpdate`: Handles the time update by adjusting the current seconds 
+ * - `handleTimeUpdate`: Handles the time update by adjusting the current seconds
  *   and updating game information and insights.
  *
  * @returns {JSX.Element} The rendered Home component.
@@ -39,7 +39,7 @@ export default function Home() {
 
   const handleItemClick = (id: string) => {
     setPinnedInsight(gameInsights.find((insight) => insight.id === id) || null);
-  }
+  };
 
   // read from the data file
   const gameInfoArray: Partial<GameInfo>[] = gameInfoArrayFile;
@@ -58,7 +58,6 @@ export default function Home() {
     setGameInfo(closestGameInfo);
     return;
   };
-
 
   gameInsightArrayFile.sort((a, b) => a.video_time! - b.video_time!);
   const updateGameInsights = (seconds: number): void => {
@@ -83,7 +82,6 @@ export default function Home() {
     return;
   };
 
-  
   /**
    * Handles the time update by adjusting the current seconds and updating game information and insights.
    *
@@ -98,23 +96,23 @@ export default function Home() {
   return (
     <div>
       <Header />
-      <BannerContainer pinText="引援 ，伤病预警， 细节的球员特点「训练大模块」demo 阶段未展现，依赖后续大规模训练算法调优。" />
-    <div className="p-4 h-screen">
-      {/* Row 1: Pad and Player horizontally */}
-      <div className="flex space-x-4">
-        <div className="flex-1">
-          <Pad gameInfo={gameInfo} gameInsight={pinnedInsight} />
+      <BannerContainer />
+      <div className="p-4 h-screen">
+        {/* Row 1: Pad and Player horizontally */}
+        <div className="flex space-x-4">
+          <div className="flex-1">
+            <Pad gameInfo={gameInfo} gameInsight={pinnedInsight} />
+          </div>
+          <div className="flex-1">
+            <Player onTimeUpdate={handleTimeUpdate} />
+          </div>
         </div>
-        <div className="flex-1">
-          <Player onTimeUpdate={handleTimeUpdate} />
-        </div>
-      </div>
 
-      {/* Row 2: Feed below */}
-      <div className="">
-        <Feed gameInsightArray={gameInsights} onItemClick={handleItemClick}/>
+        {/* Row 2: Feed below */}
+        <div className="">
+          <Feed gameInsightArray={gameInsights} onItemClick={handleItemClick} />
+        </div>
       </div>
-    </div>
     </div>
   );
 }

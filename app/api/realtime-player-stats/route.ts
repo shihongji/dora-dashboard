@@ -3,7 +3,6 @@ import { NextResponse } from "next/server";
 // Function to generate random values between 0 and 100
 const getRandomValue = (max: number) => {
   const randomValue = Math.floor(Math.random() * max);
-  console.log("Generated Random Value:", randomValue);
   return randomValue;
 };
 export async function GET() {
@@ -81,9 +80,8 @@ export async function GET() {
   ];
 
   // Adding a unique value to force uniqueness in the response
-  const uniqueResponse = { stats, randomSeed: Math.random() };
 
-  const response = NextResponse.json(uniqueResponse);
+  const response = NextResponse.json({stats});
   response.headers.set("Cache-Control", "no-store, max-age=0");
 
   return response;
