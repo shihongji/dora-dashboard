@@ -1,0 +1,23 @@
+{
+  "welcome": "Welcome",
+  "description": "This is an example of i18n integration in Next.js.",
+  "pinned": "Pinned Event",
+  "pinnedDescription": "Automatically updated when video is played.",
+  "settings": {
+    "title": "Settings",
+    "chooseGame": "Choose a Game",
+    "setBanner": "Set Banner Text",
+    "setHistoryMetrics": "Set History Metrics",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "loading": "Loading...",
+  "tactics": "Tactics",
+  "realTime": "Real Time",
+  "history": "History",
+  "homeTeam": "Home",
+  "awayTeam": "Away",
+  "lastGame": "Last Game",
+  "last5Games": "Last 5 Games",
+  "lastSeason": "Last Season"
+}

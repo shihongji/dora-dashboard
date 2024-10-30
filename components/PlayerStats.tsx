@@ -1,6 +1,7 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import { Table } from "flowbite-react";
+import { useTranslation } from "next-i18next";
 
 interface PlayerStatsProps {
   playerId: string | null;
@@ -41,6 +42,7 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
   statsPeriod,
   teamHome,
 }) => {
+  const { t, i18n } = useTranslation("common");
   const [player, setPlayer] = useState<Player | null>(null);
   const [selectedMetrics, setSelectedMetrics] = useState<string[]>([]);
 
@@ -80,37 +82,37 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
 
   if (!player)
     return (
-      <div className="text-center text-gray-500">Loading player stats...</div>
+      <div className="text-center text-gray-500">{t('loading')}</div>
     );
 
-    const metricLabels: { [key: string]: string } = {
-      playTime: "时间",
-      points: "得分",
-      offensiveRebounds: "前板",
-      defensiveRebounds: "后板",
-      totalRebounds: "篮板",
-      assists: "助攻",
-      steals: "抢断",
-      blocks: "盖帽",
-      fouls: "犯规",
-      turnovers: "失误",
-      fieldGoalsMade: "投篮命中",
-      fieldGoalsAttempted: "投篮出手",
-      fieldGoalPercentage: "投篮%",
-      threePointersMade: "三分命中",
-      threePointersAttempted: "三分出手",
-      threePointPercentage: "三分%",
-      freeThrowsMade: "罚球命中",
-      freeThrowsAttempted: "罚球出手",
-      freeThrowPercentage: "罚球%",
+    const metricLabels: { [key: string]: { en: string; cn: string } } = {
+      playTime: { en: "Time", cn: "时间" },
+      points: { en: "Points", cn: "得分" },
+      offensiveRebounds: { en: "Offensive Rebounds", cn: "前板" },
+      defensiveRebounds: { en: "Defensive Rebounds", cn: "后板" },
+      totalRebounds: { en: "Total Rebounds", cn: "篮板" },
+      assists: { en: "Assists", cn: "助攻" },
+      steals: { en: "Steals", cn: "抢断" },
+      blocks: { en: "Blocks", cn: "盖帽" },
+      fouls: { en: "Fouls", cn: "犯规" },
+      turnovers: { en: "Turnovers", cn: "失误" },
+      fieldGoalsMade: { en: "Field Goals Made", cn: "投篮命中" },
+      fieldGoalsAttempted: { en: "Field Goals Attempted", cn: "投篮出手" },
+      fieldGoalPercentage: { en: "Field Goal Percentage", cn: "投篮%" },
+      threePointersMade: { en: "Three Pointers Made", cn: "三分命中" },
+      threePointersAttempted: { en: "Three Pointers Attempted", cn: "三分出手" },
+      threePointPercentage: { en: "Three Point Percentage", cn: "三分%" },
+      freeThrowsMade: { en: "Free Throws Made", cn: "罚球命中" },
+      freeThrowsAttempted: { en: "Free Throws Attempted", cn: "罚球出手" },
+      freeThrowPercentage: { en: "Free Throw Percentage", cn: "罚球%" },
     };
 
     return (
       <div className="overflow-x-auto">
-        <Table className="text-center table-fixed text-base">
-          <Table.Head className="text-base">
+        <Table className="text-center  text-base">
+          <Table.Head className="text-sm">
             {selectedMetrics.map((metric) => (
-              <Table.HeadCell key={metric}>{metricLabels[metric]}</Table.HeadCell>
+              <Table.HeadCell key={metric} className="whitespace-normal break-words">{i18n.language === 'en' ? metricLabels[metric].en : metricLabels[metric].cn}</Table.HeadCell>
             ))}
           </Table.Head>
           <Table.Body className="divide-y">

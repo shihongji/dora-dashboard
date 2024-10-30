@@ -26,6 +26,7 @@
     border-color: #aaa;
     color: whitesmoke;
     border-radius: 5px 5px 0 0;
+    font-weight: 600;
   }
   
   .react-tabs__tab--disabled {

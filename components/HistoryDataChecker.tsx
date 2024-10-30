@@ -1,19 +1,19 @@
 "use client"; // Add this to ensure it's treated as a client component
 import React from "react";
 import { Label, Checkbox } from "flowbite-react";
+import { useTranslation } from "next-i18next";
 
 interface HistoryDataProps {
   historicalData: { index: number; nameEn: string; nameCn: string; display: boolean }[];
   onCheckboxChange: (index: number) => void;
 }
 const HistoryData: React.FC<HistoryDataProps> = ({ historicalData, onCheckboxChange }) => {
-
-
+  const { t, i18n } = useTranslation("common");
 
   return (
     <div className="my-2 block">
-      <Label htmlFor="checkbox" value="选择历史数据的维度：" className="text-base"/>
-      <div className="grid grid-cols-5 gap-4 my-2" id="checkbox">
+      <Label htmlFor="checkbox" value={t('settings.setHistoryMetrics')} className="text-base"/>
+      <div className={`grid gap-4 my-2 ${i18n.language === 'en' ? 'grid-cols-3' : 'grid-cols-5'}`} id="checkbox">
         {historicalData.map((item) => (
           <div key={item.index} className="flex items-center gap-2">
             <Checkbox
@@ -21,7 +21,7 @@ const HistoryData: React.FC<HistoryDataProps> = ({ historicalData, onCheckboxCha
               checked={item.display}
               onChange={() => onCheckboxChange(item.index)}
             />
-            <Label htmlFor={item.nameEn}>{item.nameCn}</Label>
+            <Label htmlFor={item.nameEn}>{i18n.language === 'en' ? item.nameEn : item.nameCn}</Label>
           </div>
         ))}
       </div>

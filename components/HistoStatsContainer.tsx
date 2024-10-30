@@ -2,13 +2,14 @@
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 import PlayerStats from "@components/PlayerStats";
 import { useEffect } from "react";
+import { useTranslation } from "next-i18next";
 
 interface HistoStatsContainerProps {
   playerId: string | null;
   teamHome: boolean;
 }
 const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, teamHome}) => {
-
+  const { t } = useTranslation("common");
   useEffect(() => {
     // You could optionally log or perform a side effect here if needed
   }, [playerId]);
@@ -17,9 +18,9 @@ const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, team
     <div className="">
       <Tabs>
         <TabList>
-          <Tab>上一场</Tab>
-          <Tab>5场</Tab>
-          <Tab>上赛季</Tab>
+          <Tab>{ t('lastGame') }</Tab>
+          <Tab>{ t('last5Games') }</Tab>
+          <Tab>{ t('lastSeason') }</Tab>
         </TabList>
         <TabPanel>
           <PlayerStats playerId={playerId} statsPeriod="lastGame" teamHome={teamHome}/>
