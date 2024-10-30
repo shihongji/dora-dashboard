@@ -41,7 +41,7 @@ export async function GET(
     name: player.name,
     team: player.team,
     number: player.number,
-    imgUrl: `/images/players/${player.id}.jpg`,
+    imgUrl: `https://image.cbaleague.com/playerheader/${selectedGame === '1013' ? 2024 : 2023}/${player.id}.jpg`,
   }));
 
   try {
