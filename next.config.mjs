@@ -4,6 +4,11 @@ const nextConfig = {
   images: {
     unoptimized: true,
     remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'image.cbaleague.com',
+        pathname: '/playerheader/*/*.jpg',
+      },
     ],
   },
 };
