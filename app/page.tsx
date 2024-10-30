@@ -9,7 +9,6 @@ import gameInfoArrayFile from "@data/gameInfo.json";
 import gameInsightArrayFile from "@data/gameInsights.json";
 import Header from "@components/Header";
 import BannerContainer from "@components/Banner";
-import { appWithTranslation } from "next-i18next";
 import '../i18n';
 
 /**
@@ -120,5 +119,4 @@ const Home: React.FC = () => {
 };
 
 // Wrap the Home component with appWithTranslation
-export default appWithTranslation(Home);
-
+export default Home;
