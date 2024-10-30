@@ -1,7 +1,10 @@
+'use client';
 import React from "react";
 import { useRouter } from "next/navigation";
+import { useTranslation } from 'next-i18next';
 
 const Header: React.FC = () => {
+  const { t } = useTranslation("common");
   const router = useRouter();
 
   return (
@@ -10,7 +13,7 @@ const Header: React.FC = () => {
       <button
         onClick={() => router.push("/settings")}
         className="bg-cp-light-blue text-cp-dark-blue py-2 px-4 rounded"
-        >设置</button>
+        >{t('settings.title')}</button>
     </header>
   );
 };

@@ -2,12 +2,16 @@
 "use client"; // Add this to ensure it's treated as a client component
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
-import { Label, Button, Select, TextInput } from "flowbite-react";
+import { Label, Button, Select, TextInput, ToggleSwitch } from "flowbite-react";
 import HistoryData from "@/components/HistoryDataChecker";
 import Header from "@/components/Header";
+import { useTranslation } from "next-i18next";
+import "../../i18n";
 
 const Settings: React.FC = () => {
   const router = useRouter();
+  const { t, i18n } = useTranslation("common");
+  const [language, setLanguage] = useState(i18n.language || "en");
   const [selectGame, setSelectGame] = useState("0406");
   const [bannerText, setBannerText] = useState(
     "引援 ，伤病预警， 细节的球员特点「训练大模块」demo 阶段未展现，依赖后续大规模训练算法调优。"
@@ -83,9 +87,15 @@ const Settings: React.FC = () => {
     );
     setHistoricalData(updatedData);
   };
+
+  const handleLanguageToggle = () => {
+    const newLanguage = language === "en" ? "cn" : "en";
+    i18n.changeLanguage(newLanguage);
+    setLanguage(newLanguage);
+  };
   const handleSubmit = () => {
-        // Save historical data display settings
-        localStorage.setItem("historicalData", JSON.stringify(historicalData));
+    // Save historical data display settings
+    localStorage.setItem("historicalData", JSON.stringify(historicalData));
     if (selectGame === "0406") {
       localStorage.setItem(
         "videoUrl",
@@ -107,65 +117,77 @@ const Settings: React.FC = () => {
 
   return (
     <div>
-    <Header />
-    <div className="mt-4 p-4 h-2/6 w-2/5 mx-auto">
-      <h1 className="text-2xl font-bold mb-4">设置</h1>
-      <hr className="my-4 border-t-2 border-gray-300" />
-      <div className="mb-4 block">
-        <div className="mb-2 block">
-          <Label className="text-base" htmlFor="games" value="选择比赛：" />
-        </div>
-        <Select
-          className="text-base"
-          id="games"
-          required
-          value={selectGame}
-          onChange={(e) => setSelectGame(e.target.value)}
-        >
-          <option value={"0406"}>
-            2024年04月06日#常规赛第52轮#天津先行者 广东华南虎#加时赛
-          </option>
-          <option value={"1013"}>
-            2024年10月13日#常规赛第1轮#辽宁本钢 浙江稠州金租#第三节
-          </option>
-        </Select>
-      <hr className="my-4 border-t-2 border-gray-300" />
-        <div className="my-2 block">
-          <Label
-            className="text-base"
-            htmlFor="banner"
-            value="设置置顶提示："
+      <Header />
+      <div className="mt-4 p-4 h-2/6 w-2/5 mx-auto">
+        <div className="flex items-center justify-between">
+          <h1 className="text-2xl font-bold">{ t('settings.title') }</h1>
+          <ToggleSwitch
+            checked={language === "cn"}
+            label="中文"
+            onChange={handleLanguageToggle}
           />
         </div>
-        <TextInput
-          id="banner"
-          className="text-base"
-          placeholder="输入新的置顶提示："
-          value={bannerText}
-          onChange={(e) => setBannerText(e.target.value)}
+        <hr className="my-4 border-t-2 border-gray-300" />
+
+        <div className="mb-4 block">
+          <div className="mb-2 block">
+            <Label className="text-base" htmlFor="games" value={t('settings.chooseGame')} />
+          </div>
+          <Select
+            className="text-base"
+            id="games"
+            required
+            value={selectGame}
+            onChange={(e) => setSelectGame(e.target.value)}
+          >
+            <option value={"0406"}>
+              2024年04月06日#常规赛第52轮#天津先行者 广东华南虎#加时赛
+            </option>
+            <option value={"1013"}>
+              2024年10月13日#常规赛第1轮#辽宁本钢 浙江稠州金租#第三节
+            </option>
+          </Select>
+          <hr className="my-4 border-t-2 border-gray-300" />
+          <div className="my-2 block">
+            <Label
+              className="text-base"
+              htmlFor="banner"
+              value={t('settings.setBanner')}
+            />
+          </div>
+          <TextInput
+            id="banner"
+            className="text-base"
+            placeholder="输入新的置顶提示："
+            value={bannerText}
+            onChange={(e) => setBannerText(e.target.value)}
+          />
+        </div>
+        <hr className="my-4 border-t-2 border-gray-300" />
+        {/* Pass historicalData and handleCheckboxChange as props */}
+        <HistoryData
+          historicalData={historicalData}
+          onCheckboxChange={handleCheckboxChange}
         />
+        <hr className="my-4 border-t-2 border-gray-300" />
+        <div className="flex items-start gap-4 flex-wrap mt-8 ">
+          <Button
+            size="md"
+            onClick={handleSubmit}
+            className="w-1/4 bg-cp-blue text-xl font-bold"
+          >
+            { t('settings.save') }
+          </Button>
+          <Button
+            color="gray"
+            size="md"
+            onClick={() => router.push("/")}
+            className="w-1/4 text-xl"
+          >
+            { t('settings.cancel') }
+          </Button>
+        </div>
       </div>
-      <hr className="my-4 border-t-2 border-gray-300" />
-      {/* Pass historicalData and handleCheckboxChange as props */}
-      <HistoryData 
-        historicalData={historicalData} 
-        onCheckboxChange={handleCheckboxChange} 
-      />
-      <hr className="my-4 border-t-2 border-gray-300" />
-      <div className="flex items-start gap-4 flex-wrap mt-8 ">
-        <Button size="md" onClick={handleSubmit} className="w-1/4 bg-cp-blue text-xl font-bold">
-        保存
-        </Button>
-        <Button
-          color="gray"
-          size="md"
-          onClick={() => router.push("/")}
-          className="w-1/4 text-xl"
-        >
-        取消
-        </Button>
-      </div>
-    </div>
     </div>
   );
 };

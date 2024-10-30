@@ -9,6 +9,8 @@ import gameInfoArrayFile from "@data/gameInfo.json";
 import gameInsightArrayFile from "@data/gameInsights.json";
 import Header from "@components/Header";
 import BannerContainer from "@components/Banner";
+import { appWithTranslation } from "next-i18next";
+import '../i18n';
 
 /**
  * The `Home` component serves as the main page for the dashboard application.
@@ -31,7 +33,7 @@ import BannerContainer from "@components/Banner";
  *
  * @returns {JSX.Element} The rendered Home component.
  */
-export default function Home() {
+const Home: React.FC = () => {
   const [, setCurrentSeconds] = useState(0);
   const [pinnedInsight, setPinnedInsight] = useState<GameInsight | null>(null);
   const [gameInfo, setGameInfo] = useState<Partial<GameInfo>>({});
@@ -115,4 +117,8 @@ export default function Home() {
       </div>
     </div>
   );
-}
+};
+
+// Wrap the Home component with appWithTranslation
+export default appWithTranslation(Home);
+

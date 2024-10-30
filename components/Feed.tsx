@@ -6,6 +6,8 @@ import "@components/tabs.css";
 import PlayerAvatars from "@/components/PlayerAvatars";
 import HistoStatsContainer from "@/components/HistoStatsContainer";
 import RealTimeStatsContainer from "./ReatTimeStatsContainer";
+import Events from "@components/Events";
+import { useTranslation } from "next-i18next";
 // Define the structure of each advice
 
 interface FeedProps {
@@ -14,6 +16,7 @@ interface FeedProps {
 }
 
 const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
+  const { t } = useTranslation("common");
   const [adviceList, setAdviceList] = useState<GameInsight[]>([]);
   const [playerId, setPlayerId] = useState<string | null>(null);
 
@@ -32,18 +35,18 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
   return (
     <div className="bg-slate-100 p-2 mt-4  rounded-lg shadow-md">
       <Tabs forceRenderTabPanel defaultIndex={0}>
-        <TabList>
-          <Tab>战术建议</Tab>
-          <Tab>实时数据</Tab>
-          <Tab>历史数据</Tab>
+        <TabList >
+          <Tab>{ t('tactics') }</Tab>
+          <Tab>{ t('realTime') }</Tab>
+          <Tab>{ t('history') }</Tab>
         </TabList>
-        <TabPanel>{showEvents(adviceList, handleItemClick)}</TabPanel>
+        <TabPanel><Events adviceList={adviceList} handleItemClick={handleItemClick} /></TabPanel>
         {/* real-time data */}
         <TabPanel>
           <Tabs forceRenderTabPanel defaultIndex={0}>
             <TabList>
-              <Tab>主队</Tab>
-              <Tab>客队</Tab>
+              <Tab>{ t('homeTeam') }</Tab>
+              <Tab>{ t('awayTeam') }</Tab>
             </TabList>
             <TabPanel>
               <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={true} dataType="real-time"/>
@@ -59,8 +62,8 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
         <TabPanel>
           <Tabs forceRenderTabPanel defaultIndex={0}>
             <TabList>
-              <Tab>主队</Tab>
-              <Tab>客队</Tab>
+              <Tab>{ t('homeTeam') }</Tab>
+              <Tab>{ t('awayTeam') }</Tab>
             </TabList>
             <TabPanel>
               <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={true} dataType="historical"/>
@@ -78,35 +81,3 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick }) => {
 };
 
 export default Feed;
-
-function showEvents(
-  adviceList: GameInsight[],
-  handleItemClick: (id: string) => void
-) {
-  return (
-    <div className="overflow-y-auto h-80">
-      {adviceList.length === 0 ? (
-        <p className="text-zinc-400 text-xl">Loading...</p>
-      ) : (
-        <ul className="list-none">
-          {adviceList.map((advice, index) => (
-            <li
-              key={index}
-              onClick={() => handleItemClick(advice.id)}
-              className="mb-2 p-2 rounded-lg cursor-pointer hover:text-zinc-400 transition duration-300 text-lg"
-            >
-              <span className="text-cp-blue font-semibold">
-                第 {advice.quarter} 节 {advice.time_left_in_quarter}
-              </span>{" "}
-              -
-              <span className="text-cp-orange font-bold ml-2">
-                {advice.event_type}
-              </span>{" "}
-              -<span className="ml-2">{advice.event_description}</span>
-            </li>
-          ))}
-        </ul>
-      )}
-    </div>
-  );
-}
