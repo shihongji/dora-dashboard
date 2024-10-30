@@ -1,5 +1,5 @@
 import React from "react";
-import { GameInsight } from "@data/GenData";
+import { GameInsight } from "@types";
 import { useTranslation } from "next-i18next";
 interface showEventsProps {
   adviceList: GameInsight[];

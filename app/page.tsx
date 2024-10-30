@@ -1,10 +1,10 @@
 "use client";
 
 import Pad from "@components/Pad";
-import Player from "@components/Player";
+import VideoPlayer from "@/components/VideoPlayer";
 import Feed from "@components/Feed";
 import { useState } from "react";
-import { GameInfo, GameInsight } from "@data/GenData";
+import { GameInfo, GameInsight } from "@types";
 import gameInfoArrayFile from "@data/gameInfo.json";
 import gameInsightArrayFile from "@data/gameInsights.json";
 import Header from "@components/Header";
@@ -105,7 +105,7 @@ const Home: React.FC = () => {
             <Pad gameInfo={gameInfo} gameInsight={pinnedInsight} />
           </div>
           <div className="flex-1">
-            <Player onTimeUpdate={handleTimeUpdate} />
+            <VideoPlayer onTimeUpdate={handleTimeUpdate} />
           </div>
         </div>
 

@@ -1,6 +1,6 @@
 "use client";
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
-import PlayerStats from "@components/PlayerStats";
+import PlayerHistoryStats from "@/components/PlayerHistoryStats";
 import { useEffect } from "react";
 import { useTranslation } from "next-i18next";
 
@@ -23,13 +23,13 @@ const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, team
           <Tab>{ t('lastSeason') }</Tab>
         </TabList>
         <TabPanel>
-          <PlayerStats playerId={playerId} statsPeriod="lastGame" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="lastGame" teamHome={teamHome}/>
         </TabPanel>
         <TabPanel>
-          <PlayerStats playerId={playerId} statsPeriod="last5Games" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="last5Games" teamHome={teamHome}/>
         </TabPanel>
         <TabPanel>
-          <PlayerStats playerId={playerId} statsPeriod="lastSeason" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="lastSeason" teamHome={teamHome}/>
         </TabPanel>
         </Tabs>
     </div>

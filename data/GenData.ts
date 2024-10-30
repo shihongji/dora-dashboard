@@ -1,37 +1,5 @@
 import * as fs from "fs";
-import { text } from "stream/consumers";
-
-export interface GameInfo {
-  id: string;
-  game_id: string;
-  home_team: Partial<TeamInfo>;
-  away_team: Partial<TeamInfo>;
-  game_date: string;
-  venue: string;
-  status: string;
-  game_time: number;
-  quarter: number;
-  time_left_in_quarter: string;
-  possession: string;
-}
-
-interface TeamInfo {
-  team_id: string;
-  team_name: string;
-  score: number;
-  turnovers: number;
-}
-
-export interface GameInsight {
-  id: string;
-  game_id: string;
-  game_time: number;
-  video_time: number;
-  quarter: number;
-  time_left_in_quarter: string;
-  event_type: string;
-  event_description: string;
-}
+import { GameInfo, GameInsight } from "@/types";
 
 // Text data for generating random game insights
 const textArray = [

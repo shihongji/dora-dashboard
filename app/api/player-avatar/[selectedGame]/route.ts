@@ -38,7 +38,7 @@ export async function GET(
   const players = JSON.parse(playerData);
   const originalImageUrl = `https://image.cbaleague.com/playerheader/${selectedGame === '1013' ? 2024 : 2023}/`;
   const avatars = players.map((player: Player) => ({
-    ID: player.id,
+    id: player.id,
     name: player.name,
     team: player.team,
     number: player.number,
