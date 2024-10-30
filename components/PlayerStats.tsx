@@ -42,6 +42,19 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
   teamHome,
 }) => {
   const [player, setPlayer] = useState<Player | null>(null);
+  const [selectedMetrics, setSelectedMetrics] = useState<string[]>([]);
+
+  useEffect(() => {
+    // Retrieve and filter selected metrics from localStorage
+    const storedData = localStorage.getItem("historicalData");
+    if (storedData) {
+      const metrics = JSON.parse(storedData)
+        .filter((metric: { display: boolean }) => metric.display)
+        .map((metric: { nameEn: string }) => metric.nameEn);
+      setSelectedMetrics(metrics);
+    }
+  }, []);
+
   useEffect(() => {
     if (!playerId) {
       return;
@@ -70,58 +83,48 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
       <div className="text-center text-gray-500">Loading player stats...</div>
     );
 
-  return (
-    <div className="overflow-x-auto">
-      <Table className="text-center table-fixed">
-        <Table.Head>
-          <Table.HeadCell>时间</Table.HeadCell>
-          <Table.HeadCell>得分</Table.HeadCell>
-          <Table.HeadCell>前板</Table.HeadCell>
-          <Table.HeadCell>后板</Table.HeadCell>
-          <Table.HeadCell>篮板</Table.HeadCell>
-          <Table.HeadCell>助攻</Table.HeadCell>
-          <Table.HeadCell>抢断</Table.HeadCell>
-          <Table.HeadCell>盖帽</Table.HeadCell>
-          <Table.HeadCell>犯规</Table.HeadCell>
-          <Table.HeadCell>失误</Table.HeadCell>
-          <Table.HeadCell>投篮<br></br>命中</Table.HeadCell>
-          <Table.HeadCell>投篮<br></br>出手</Table.HeadCell>
-          <Table.HeadCell>三分<br></br>命中</Table.HeadCell>
-          <Table.HeadCell>三分<br></br>出手</Table.HeadCell>
-          <Table.HeadCell>罚球<br></br>命中</Table.HeadCell>
-          <Table.HeadCell>罚球<br></br>出手</Table.HeadCell>
-          <Table.HeadCell>投篮%</Table.HeadCell>
-          <Table.HeadCell>三分%</Table.HeadCell>
-          <Table.HeadCell>罚球%</Table.HeadCell>
-        </Table.Head>
-        <Table.Body className="divide-y">
-          <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
-            <Table.Cell>
-              {player.stats.playTime}
-            </Table.Cell>
-            <Table.Cell>{player.stats.points}</Table.Cell>
-            <Table.Cell>{player.stats.offensiveRebounds}</Table.Cell>
-            <Table.Cell>{player.stats.defensiveRebounds}</Table.Cell>
-            <Table.Cell>{player.stats.totalRebounds}</Table.Cell>
-            <Table.Cell>{player.stats.assists}</Table.Cell>
-            <Table.Cell>{player.stats.steals}</Table.Cell>
-            <Table.Cell>{player.stats.blocks}</Table.Cell>
-            <Table.Cell>{player.stats.fouls}</Table.Cell>
-            <Table.Cell>{player.stats.turnovers}</Table.Cell>
-            <Table.Cell>{player.stats.fieldGoalsMade}</Table.Cell>
-            <Table.Cell>{player.stats.fieldGoalsAttempted}</Table.Cell>
-            <Table.Cell>{player.stats.threePointersMade}</Table.Cell>
-            <Table.Cell>{player.stats.threePointersAttempted}</Table.Cell>
-            <Table.Cell>{player.stats.freeThrowsMade}</Table.Cell>
-            <Table.Cell>{player.stats.freeThrowsAttempted}</Table.Cell>
-            <Table.Cell>{player.stats.fieldGoalPercentage}</Table.Cell>
-            <Table.Cell>{player.stats.threePointPercentage}</Table.Cell>
-            <Table.Cell>{player.stats.freeThrowPercentage}</Table.Cell>
-          </Table.Row>
-        </Table.Body>
-      </Table>
-    </div>
-  );
+    const metricLabels: { [key: string]: string } = {
+      playTime: "时间",
+      points: "得分",
+      offensiveRebounds: "前板",
+      defensiveRebounds: "后板",
+      totalRebounds: "篮板",
+      assists: "助攻",
+      steals: "抢断",
+      blocks: "盖帽",
+      fouls: "犯规",
+      turnovers: "失误",
+      fieldGoalsMade: "投篮命中",
+      fieldGoalsAttempted: "投篮出手",
+      fieldGoalPercentage: "投篮%",
+      threePointersMade: "三分命中",
+      threePointersAttempted: "三分出手",
+      threePointPercentage: "三分%",
+      freeThrowsMade: "罚球命中",
+      freeThrowsAttempted: "罚球出手",
+      freeThrowPercentage: "罚球%",
+    };
+
+    return (
+      <div className="overflow-x-auto">
+        <Table className="text-center table-fixed text-base">
+          <Table.Head className="text-base">
+            {selectedMetrics.map((metric) => (
+              <Table.HeadCell key={metric}>{metricLabels[metric]}</Table.HeadCell>
+            ))}
+          </Table.Head>
+          <Table.Body className="divide-y">
+            <Table.Row className="bg-white dark:border-gray-700 dark:bg-gray-800">
+              {selectedMetrics.map((metric) => (
+                <Table.Cell key={metric} className="text-gray-800">
+                  {player.stats[metric as keyof PlayerStats]}
+                </Table.Cell>
+              ))}
+            </Table.Row>
+          </Table.Body>
+        </Table>
+      </div>
+    );
 };
 
 export default PlayerStats;
