@@ -36,12 +36,13 @@ export async function GET(
   // Read the player data from the JSON file
   const playerData = await fs.readFile(path.join(process.cwd(), 'data', fileName), 'utf-8');
   const players = JSON.parse(playerData);
+  const originalImageUrl = `https://image.cbaleague.com/playerheader/${selectedGame === '1013' ? 2024 : 2023}/`;
   const avatars = players.map((player: Player) => ({
     ID: player.id,
     name: player.name,
     team: player.team,
     number: player.number,
-    imgUrl: `https://image.cbaleague.com/playerheader/${selectedGame === '1013' ? 2024 : 2023}/${player.id}.jpg`,
+    imgUrl: `/api/image-proxy?url=${originalImageUrl}${player.id}.jpg`,
   }));
 
   try {
