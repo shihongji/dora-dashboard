@@ -10,7 +10,7 @@ const Header: React.FC = () => {
       <button
         onClick={() => router.push("/settings")}
         className="bg-cp-light-blue text-cp-dark-blue py-2 px-4 rounded"
-        >Settings</button>
+        >设置</button>
     </header>
   );
 };
