@@ -2,7 +2,7 @@
 import AlertText from "@/components/AlertText";
 import ScoreBoard from "@/components/ScoreBoard";
 import { useEffect, useState } from "react";
-import { GameInfo, GameInsight } from "@data/GenData";
+import { GameInfo, GameInsight } from "@types";
 
 interface PadProps {
   gameInfo: Partial<GameInfo>;

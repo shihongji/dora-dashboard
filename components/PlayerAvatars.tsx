@@ -2,18 +2,12 @@
 'use client';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
+import { Player } from '@types';
 
 interface PlayerAvatarsProps {
   onAvatarClick?: (id: string) => void;
   teamHome: boolean;
   dataType: 'real-time' | 'historical';
-}
-interface Player {
-  ID: string; // Use string to match the ID type in player data
-  name: string;
-  team: string;
-  number: string;
-  imgUrl: string;
 }
 
 
@@ -30,7 +24,7 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
         const data = await response.json();
 
         const randomPlayers: Player[] = data.players.map((player: Player) => ({
-          ID: player.ID,
+          id: player.id,
           name: player.name,
           team: player.team,
           number: player.number,
@@ -50,7 +44,6 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
   const handlePlayerClick = (id: string) => {
     setSelectedPlayerId(id);
     if (dataType === 'historical' && onAvatarClick) {
-      console.log('historical data');
       onAvatarClick(id);
     }
   }
@@ -59,10 +52,10 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
     <div className="flex gap-2 w-full justify-between px-8">
       {players.map((player) => (
         <div
-          key={player.ID}
-          onClick={() => handlePlayerClick(player.ID)}
+          key={player.id}
+          onClick={() => handlePlayerClick(player.id)}
           className={`mx-2 flex flex-col items-center
-            ${selectedPlayerId === player.ID ? "border-emerald-400 border-t-8" : "border-transparent border-t-8"}
+            ${selectedPlayerId === player.id ? "border-emerald-400 border-t-8" : "border-transparent border-t-8"}
             `}
         >
           <div className="w-20 h-20 overflow-hidden border border-gray-300 rounded-lg shadow-md">

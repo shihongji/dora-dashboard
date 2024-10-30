@@ -7,7 +7,7 @@ interface PlayerProps {
   onTimeUpdate: (seconds: number) => void;
 }
 
-const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
+const VideoPlayer: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [isMounted, setIsMounted] = useState(false);
   const [, setPalyedSeconds] = useState(0);
   const [videoUrl, setVideoUrl] = useState('ot.mp4');
@@ -49,4 +49,4 @@ const Player: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   );
 };
 
-export default Player;
+export default VideoPlayer;

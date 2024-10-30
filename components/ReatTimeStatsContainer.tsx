@@ -1,28 +1,24 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import StatBar from "./StatBar";
+import StatBar from "@components/StatBar";
+import { AdvancedMetric } from "@/types";
 
 interface RealTimeStatsContainerProps {
   playerId: string | null;
 }
 
-interface Stat {
-  label: string;
-  label_zh: string;
-  max: number;
-  value: number;
-  img: string;
-}
-
 const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
   playerId,
 }) => {
-  const [stats, setStats] = useState<Stat[]>([]);
+  const [stats, setStats] = useState<AdvancedMetric[]>([]);
   useEffect(() => {
     const fetchStats = async () => {
       try {
         // Append a timestamp query parameter to avoid caching
-        const response = await fetch(`/api/realtime-player-stats?timestamp=${new Date().getTime()}`, { next: { revalidate: 0 }});
+        const response = await fetch(
+          `/api/realtime-player-stats?timestamp=${new Date().getTime()}`,
+          { next: { revalidate: 0 } }
+        );
         const data = await response.json();
         setStats(data.stats);
       } catch (error) {
@@ -43,15 +39,15 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
           >
             <img
               src={stat.img}
-              alt={stat.label}
+              alt={stat.labelEn}
               className="w-10 h-10 rounded-full mr-4"
             />
             <div className="flex flex-col flex-grow">
               <div className="flex justify-between my-auto text-gray-600 text-xl">
-                <span className="">{stat.label_zh}</span>
+                <span className="">{stat.labelCn}</span>
                 <div>
                   <span className="mr-1 font-bold">{stat.value}</span>/
-                <span className="ml-1">{stat.max}</span>
+                  <span className="ml-1">{stat.max}</span>
                 </div>
               </div>
               <StatBar value={stat.value} max={stat.max} />

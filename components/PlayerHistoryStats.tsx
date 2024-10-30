@@ -2,42 +2,15 @@
 import React, { useEffect, useState } from "react";
 import { Table } from "flowbite-react";
 import { useTranslation } from "next-i18next";
+import { Player, PlayerStats } from "@types";
 
-interface PlayerStatsProps {
+interface PlayerHistoryStatsProps {
   playerId: string | null;
   teamHome: boolean;
   statsPeriod: "lastGame" | "last5Games" | "lastSeason";
 }
-interface PlayerStats {
-  playTime: string;
-  points: string;
-  offensiveRebounds: string;
-  defensiveRebounds: string;
-  totalRebounds: string;
-  assists: string;
-  steals: string;
-  blocks: string;
-  fouls: string;
-  turnovers: string;
-  fieldGoalsMade: string;
-  fieldGoalsAttempted: string;
-  fieldGoalPercentage: string;
-  threePointersMade: string;
-  threePointersAttempted: string;
-  threePointPercentage: string;
-  freeThrowsMade: string;
-  freeThrowsAttempted: string;
-  freeThrowPercentage: string;
-}
 
-interface Player {
-  ID: string;
-  name: string;
-  team: string;
-  number: number;
-  stats: PlayerStats;
-}
-const PlayerStats: React.FC<PlayerStatsProps> = ({
+const PlayerHistoryStats: React.FC<PlayerHistoryStatsProps> = ({
   playerId,
   statsPeriod,
   teamHome,
@@ -71,7 +44,6 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
         const response = await fetch(requestUrl);
         const data = await response.json();
         setPlayer(data.players[0]);
-        console.log(data);
       } catch (error) {
         console.error("Failed to fetch player images:", error);
       }
@@ -129,4 +101,4 @@ const PlayerStats: React.FC<PlayerStatsProps> = ({
     );
 };
 
-export default PlayerStats;
+export default PlayerHistoryStats;
