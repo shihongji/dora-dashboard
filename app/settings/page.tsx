@@ -108,7 +108,7 @@ const Settings: React.FC = () => {
         "https://www.youtube.com/watch?v=WLkcspZCAwE"
       );
     }
-    localStorage.setItem("selectGame", selectGame);
+    localStorage.setItem("selectedGame", selectGame);
     localStorage.setItem("bannerText", bannerText);
 
     // Navigate back to the main page

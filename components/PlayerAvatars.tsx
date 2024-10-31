@@ -15,7 +15,7 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
   const [players, setPlayers] = useState<Player[]>([]);
   const [selectedPlayerId, setSelectedPlayerId] = useState<string | null>(null);
   useEffect(() => {
-    const selectedGame = localStorage.getItem('selectGame'); // '1013' or '0406'
+    const selectedGame = localStorage.getItem('selectedGame'); // '1013' or '0406'
     const requestUrl = teamHome ? `/api/player-avatar/${selectedGame}?home=true` : `/api/player-avatar/${selectedGame}?home=false`;
 
     const fetchPlayerImages = async () => {
@@ -43,7 +43,7 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
 
   const handlePlayerClick = (id: string) => {
     setSelectedPlayerId(id);
-    if (dataType === 'historical' && onAvatarClick) {
+    if (onAvatarClick) {
       onAvatarClick(id);
     }
   }

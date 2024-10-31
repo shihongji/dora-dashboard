@@ -1,18 +1,15 @@
 "use client";
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
 import PlayerHistoryStats from "@/components/PlayerHistoryStats";
-import { useEffect } from "react";
 import { useTranslation } from "next-i18next";
 
 interface HistoStatsContainerProps {
   playerId: string | null;
   teamHome: boolean;
+  selectedTab: number;
 }
-const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, teamHome}) => {
+const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, teamHome, selectedTab}) => {
   const { t } = useTranslation("common");
-  useEffect(() => {
-    // You could optionally log or perform a side effect here if needed
-  }, [playerId]);
 
   return (
     <div className="">
@@ -23,13 +20,13 @@ const HistoStatsContainer: React.FC<HistoStatsContainerProps> = ({playerId, team
           <Tab>{ t('lastSeason') }</Tab>
         </TabList>
         <TabPanel>
-          <PlayerHistoryStats playerId={playerId} statsPeriod="lastGame" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="lastGame" teamHome={teamHome} selectedTab={selectedTab}/>
         </TabPanel>
         <TabPanel>
-          <PlayerHistoryStats playerId={playerId} statsPeriod="last5Games" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="last5Games" teamHome={teamHome} selectedTab={selectedTab}/>
         </TabPanel>
         <TabPanel>
-          <PlayerHistoryStats playerId={playerId} statsPeriod="lastSeason" teamHome={teamHome}/>
+          <PlayerHistoryStats playerId={playerId} statsPeriod="lastSeason" teamHome={teamHome} selectedTab={selectedTab}/>
         </TabPanel>
         </Tabs>
     </div>
