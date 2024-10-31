@@ -74,3 +74,48 @@ export interface PlayerHistory extends Player {
   last5Games: PlayerStats;
   lastSeason: PlayerStats;
 }
+
+export const statsMap = [
+  { labelEn: "Stamina", labelCn: "体能", img: "/icons/Stamina.png" },
+  { labelEn: "Shooting Form", labelCn: "手感", img: "/icons/ShootingForm.png" },
+  {
+    labelEn: "Three-Point Shooting",
+    labelCn: "三分投射",
+    img: "/icons/ThreePointAbility.png",
+  },
+  {
+    labelEn: "Finishing",
+    labelCn: "终结能力",
+    img: "/icons/FinishingAbility.png",
+  },
+  {
+    labelEn: "Dribbling and Driving",
+    labelCn: "突破能力",
+    img: "/icons/DribblingAbility.png",
+  },
+  {
+    labelEn: "Lateral Defense",
+    labelCn: "移动防守",
+    img: "/icons/undefined.png",
+  },
+  {
+    labelEn: "Rim Protection Efficiency",
+    labelCn: "篮下防守",
+    img: "/icons/RimProtection.png",
+  },
+  {
+    labelEn: "Tactical Execution",
+    labelCn: "战术执行",
+    img: "/icons/TaciticalAbiligy.png",
+  },
+  {
+    labelEn: "Playmaking",
+    labelCn: "组织串联",
+    img: "/icons/undefined.png",
+  },
+  {
+    labelEn: "Rebounding",
+    labelCn: "篮板能力",
+    img: "/icons/ReboundingAbility.png",
+  },
+];

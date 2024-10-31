@@ -1,67 +1,24 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import StatBar from "@components/StatBar";
-import { AdvancedMetric } from "@/types";
+import { AdvancedMetric, statsMap } from "@/types";
+import { useTranslation } from "next-i18next";
 
 interface RealTimeStatsContainerProps {
   playerId: string | null;
   currentSeconds: number;
   selectedTab: number;
 }
-// Desired labels, mappings, and icons
-const statsMap = [
-  { labelEn: "Stamina", labelCn: "体能", img: "/icons/Stamina.png" },
-  { labelEn: "Shooting Form", labelCn: "手感", img: "/icons/ShootingForm.png" },
-  {
-    labelEn: "Three-Point Shooting Ability",
-    labelCn: "三分投射",
-    img: "/icons/ThreePointAbility.png",
-  },
-  {
-    labelEn: "Finishing Ability",
-    labelCn: "终结能力",
-    img: "/icons/FinishingAbility.png",
-  },
-  {
-    labelEn: "Dribbling and Driving Ability",
-    labelCn: "突破能力",
-    img: "/icons/DribblingAbility.png",
-  },
-  {
-    labelEn: "Lateral Defense Ability",
-    labelCn: "移动防守",
-    img: "/icons/undefined.png",
-  },
-  {
-    labelEn: "Rim Protection Efficiency",
-    labelCn: "篮下防守",
-    img: "/icons/RimProtection.png",
-  },
-  {
-    labelEn: "Tactical Execution Ability",
-    labelCn: "战术执行",
-    img: "/icons/TaciticalAbiligy.png",
-  },
-  {
-    labelEn: "Playmaking Ability",
-    labelCn: "组织串联",
-    img: "/icons/undefined.png",
-  },
-  {
-    labelEn: "Rebounding Ability",
-    labelCn: "篮板能力",
-    img: "/icons/ReboundingAbility.png",
-  },
-];
 
 const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
   playerId,
   currentSeconds,
-  selectedTab
+  selectedTab,
 }) => {
   const [stats, setStats] = useState<AdvancedMetric[]>([]);
   const [lastUpdateTime, setLastUpdateTime] = useState<number>(-1);
   const [lastPlayerId, setLastPlayerId] = useState<string | null>(null);
+  const { i18n } = useTranslation("common");
   useEffect(() => {
     const adjustedSeconds = currentSeconds - (currentSeconds % 60);
     if (playerId === null || selectedTab !== 1) return;
@@ -118,8 +75,10 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
               className="w-10 h-10 rounded-full mr-4"
             />
             <div className="flex flex-col flex-grow">
-              <div className="flex justify-between my-auto text-gray-600 text-xl">
-                <span className="">{stat.labelCn}</span>
+              <div className="flex justify-between my-auto text-gray-600 text-lg">
+                <span className="">
+                  {i18n.language === "en" ? stat.labelEn : stat.labelCn}
+                </span>
                 <div>
                   <span className="mr-1 font-bold">{stat.value}</span>/
                   <span className="ml-1">{stat.max}</span>
