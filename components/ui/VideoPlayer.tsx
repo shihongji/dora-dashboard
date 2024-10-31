@@ -15,7 +15,6 @@ const VideoPlayer: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
     // trim the decimal points 
     playedSeconds = Math.round(playedSeconds); 
-    console.log(playedSeconds);
     setPalyedSeconds(playedSeconds);
     onTimeUpdate(playedSeconds);
   }

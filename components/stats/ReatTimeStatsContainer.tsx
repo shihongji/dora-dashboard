@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import StatBar from "@components/StatBar";
+import StatBar from "@/components/stats/StatBar";
 import { AdvancedMetric, statsMap } from "@/types";
 import { useTranslation } from "next-i18next";
 

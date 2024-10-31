@@ -1,6 +1,6 @@
 "use client"; // Add this to ensure it's treated as a client component
-import AlertText from "@/components/AlertText";
-import ScoreBoard from "@/components/ScoreBoard";
+import AlertText from "@/components/ui/AlertText";
+import ScoreBoard from "@/components/ui/ScoreBoard";
 import { useEffect, useState } from "react";
 import { GameInfo, GameInsight } from "@types";
 

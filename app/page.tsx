@@ -1,14 +1,14 @@
 "use client";
 
-import Pad from "@components/Pad";
-import VideoPlayer from "@/components/VideoPlayer";
-import Feed from "@components/Feed";
+import Pad from "@/components/core/Pad";
+import VideoPlayer from "@/components/ui/VideoPlayer";
+import Feed from "@/components/core/Feed";
 import { useState } from "react";
 import { GameInfo, GameInsight } from "@types";
 import gameInfoArrayFile from "@data/gameInfo.json";
 import gameInsightArrayFile from "@data/gameInsights.json";
-import Header from "@components/Header";
-import BannerContainer from "@components/Banner";
+import Header from "@/components/core/Header";
+import BannerContainer from "@/components/core/Banner";
 import '../i18n';
 
 /**

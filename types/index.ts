@@ -119,3 +119,25 @@ export const statsMap = [
     img: "/icons/ReboundingAbility.png",
   },
 ];
+
+export const metricLabels: { [key: string]: { en: string; cn: string } } = {
+  playTime: { en: "Time", cn: "时间" },
+  points: { en: "Points", cn: "得分" },
+  offensiveRebounds: { en: "Offensive Rebounds", cn: "前板" },
+  defensiveRebounds: { en: "Defensive Rebounds", cn: "后板" },
+  totalRebounds: { en: "Total Rebounds", cn: "篮板" },
+  assists: { en: "Assists", cn: "助攻" },
+  steals: { en: "Steals", cn: "抢断" },
+  blocks: { en: "Blocks", cn: "盖帽" },
+  fouls: { en: "Fouls", cn: "犯规" },
+  turnovers: { en: "Turnovers", cn: "失误" },
+  fieldGoalsMade: { en: "Field Goals Made", cn: "投篮命中" },
+  fieldGoalsAttempted: { en: "Field Goals Attempted", cn: "投篮出手" },
+  fieldGoalPercentage: { en: "Field Goal Percentage", cn: "投篮%" },
+  threePointersMade: { en: "Three Pointers Made", cn: "三分命中" },
+  threePointersAttempted: { en: "Three Pointers Attempted", cn: "三分出手" },
+  threePointPercentage: { en: "Three Point Percentage", cn: "三分%" },
+  freeThrowsMade: { en: "Free Throws Made", cn: "罚球命中" },
+  freeThrowsAttempted: { en: "Free Throws Attempted", cn: "罚球出手" },
+  freeThrowPercentage: { en: "Free Throw Percentage", cn: "罚球%" },
+};

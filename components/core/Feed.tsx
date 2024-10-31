@@ -2,11 +2,11 @@
 import React, { useState, useEffect } from "react";
 import { GameInsight } from "@types";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import "@components/tabs.css";
-import PlayerAvatars from "@/components/PlayerAvatars";
-import HistoStatsContainer from "@/components/HistoStatsContainer";
-import RealTimeStatsContainer from "@components/ReatTimeStatsContainer";
-import Events from "@components/Events";
+import "@components/core/tabs.css";
+import PlayerAvatars from "@/components/player/PlayerAvatars";
+import HistoStatsContainer from "@/components/stats/HistoStatsContainer";
+import RealTimeStatsContainer from "@/components/stats/ReatTimeStatsContainer";
+import Events from "@/components/ui/Events";
 import { useTranslation } from "next-i18next";
 // Define the structure of each advice
 

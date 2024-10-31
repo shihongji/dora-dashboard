@@ -1,6 +1,6 @@
 "use client";
 import { Tabs, TabList, Tab, TabPanel } from "react-tabs";
-import PlayerHistoryStats from "@/components/PlayerHistoryStats";
+import PlayerHistoryStats from "@/components/stats/PlayerHistoryStats";
 import { useTranslation } from "next-i18next";
 
 interface HistoStatsContainerProps {

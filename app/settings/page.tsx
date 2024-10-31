@@ -3,8 +3,8 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { Label, Button, Select, TextInput, ToggleSwitch } from "flowbite-react";
-import HistoryData from "@/components/HistoryDataChecker";
-import Header from "@/components/Header";
+import HistoryData from "@/components/ui/HistoryDataChecker";
+import Header from "@/components/core/Header";
 import { useTranslation } from "next-i18next";
 import "../../i18n";
 
