@@ -33,7 +33,7 @@ import '../i18n';
  * @returns {JSX.Element} The rendered Home component.
  */
 const Home: React.FC = () => {
-  const [, setCurrentSeconds] = useState(0);
+  const [currentSeconds, setCurrentSeconds] = useState(0);
   const [pinnedInsight, setPinnedInsight] = useState<GameInsight | null>(null);
   const [gameInfo, setGameInfo] = useState<Partial<GameInfo>>({});
   const [gameInsights, setGameInsights] = useState<GameInsight[]>([]);
@@ -89,7 +89,7 @@ const Home: React.FC = () => {
    * @param {number} seconds - The current time in seconds.
    */
   const handleTimeUpdate = (seconds: number) => {
-    setCurrentSeconds(seconds + 3 * 12 * 60);
+    setCurrentSeconds(seconds);
     updateGameInfo(seconds + 3 * 12 * 60);
     updateGameInsights(seconds);
   };
@@ -111,7 +111,7 @@ const Home: React.FC = () => {
 
         {/* Row 2: Feed below */}
         <div className="">
-          <Feed gameInsightArray={gameInsights} onItemClick={handleItemClick} />
+          <Feed gameInsightArray={gameInsights} onItemClick={handleItemClick} currentSeconds={currentSeconds} />
         </div>
       </div>
     </div>

@@ -43,7 +43,7 @@ const PlayerAvatars: React.FC<PlayerAvatarsProps> = ({onAvatarClick, teamHome, d
 
   const handlePlayerClick = (id: string) => {
     setSelectedPlayerId(id);
-    if (dataType === 'historical' && onAvatarClick) {
+    if (onAvatarClick) {
       onAvatarClick(id);
     }
   }

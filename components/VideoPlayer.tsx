@@ -13,8 +13,9 @@ const VideoPlayer: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
   const [videoUrl, setVideoUrl] = useState('ot.mp4');
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
-    // trim the decimal points to 2
-    playedSeconds = Math.round(playedSeconds * 100) / 100;
+    // trim the decimal points 
+    playedSeconds = Math.round(playedSeconds); 
+    console.log(playedSeconds);
     setPalyedSeconds(playedSeconds);
     onTimeUpdate(playedSeconds);
   }

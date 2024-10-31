@@ -8,12 +8,14 @@ interface PlayerHistoryStatsProps {
   playerId: string | null;
   teamHome: boolean;
   statsPeriod: "lastGame" | "last5Games" | "lastSeason";
+  selectedTab: number;
 }
 
 const PlayerHistoryStats: React.FC<PlayerHistoryStatsProps> = ({
   playerId,
   statsPeriod,
   teamHome,
+  selectedTab
 }) => {
   const { t, i18n } = useTranslation("common");
   const [player, setPlayer] = useState<Player | null>(null);
@@ -31,7 +33,7 @@ const PlayerHistoryStats: React.FC<PlayerHistoryStatsProps> = ({
   }, []);
 
   useEffect(() => {
-    if (!playerId) {
+    if (!playerId || selectedTab !== 2) {
       return;
     }
     const selectedGame = localStorage.getItem("selectGame"); // '1013' or '0406'
