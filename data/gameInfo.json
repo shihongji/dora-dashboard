@@ -18,7 +18,9 @@
     "game_time": 2160,
     "quarter": 4,
     "time_left_in_quarter": "12:00",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "clyfbldt8vw",
@@ -39,7 +41,9 @@
     "game_time": 2166,
     "quarter": 4,
     "time_left_in_quarter": "11:54",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "1故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "oshh10sasy",
@@ -60,7 +64,9 @@
     "game_time": 2174,
     "quarter": 4,
     "time_left_in_quarter": "11:46",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "2-pointer",
+    "event_description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。（柳宗元《江雪》）"
   },
   {
     "id": "8i5fatizp82",
@@ -81,7 +87,9 @@
     "game_time": 2180,
     "quarter": 4,
     "time_left_in_quarter": "11:40",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "b7s1bs5576u",
@@ -102,7 +110,9 @@
     "game_time": 2182,
     "quarter": 4,
     "time_left_in_quarter": "11:38",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "md06gsi1abq",
@@ -123,7 +133,9 @@
     "game_time": 2191,
     "quarter": 4,
     "time_left_in_quarter": "11:29",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "ufexvrfed8d",
@@ -144,7 +156,9 @@
     "game_time": 2191,
     "quarter": 4,
     "time_left_in_quarter": "11:29",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "92ssone92n7",
@@ -165,7 +179,9 @@
     "game_time": 2198,
     "quarter": 4,
     "time_left_in_quarter": "11:22",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "pywjij7l88h",
@@ -186,7 +202,9 @@
     "game_time": 2204,
     "quarter": 4,
     "time_left_in_quarter": "11:16",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "6nwoujct76",
@@ -207,7 +225,9 @@
     "game_time": 2208,
     "quarter": 4,
     "time_left_in_quarter": "11:12",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Block",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "26pp8p0yuynh",
@@ -228,7 +248,9 @@
     "game_time": 2215,
     "quarter": 4,
     "time_left_in_quarter": "11:05",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "p5beowfzqf",
@@ -249,7 +271,9 @@
     "game_time": 2218,
     "quarter": 4,
     "time_left_in_quarter": "11:02",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "nxklj8x417",
@@ -270,7 +294,9 @@
     "game_time": 2221,
     "quarter": 4,
     "time_left_in_quarter": "10:59",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "2醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "414e41s22dr",
@@ -291,7 +317,9 @@
     "game_time": 2227,
     "quarter": 4,
     "time_left_in_quarter": "10:53",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "hfu57j5b6mi",
@@ -312,7 +340,9 @@
     "game_time": 2229,
     "quarter": 4,
     "time_left_in_quarter": "10:51",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "3醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "l0fr4dlmf7",
@@ -333,7 +363,9 @@
     "game_time": 2229,
     "quarter": 4,
     "time_left_in_quarter": "10:51",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "diootw8pnmm",
@@ -354,7 +386,9 @@
     "game_time": 2229,
     "quarter": 4,
     "time_left_in_quarter": "10:51",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "桃花潭水深千尺，不及汪伦送我情。（李白《赠汪伦》）"
   },
   {
     "id": "bmic88pexxr",
@@ -375,7 +409,9 @@
     "game_time": 2234,
     "quarter": 4,
     "time_left_in_quarter": "10:46",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "4桃花潭水深千尺，不及汪伦送我情。（李白《赠汪伦》）"
   },
   {
     "id": "2x0kjba7plh",
@@ -396,7 +432,9 @@
     "game_time": 2238,
     "quarter": 4,
     "time_left_in_quarter": "10:42",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "2-pointer",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "fe4uviw83wb",
@@ -417,7 +455,9 @@
     "game_time": 2239,
     "quarter": 4,
     "time_left_in_quarter": "10:41",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "s2zico15vi",
@@ -438,7 +478,9 @@
     "game_time": 2243,
     "quarter": 4,
     "time_left_in_quarter": "10:37",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "5故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "brkvy1hkwc8",
@@ -459,7 +501,9 @@
     "game_time": 2243,
     "quarter": 4,
     "time_left_in_quarter": "10:37",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "6昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "mmq8y5ynuge",
@@ -480,7 +524,9 @@
     "game_time": 2252,
     "quarter": 4,
     "time_left_in_quarter": "10:28",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "fstn9ziadne",
@@ -501,7 +547,9 @@
     "game_time": 2253,
     "quarter": 4,
     "time_left_in_quarter": "10:27",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "u0i359vr5oc",
@@ -522,7 +570,9 @@
     "game_time": 2256,
     "quarter": 4,
     "time_left_in_quarter": "10:24",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "2-pointer",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "ss3428503kb",
@@ -543,7 +593,9 @@
     "game_time": 2262,
     "quarter": 4,
     "time_left_in_quarter": "10:18",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "isb0655rlc",
@@ -564,7 +616,9 @@
     "game_time": 2264,
     "quarter": 4,
     "time_left_in_quarter": "10:16",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "on4vk0jgb9t",
@@ -585,7 +639,9 @@
     "game_time": 2266,
     "quarter": 4,
     "time_left_in_quarter": "10:14",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "wqw6xa1mngi",
@@ -606,7 +662,9 @@
     "game_time": 2266,
     "quarter": 4,
     "time_left_in_quarter": "10:14",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "5nxse5ukj8b",
@@ -627,7 +685,9 @@
     "game_time": 2270,
     "quarter": 4,
     "time_left_in_quarter": "10:10",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "yt6q9q1jhk",
@@ -648,7 +708,9 @@
     "game_time": 2279,
     "quarter": 4,
     "time_left_in_quarter": "10:01",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "e62xki9aksg",
@@ -669,7 +731,9 @@
     "game_time": 2288,
     "quarter": 4,
     "time_left_in_quarter": "9:52",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "7醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "h3bad9yt9eb",
@@ -690,7 +754,9 @@
     "game_time": 2294,
     "quarter": 4,
     "time_left_in_quarter": "9:46",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "8春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "l935qmcg2",
@@ -711,7 +777,9 @@
     "game_time": 2302,
     "quarter": 4,
     "time_left_in_quarter": "9:38",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "6aqzp259mph",
@@ -732,7 +800,9 @@
     "game_time": 2305,
     "quarter": 4,
     "time_left_in_quarter": "9:35",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "2f10r0ehqds",
@@ -753,7 +823,9 @@
     "game_time": 2312,
     "quarter": 4,
     "time_left_in_quarter": "9:28",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "wdq1f9olzvn",
@@ -774,7 +846,9 @@
     "game_time": 2312,
     "quarter": 4,
     "time_left_in_quarter": "9:28",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "2-pointer",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "29lv0fny6q4",
@@ -795,7 +869,9 @@
     "game_time": 2315,
     "quarter": 4,
     "time_left_in_quarter": "9:25",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "9衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "tnovqo4ha2",
@@ -816,7 +892,9 @@
     "game_time": 2323,
     "quarter": 4,
     "time_left_in_quarter": "9:17",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Block",
+    "event_description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。（柳宗元《江雪》）"
   },
   {
     "id": "v6xf4zggppt",
@@ -837,7 +915,9 @@
     "game_time": 2332,
     "quarter": 4,
     "time_left_in_quarter": "9:08",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。（柳宗元《江雪》）"
   },
   {
     "id": "rt25ufbk0xl",
@@ -858,7 +938,9 @@
     "game_time": 2339,
     "quarter": 4,
     "time_left_in_quarter": "9:01",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "10昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "7iv64uti88a",
@@ -879,7 +961,9 @@
     "game_time": 2339,
     "quarter": 4,
     "time_left_in_quarter": "9:01",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "tqfa2iccfsf",
@@ -900,7 +984,9 @@
     "game_time": 2341,
     "quarter": 4,
     "time_left_in_quarter": "8:59",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。（柳宗元《江雪》）"
   },
   {
     "id": "be6ebw80sjk",
@@ -921,7 +1007,9 @@
     "game_time": 2349,
     "quarter": 4,
     "time_left_in_quarter": "8:51",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "zwna8lb2mri",
@@ -942,7 +1030,9 @@
     "game_time": 2358,
     "quarter": 4,
     "time_left_in_quarter": "8:42",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Block",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "4pnpuvey4u",
@@ -963,7 +1053,9 @@
     "game_time": 2358,
     "quarter": 4,
     "time_left_in_quarter": "8:42",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "11会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "57bspzig9sc",
@@ -984,7 +1076,9 @@
     "game_time": 2367,
     "quarter": 4,
     "time_left_in_quarter": "8:33",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "u0gj43thf6",
@@ -1005,7 +1099,9 @@
     "game_time": 2367,
     "quarter": 4,
     "time_left_in_quarter": "8:33",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "4bax8k6mgv1",
@@ -1026,7 +1122,9 @@
     "game_time": 2370,
     "quarter": 4,
     "time_left_in_quarter": "8:30",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "ikx7fiu61dr",
@@ -1047,7 +1145,9 @@
     "game_time": 2371,
     "quarter": 4,
     "time_left_in_quarter": "8:29",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "yik83xkz48",
@@ -1068,7 +1168,9 @@
     "game_time": 2378,
     "quarter": 4,
     "time_left_in_quarter": "8:22",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "c2sbi4j8zg",
@@ -1089,7 +1191,9 @@
     "game_time": 2379,
     "quarter": 4,
     "time_left_in_quarter": "8:21",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "c33lwngbm8o",
@@ -1110,7 +1214,9 @@
     "game_time": 2384,
     "quarter": 4,
     "time_left_in_quarter": "8:16",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "t01pxpif3f7",
@@ -1131,7 +1237,9 @@
     "game_time": 2388,
     "quarter": 4,
     "time_left_in_quarter": "8:12",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "ftfc77n836",
@@ -1152,7 +1260,9 @@
     "game_time": 2391,
     "quarter": 4,
     "time_left_in_quarter": "8:09",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "zkr13lm5nnb",
@@ -1173,7 +1283,9 @@
     "game_time": 2395,
     "quarter": 4,
     "time_left_in_quarter": "8:05",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "xmfmjgnt0pk",
@@ -1194,7 +1306,9 @@
     "game_time": 2398,
     "quarter": 4,
     "time_left_in_quarter": "8:02",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "mooa1vhnx8g",
@@ -1215,7 +1329,9 @@
     "game_time": 2402,
     "quarter": 4,
     "time_left_in_quarter": "7:58",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "ppebk0ircam",
@@ -1236,7 +1352,9 @@
     "game_time": 2404,
     "quarter": 4,
     "time_left_in_quarter": "7:56",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "vwye2lmd1c8",
@@ -1257,7 +1375,9 @@
     "game_time": 2410,
     "quarter": 4,
     "time_left_in_quarter": "7:50",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "0x4m1rv2p5b",
@@ -1278,7 +1398,9 @@
     "game_time": 2412,
     "quarter": 4,
     "time_left_in_quarter": "7:48",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "b96i5y2vh6h",
@@ -1299,7 +1421,9 @@
     "game_time": 2412,
     "quarter": 4,
     "time_left_in_quarter": "7:48",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "rpx78xep1zo",
@@ -1320,7 +1444,9 @@
     "game_time": 2417,
     "quarter": 4,
     "time_left_in_quarter": "7:43",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "epuajcr5lvr",
@@ -1341,7 +1467,9 @@
     "game_time": 2426,
     "quarter": 4,
     "time_left_in_quarter": "7:34",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "uvel305knqc",
@@ -1362,7 +1490,9 @@
     "game_time": 2428,
     "quarter": 4,
     "time_left_in_quarter": "7:32",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "q2kbhgua14f",
@@ -1383,7 +1513,9 @@
     "game_time": 2437,
     "quarter": 4,
     "time_left_in_quarter": "7:23",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "1w8sbck6rg0h",
@@ -1404,7 +1536,9 @@
     "game_time": 2437,
     "quarter": 4,
     "time_left_in_quarter": "7:23",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "xd6ot9rjo6k",
@@ -1425,7 +1559,9 @@
     "game_time": 2445,
     "quarter": 4,
     "time_left_in_quarter": "7:15",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "61vmwr4qbvw",
@@ -1446,7 +1582,9 @@
     "game_time": 2450,
     "quarter": 4,
     "time_left_in_quarter": "7:10",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "jv4l8eb78w",
@@ -1467,7 +1605,9 @@
     "game_time": 2452,
     "quarter": 4,
     "time_left_in_quarter": "7:08",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "12人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "xdhnnqe09e",
@@ -1488,7 +1628,9 @@
     "game_time": 2454,
     "quarter": 4,
     "time_left_in_quarter": "7:06",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "79b84znn0ij",
@@ -1509,7 +1651,9 @@
     "game_time": 2461,
     "quarter": 4,
     "time_left_in_quarter": "6:59",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "ukz9xh0tzrf",
@@ -1530,7 +1674,9 @@
     "game_time": 2461,
     "quarter": 4,
     "time_left_in_quarter": "6:59",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "ubfz6k0a86",
@@ -1551,7 +1697,9 @@
     "game_time": 2467,
     "quarter": 4,
     "time_left_in_quarter": "6:53",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "f10raexj87c",
@@ -1572,7 +1720,9 @@
     "game_time": 2472,
     "quarter": 4,
     "time_left_in_quarter": "6:48",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "13醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "4zm2jwx625f",
@@ -1593,7 +1743,9 @@
     "game_time": 2472,
     "quarter": 4,
     "time_left_in_quarter": "6:48",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "c9u7dwpu6tg",
@@ -1614,7 +1766,9 @@
     "game_time": 2475,
     "quarter": 4,
     "time_left_in_quarter": "6:45",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "mkulu6aojpl",
@@ -1635,7 +1789,9 @@
     "game_time": 2478,
     "quarter": 4,
     "time_left_in_quarter": "6:42",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "14yuvvejlvk",
@@ -1656,7 +1812,9 @@
     "game_time": 2481,
     "quarter": 4,
     "time_left_in_quarter": "6:39",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "qnfqnl76phs",
@@ -1677,7 +1835,9 @@
     "game_time": 2483,
     "quarter": 4,
     "time_left_in_quarter": "6:37",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "tu8ihj2lam",
@@ -1698,7 +1858,9 @@
     "game_time": 2491,
     "quarter": 4,
     "time_left_in_quarter": "6:29",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "wqbzynibmls",
@@ -1719,7 +1881,9 @@
     "game_time": 2495,
     "quarter": 4,
     "time_left_in_quarter": "6:25",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "9b728w7dr1u",
@@ -1740,7 +1904,9 @@
     "game_time": 2498,
     "quarter": 4,
     "time_left_in_quarter": "6:22",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "8h5247dgmzu",
@@ -1761,7 +1927,9 @@
     "game_time": 2507,
     "quarter": 4,
     "time_left_in_quarter": "6:13",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "n1eye7kccv",
@@ -1782,7 +1950,9 @@
     "game_time": 2507,
     "quarter": 4,
     "time_left_in_quarter": "6:13",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "rzfst36k1xj",
@@ -1803,7 +1973,9 @@
     "game_time": 2512,
     "quarter": 4,
     "time_left_in_quarter": "6:08",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，独钓寒江雪。（柳宗元《江雪》）"
   },
   {
     "id": "ccu820h7rfv",
@@ -1824,7 +1996,9 @@
     "game_time": 2512,
     "quarter": 4,
     "time_left_in_quarter": "6:08",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "iwvranc7rcd",
@@ -1845,7 +2019,9 @@
     "game_time": 2519,
     "quarter": 4,
     "time_left_in_quarter": "6:01",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "q8dth3d4szf",
@@ -1866,7 +2042,9 @@
     "game_time": 2524,
     "quarter": 4,
     "time_left_in_quarter": "5:56",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "f9mxz70olfk",
@@ -1887,7 +2065,9 @@
     "game_time": 2531,
     "quarter": 4,
     "time_left_in_quarter": "5:49",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Block",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "jxvzeiewh7h",
@@ -1908,7 +2088,9 @@
     "game_time": 2533,
     "quarter": 4,
     "time_left_in_quarter": "5:47",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "atwcj6tonpr",
@@ -1929,7 +2111,9 @@
     "game_time": 2534,
     "quarter": 4,
     "time_left_in_quarter": "5:46",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "tuaz7bae3ph",
@@ -1950,7 +2134,9 @@
     "game_time": 2541,
     "quarter": 4,
     "time_left_in_quarter": "5:39",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "hpgs01lrvy",
@@ -1971,7 +2157,9 @@
     "game_time": 2549,
     "quarter": 4,
     "time_left_in_quarter": "5:31",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "14劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "5wxuxw5ur3",
@@ -1992,7 +2180,9 @@
     "game_time": 2557,
     "quarter": 4,
     "time_left_in_quarter": "5:23",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "e8fm02x923b",
@@ -2013,7 +2203,9 @@
     "game_time": 2557,
     "quarter": 4,
     "time_left_in_quarter": "5:23",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Block",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "zo21nb5hpd",
@@ -2034,7 +2226,9 @@
     "game_time": 2558,
     "quarter": 4,
     "time_left_in_quarter": "5:22",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "cfg01dv5kff",
@@ -2055,7 +2249,9 @@
     "game_time": 2561,
     "quarter": 4,
     "time_left_in_quarter": "5:19",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "gb7hqweekjm",
@@ -2076,7 +2272,9 @@
     "game_time": 2565,
     "quarter": 4,
     "time_left_in_quarter": "5:15",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "f6rc5oiib6o",
@@ -2097,7 +2295,9 @@
     "game_time": 2566,
     "quarter": 4,
     "time_left_in_quarter": "5:14",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "w8wsb2hx6y",
@@ -2118,7 +2318,9 @@
     "game_time": 2566,
     "quarter": 4,
     "time_left_in_quarter": "5:14",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "f5l5p0wyl5k",
@@ -2139,7 +2341,9 @@
     "game_time": 2569,
     "quarter": 4,
     "time_left_in_quarter": "5:11",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "hxj45wldsw",
@@ -2160,7 +2364,9 @@
     "game_time": 2576,
     "quarter": 4,
     "time_left_in_quarter": "5:04",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "qhhgw3z7y7",
@@ -2181,7 +2387,9 @@
     "game_time": 2584,
     "quarter": 4,
     "time_left_in_quarter": "4:56",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "kv0mt4q41r",
@@ -2202,7 +2410,9 @@
     "game_time": 2593,
     "quarter": 4,
     "time_left_in_quarter": "4:47",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "h72495jkiqw",
@@ -2223,7 +2433,9 @@
     "game_time": 2594,
     "quarter": 4,
     "time_left_in_quarter": "4:46",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "fdgs6eg2ol",
@@ -2244,7 +2456,9 @@
     "game_time": 2597,
     "quarter": 4,
     "time_left_in_quarter": "4:43",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "yodac1ibf08",
@@ -2265,7 +2479,9 @@
     "game_time": 2606,
     "quarter": 4,
     "time_left_in_quarter": "4:34",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "0jhgf2dmuqqd",
@@ -2286,7 +2502,9 @@
     "game_time": 2606,
     "quarter": 4,
     "time_left_in_quarter": "4:34",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "15莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "fg5te94otuu",
@@ -2307,7 +2525,9 @@
     "game_time": 2613,
     "quarter": 4,
     "time_left_in_quarter": "4:27",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "桃花潭水深千尺，不及汪伦送我情。（李白《赠汪伦》）"
   },
   {
     "id": "1os7wmlj2qm",
@@ -2328,7 +2548,9 @@
     "game_time": 2622,
     "quarter": 4,
     "time_left_in_quarter": "4:18",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "vns8q6e4gl8",
@@ -2349,7 +2571,9 @@
     "game_time": 2630,
     "quarter": 4,
     "time_left_in_quarter": "4:10",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "hmju10j80os",
@@ -2370,7 +2594,9 @@
     "game_time": 2635,
     "quarter": 4,
     "time_left_in_quarter": "4:05",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "uzqccrgk3yj",
@@ -2391,7 +2617,9 @@
     "game_time": 2637,
     "quarter": 4,
     "time_left_in_quarter": "4:03",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "92z2adl0qz",
@@ -2412,7 +2640,9 @@
     "game_time": 2642,
     "quarter": 4,
     "time_left_in_quarter": "3:58",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "yn9vetsu6ua",
@@ -2433,7 +2663,9 @@
     "game_time": 2647,
     "quarter": 4,
     "time_left_in_quarter": "3:53",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "n25q76cnd78",
@@ -2454,7 +2686,9 @@
     "game_time": 2652,
     "quarter": 4,
     "time_left_in_quarter": "3:48",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "0u4jr36op20k",
@@ -2475,7 +2709,9 @@
     "game_time": 2659,
     "quarter": 4,
     "time_left_in_quarter": "3:41",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "haqd46187gg",
@@ -2496,7 +2732,9 @@
     "game_time": 2668,
     "quarter": 4,
     "time_left_in_quarter": "3:32",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "jusvcqf9kt",
@@ -2517,7 +2755,9 @@
     "game_time": 2673,
     "quarter": 4,
     "time_left_in_quarter": "3:27",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "kegpiy2nn5r",
@@ -2538,7 +2778,9 @@
     "game_time": 2680,
     "quarter": 4,
     "time_left_in_quarter": "3:20",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "buyweckpxq",
@@ -2559,7 +2801,9 @@
     "game_time": 2689,
     "quarter": 4,
     "time_left_in_quarter": "3:11",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "桃花潭水深千尺，不及汪伦送我情。（李白《赠汪伦》）"
   },
   {
     "id": "ac75cxp0x7",
@@ -2580,7 +2824,9 @@
     "game_time": 2693,
     "quarter": 4,
     "time_left_in_quarter": "3:07",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "衣带渐宽终不悔，为伊消得人憔悴。（柳永《蝶恋花》）"
   },
   {
     "id": "ikx3r1s9e3b",
@@ -2601,7 +2847,9 @@
     "game_time": 2693,
     "quarter": 4,
     "time_left_in_quarter": "3:07",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "tq82dzenplr",
@@ -2622,7 +2870,9 @@
     "game_time": 2698,
     "quarter": 4,
     "time_left_in_quarter": "3:02",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "ssfxy778i9e",
@@ -2643,7 +2893,9 @@
     "game_time": 2705,
     "quarter": 4,
     "time_left_in_quarter": "2:55",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "knucgpxzuzp",
@@ -2664,7 +2916,9 @@
     "game_time": 2705,
     "quarter": 4,
     "time_left_in_quarter": "2:55",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "ygpzpoowj0c",
@@ -2685,7 +2939,9 @@
     "game_time": 2708,
     "quarter": 4,
     "time_left_in_quarter": "2:52",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "kodvveuildf",
@@ -2706,7 +2962,9 @@
     "game_time": 2717,
     "quarter": 4,
     "time_left_in_quarter": "2:43",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "2xv6jhjxvxe",
@@ -2727,7 +2985,9 @@
     "game_time": 2722,
     "quarter": 4,
     "time_left_in_quarter": "2:38",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "4mkzpmnu3d8",
@@ -2748,7 +3008,9 @@
     "game_time": 2728,
     "quarter": 4,
     "time_left_in_quarter": "2:32",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "6m02992x937",
@@ -2769,7 +3031,9 @@
     "game_time": 2732,
     "quarter": 4,
     "time_left_in_quarter": "2:28",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "莫道不消魂，帘卷西风，人比黄花瘦。（李清照《醉花阴》）"
   },
   {
     "id": "9d9zluyff8d",
@@ -2790,7 +3054,9 @@
     "game_time": 2734,
     "quarter": 4,
     "time_left_in_quarter": "2:26",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "6rug6phsmhu",
@@ -2811,7 +3077,9 @@
     "game_time": 2743,
     "quarter": 4,
     "time_left_in_quarter": "2:17",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "omuit09ro5f",
@@ -2832,7 +3100,9 @@
     "game_time": 2749,
     "quarter": 4,
     "time_left_in_quarter": "2:11",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "msndq5cuc4",
@@ -2853,7 +3123,9 @@
     "game_time": 2750,
     "quarter": 4,
     "time_left_in_quarter": "2:10",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Foul",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "dzcexztwfnf",
@@ -2874,7 +3146,9 @@
     "game_time": 2750,
     "quarter": 4,
     "time_left_in_quarter": "2:10",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "fuom9rv0pg4",
@@ -2895,7 +3169,9 @@
     "game_time": 2752,
     "quarter": 4,
     "time_left_in_quarter": "2:08",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "2-pointer",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "g3fwzyln91c",
@@ -2916,7 +3192,9 @@
     "game_time": 2755,
     "quarter": 4,
     "time_left_in_quarter": "2:05",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "人生若只如初见，何事秋风悲画扇。（纳兰性德《木兰花·拟古决绝词》）"
   },
   {
     "id": "eb8voqnhtp5",
@@ -2937,7 +3215,9 @@
     "game_time": 2764,
     "quarter": 4,
     "time_left_in_quarter": "1:56",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "醉翁之意不在酒，在乎山水之间也。（欧阳修《醉翁亭记》）"
   },
   {
     "id": "vjf3m76astr",
@@ -2958,7 +3238,9 @@
     "game_time": 2770,
     "quarter": 4,
     "time_left_in_quarter": "1:50",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "2-pointer",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "9ov9vu1bl9",
@@ -2979,7 +3261,9 @@
     "game_time": 2774,
     "quarter": 4,
     "time_left_in_quarter": "1:46",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "xc91iq9fei",
@@ -3000,7 +3284,9 @@
     "game_time": 2782,
     "quarter": 4,
     "time_left_in_quarter": "1:38",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "锄禾日当午，汗滴禾下土。谁知盘中餐，粒粒皆辛苦。（李绅《悯农》）"
   },
   {
     "id": "4ibggn7niro",
@@ -3021,7 +3307,9 @@
     "game_time": 2782,
     "quarter": 4,
     "time_left_in_quarter": "1:38",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "红豆生南国，春来发几枝。愿君多采撷，此物最相思。（王维《相思》）"
   },
   {
     "id": "cywxr78w3wh",
@@ -3042,7 +3330,9 @@
     "game_time": 2790,
     "quarter": 4,
     "time_left_in_quarter": "1:30",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Free Throw",
+    "event_description": "春眠不觉晓，处处闻啼鸟。夜来风雨声，花落知多少。（孟浩然《春晓》）"
   },
   {
     "id": "pf1fnaaruu",
@@ -3063,7 +3353,9 @@
     "game_time": 2794,
     "quarter": 4,
     "time_left_in_quarter": "1:26",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "3-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "391n5b6k7h9",
@@ -3084,7 +3376,9 @@
     "game_time": 2798,
     "quarter": 4,
     "time_left_in_quarter": "1:22",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "g601llccv5b",
@@ -3105,7 +3399,9 @@
     "game_time": 2802,
     "quarter": 4,
     "time_left_in_quarter": "1:18",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Free Throw",
+    "event_description": "长风破浪会有时，直挂云帆济沧海。（李白《行路难》）"
   },
   {
     "id": "yxx280cfoih",
@@ -3126,7 +3422,9 @@
     "game_time": 2803,
     "quarter": 4,
     "time_left_in_quarter": "1:17",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Substitution",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "orj0luo976c",
@@ -3147,7 +3445,9 @@
     "game_time": 2803,
     "quarter": 4,
     "time_left_in_quarter": "1:17",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
   },
   {
     "id": "0ojjzl07et7",
@@ -3168,7 +3468,9 @@
     "game_time": 2804,
     "quarter": 4,
     "time_left_in_quarter": "1:16",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "ugvlwmt5hec",
@@ -3189,7 +3491,9 @@
     "game_time": 2809,
     "quarter": 4,
     "time_left_in_quarter": "1:11",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Steal",
+    "event_description": "床前明月光，疑是地上霜。举头望明月，低头思故乡。（李白《静夜思》）"
   },
   {
     "id": "hm7pxx11dpi",
@@ -3210,7 +3514,9 @@
     "game_time": 2815,
     "quarter": 4,
     "time_left_in_quarter": "1:05",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "3-pointer",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "4vx02g1opcd",
@@ -3231,7 +3537,9 @@
     "game_time": 2817,
     "quarter": 4,
     "time_left_in_quarter": "1:03",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "d9kuo7fz0m",
@@ -3252,7 +3560,9 @@
     "game_time": 2824,
     "quarter": 4,
     "time_left_in_quarter": "0:56",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Steal",
+    "event_description": "欲穷千里目，更上一层楼。（王之涣《登鹳雀楼》）"
   },
   {
     "id": "azbu4mj5wa",
@@ -3273,7 +3583,9 @@
     "game_time": 2830,
     "quarter": 4,
     "time_left_in_quarter": "0:50",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。（李白《黄鹤楼送孟浩然之广陵》）"
   },
   {
     "id": "ujw9s98f4gd",
@@ -3294,7 +3606,9 @@
     "game_time": 2837,
     "quarter": 4,
     "time_left_in_quarter": "0:43",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Foul",
+    "event_description": "黄鹤一去不复返，白云千载空悠悠。晴川历历汉阳树，芳草萋萋鹦鹉洲。（崔颢《黄鹤楼》）"
   },
   {
     "id": "j2ffv4ps4rt",
@@ -3315,7 +3629,9 @@
     "game_time": 2840,
     "quarter": 4,
     "time_left_in_quarter": "0:40",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Substitution",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "e4u7drhzx35",
@@ -3336,7 +3652,9 @@
     "game_time": 2849,
     "quarter": 4,
     "time_left_in_quarter": "0:31",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "山中相送罢，日暮掩柴扉。春草明年绿，王孙归不归？（王维《山中送别》）"
   },
   {
     "id": "44puhtl5afn",
@@ -3357,7 +3675,9 @@
     "game_time": 2852,
     "quarter": 4,
     "time_left_in_quarter": "0:28",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Turnover",
+    "event_description": "会当凌绝顶，一览众山小。（杜甫《望岳》）"
   },
   {
     "id": "xl85izmqnmi",
@@ -3378,7 +3698,9 @@
     "game_time": 2859,
     "quarter": 4,
     "time_left_in_quarter": "0:21",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "昨夜西风凋碧树，独上高楼，望尽天涯路。（晏殊《蝶恋花》）"
   },
   {
     "id": "8ux7h8lso7l",
@@ -3399,7 +3721,9 @@
     "game_time": 2859,
     "quarter": 4,
     "time_left_in_quarter": "0:21",
-    "possession": "away"
+    "possession": "away",
+    "event_type": "Turnover",
+    "event_description": "劝君更尽一杯酒，西出阳关无故人。（王维《送元二使安西》）"
   },
   {
     "id": "vivjbfn0fce",
@@ -3420,7 +3744,9 @@
     "game_time": 2860,
     "quarter": 4,
     "time_left_in_quarter": "0:20",
-    "possession": "home"
+    "possession": "home",
+    "event_type": "Block",
+    "event_description": "月落乌啼霜满天，江枫渔火对愁眠。（张继《枫桥夜泊》）"
   },
   {
     "id": "ayav9j4bbus",

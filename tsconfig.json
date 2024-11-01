@@ -22,6 +22,7 @@
       "@/*": ["*"],
       "@data/*": ["data/*"],
       "@components/*": ["components/*"],
+      "@context/*": ["context/*"],
       "@types": ["types"],
       "@types/*": ["types/*"]
     }

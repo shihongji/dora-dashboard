@@ -1,15 +1,20 @@
 import React from "react";
-import { GameInsight } from "@types";
+import { GameInfo } from "@types";
+import { useGameInfos } from "@/context/GameInfoContext";
 import { useTranslation } from "next-i18next";
-interface showEventsProps {
-  adviceList: GameInsight[];
-  handleItemClick: (id: string) => void;
-}
-const Events: React.FC<showEventsProps> = ({
-  adviceList,
-  handleItemClick,
-}) => {
+
+const Events = () => {
   const { t } = useTranslation("common");
+  const { gameInfos } = useGameInfos();
+  const adviceList = gameInfos
+    .filter((info: Partial<GameInfo>) => info.event_type)
+    .map((info: Partial<GameInfo>) => ({
+      quarter: info.quarter,
+      time_left_in_quarter: info.time_left_in_quarter,
+      event_type: info.event_type,
+      event_description: info.event_description,
+    }));
+    adviceList.reverse();
   return (
     <div className="overflow-y-auto h-80">
       {adviceList.length === 0 ? (
@@ -19,7 +24,6 @@ const Events: React.FC<showEventsProps> = ({
           {adviceList.map((advice, index) => (
             <li
               key={index}
-              onClick={() => handleItemClick(advice.id)}
               className="mb-2 p-2 rounded-lg cursor-pointer hover:text-zinc-400 transition duration-300 text-lg"
             >
               <span className="text-cp-blue font-semibold">

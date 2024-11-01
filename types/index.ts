@@ -10,6 +10,8 @@ export interface GameInfo {
   quarter: number;
   time_left_in_quarter: string;
   possession: string;
+  event_type?: string;
+  event_description?: string;
 }
 
 interface TeamInfo {
@@ -17,17 +19,6 @@ interface TeamInfo {
   team_name: string;
   score: number;
   turnovers: number;
-}
-
-export interface GameInsight {
-  id: string;
-  game_id: string;
-  game_time: number;
-  video_time: number;
-  quarter: number;
-  time_left_in_quarter: string;
-  event_type: string;
-  event_description: string;
 }
 
 export interface PlayerStats {
