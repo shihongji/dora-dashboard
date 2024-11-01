@@ -1,26 +1,26 @@
 "use client";
 import React, { useEffect, useState } from "react";
-import StatBar from "@components/StatBar";
+import StatBar from "@/components/stats/StatBar";
 import { AdvancedMetric, statsMap } from "@/types";
 import { useTranslation } from "next-i18next";
+import { useVideoTime } from "@/context/VideoTimeContext";
 
 interface RealTimeStatsContainerProps {
   playerId: string | null;
-  currentSeconds: number;
   selectedTab: number;
 }
 
 const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
   playerId,
-  currentSeconds,
   selectedTab,
 }) => {
   const [stats, setStats] = useState<AdvancedMetric[]>([]);
   const [lastUpdateTime, setLastUpdateTime] = useState<number>(-1);
   const [lastPlayerId, setLastPlayerId] = useState<string | null>(null);
   const { i18n } = useTranslation("common");
+  const { currentSecond } = useVideoTime();
   useEffect(() => {
-    const adjustedSeconds = currentSeconds - (currentSeconds % 60);
+    const adjustedSeconds = currentSecond - (currentSecond % 60);
     if (playerId === null || selectedTab !== 1) return;
     const selectedGame = localStorage.getItem("selectedGame");
     const fetchStats = async () => {
@@ -51,15 +51,15 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
 
     if (
       lastUpdateTime == -1 ||
-      currentSeconds - lastUpdateTime >= 60 ||
-      currentSeconds - lastUpdateTime < 0 ||
+      currentSecond - lastUpdateTime >= 60 ||
+      currentSecond - lastUpdateTime < 0 ||
       playerId !== lastPlayerId
     ) {
       fetchStats();
       setLastPlayerId(playerId);
       setLastUpdateTime(adjustedSeconds);
     }
-  }, [playerId, currentSeconds]);
+  }, [playerId, currentSecond]);
 
   return (
     <div className="bg-gray-200 mt-2 p-4 rounded-lg">

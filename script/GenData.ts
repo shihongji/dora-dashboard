@@ -1,5 +1,5 @@
 import * as fs from "fs";
-import { GameInfo, GameInsight } from "@/types";
+import { GameInfo } from "@/types";
 
 // Text data for generating random game insights
 const textArray = [
@@ -94,8 +94,8 @@ const generateRandomGameInfo = (): Partial<GameInfo>[] => {
   return gameInfoArray;
 };
 
-const generateRandomGameInsights = (): Partial<GameInsight>[] => {
-  const gameInsights: Partial<GameInsight>[] = [];
+const generateRandomGameInsights = (): Partial<GameInfo>[] => {
+  const gameInsights: Partial<GameInfo>[] = [];
   const totalGameTime = 48 * 60; // 48 minutes in seconds
   const quarterDuration = 12 * 60; // Each quarter is 12 minutes (720 seconds)
   const events = [
@@ -124,7 +124,6 @@ const generateRandomGameInsights = (): Partial<GameInsight>[] => {
       id: generateRandomId(),
       game_id: "yhbzivp0o8i",
       game_time: currentTime,
-      video_time: videoTime,
       quarter: quarter,
       time_left_in_quarter: `${Math.floor(timeLeftInQuarter / 60)
         .toString()

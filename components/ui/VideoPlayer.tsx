@@ -2,22 +2,19 @@
 
 import React, { useState, useEffect } from "react";
 import ReactPlayer from "react-player";
+import { useVideoTime } from "@/context/VideoTimeContext";
 
-interface PlayerProps {
-  onTimeUpdate: (seconds: number) => void;
-}
 
-const VideoPlayer: React.FC<PlayerProps> = ( {onTimeUpdate} ) => {
+
+const VideoPlayer = () => {
   const [isMounted, setIsMounted] = useState(false);
-  const [, setPalyedSeconds] = useState(0);
+  const { setCurrentSecond } = useVideoTime();
   const [videoUrl, setVideoUrl] = useState('ot.mp4');
 
   const handleProgress = ({ playedSeconds }: { playedSeconds: number }) => {
     // trim the decimal points 
     playedSeconds = Math.round(playedSeconds); 
-    console.log(playedSeconds);
-    setPalyedSeconds(playedSeconds);
-    onTimeUpdate(playedSeconds);
+    setCurrentSecond(playedSeconds);
   }
 
 

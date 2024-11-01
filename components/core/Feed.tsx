@@ -1,34 +1,20 @@
 "use client";
-import React, { useState, useEffect } from "react";
-import { GameInsight } from "@types";
+import React, { useState} from "react";
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import "@components/tabs.css";
-import PlayerAvatars from "@/components/PlayerAvatars";
-import HistoStatsContainer from "@/components/HistoStatsContainer";
-import RealTimeStatsContainer from "@components/ReatTimeStatsContainer";
-import Events from "@components/Events";
+import "@components/core/tabs.css";
+import PlayerAvatars from "@/components/player/PlayerAvatars";
+import HistoStatsContainer from "@/components/stats/HistoStatsContainer";
+import RealTimeStatsContainer from "@/components/stats/ReatTimeStatsContainer";
+import Events from "@/components/ui/Events";
 import { useTranslation } from "next-i18next";
 // Define the structure of each advice
 
-interface FeedProps {
-  currentSeconds: number;
-  gameInsightArray: GameInsight[];
-  onItemClick: (id: string) => void;
-}
 
-const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick, currentSeconds }) => {
+const Feed = () => {
   const { t } = useTranslation("common");
-  const [adviceList, setAdviceList] = useState<GameInsight[]>([]);
   const [playerId, setPlayerId] = useState<string | null>(null);
   const [selectedTab, setSelectedTab] = useState<number>(0);
 
-  useEffect(() => {
-    setAdviceList(gameInsightArray);
-  }, [gameInsightArray]);
-
-  const handleItemClick = (id: string) => {
-    onItemClick(id);
-  };
 
   const handlePlayerClick = (id: string) => {
     setPlayerId(id);
@@ -42,7 +28,7 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick, currentSecon
           <Tab>{ t('realTime') }</Tab>
           <Tab>{ t('history') }</Tab>
         </TabList>
-        <TabPanel><Events adviceList={adviceList} handleItemClick={handleItemClick} /></TabPanel>
+        <TabPanel><Events /></TabPanel>
         {/* real-time data */}
         <TabPanel>
           <Tabs forceRenderTabPanel defaultIndex={0}>
@@ -52,11 +38,11 @@ const Feed: React.FC<FeedProps> = ({ gameInsightArray, onItemClick, currentSecon
             </TabList>
             <TabPanel>
               <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={true} dataType="real-time"/>
-              <RealTimeStatsContainer playerId={playerId} currentSeconds={currentSeconds} selectedTab={selectedTab}/>
+              <RealTimeStatsContainer playerId={playerId} selectedTab={selectedTab}/>
             </TabPanel>
             <TabPanel>
               <PlayerAvatars onAvatarClick={handlePlayerClick} teamHome={false} dataType="real-time"/>
-              <RealTimeStatsContainer playerId={playerId} currentSeconds={currentSeconds} selectedTab={selectedTab}/>
+              <RealTimeStatsContainer playerId={playerId} selectedTab={selectedTab}/>
             </TabPanel>
           </Tabs>
         </TabPanel>

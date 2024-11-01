@@ -1,9 +1,9 @@
-import { GameInsight } from "@types";
+import { GameInfo } from "@types";
 import { useTranslation } from 'next-i18next';
 
 
 interface AlertTextProps {
-  gameInsight: GameInsight | null;
+  gameInsight: Partial<GameInfo> | null;
 }
 
 // components/StyledText.tsx
