@@ -9,7 +9,7 @@ const ScoreBoard = ({ team1, team2, score1, score2, quarter, timeRemaining }:
         </div>
         {/* Game Status */}
         <div className="text-lg">
-          第 {quarter} 节 剩余 {timeRemaining}
+          {quarter}   剩余 {timeRemaining}
         </div>
       </div>
     );

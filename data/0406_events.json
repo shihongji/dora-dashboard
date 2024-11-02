@@ -1,0 +1,2931 @@
+[
+    {
+        "id": "68df1f9d6f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 0,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "05:00"
+    },
+    {
+        "id": "8277073b02",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 33,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "16号田雨，积极拼抢篮板球！",
+        "reason": "16号田雨篮板能力一般（实时状态24，历史数据3.6个），需要提醒他加强篮板球的拼抢。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:48"
+    },
+    {
+        "id": "412488a100",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 33,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "张皓嘉（25号）注意防守詹姆斯（31号）的突破，尽量不要失位，保持防守位置。如果詹姆斯（31号）突破，其他球员要及时补防协防。",
+        "reason": "詹姆斯（31号）的突破能力很强，张皓嘉（25号）的防守能力相对较弱，需要注意詹姆斯（31号）的突破，防止被轻松得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:48"
+    },
+    {
+        "id": "ae292967a3",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 36,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "全体注意，加强防守轮转，盯紧广东队的外线投手，特别是3号胡明轩和51号沃特斯，不要给他们轻松出手三分的机会。",
+        "reason": "广东队外线投射能力强，需要加强防守轮转，限制他们的外线投篮。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:45"
+    },
+    {
+        "id": "467e4b12bc",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 36,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意观察场上局势，根据场上形势灵活选择进攻方式，可以持球突破，也可以传球给队友创造机会，不要盲目单打。",
+        "reason": "沃特斯（51号）的组织串联能力不错，可以根据场上局势，灵活选择进攻方式。盲目单打容易被对方包夹，增加失误的风险。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:45"
+    },
+    {
+        "id": "aeecf8d16c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 67,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "0号林庭谦，注意控制节奏，稳扎稳打，减少失误。",
+        "reason": "加时赛开始阶段，比分焦灼，需要控制节奏，减少失误。林庭谦本场组织串联能力尚可（43），同时作为后卫，他的失误控制至关重要。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:34"
+    },
+    {
+        "id": "1c354d273f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 67,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）突破分球给到外线的杜润旺（18号），注意天津队（0号）林庭谦的防守轮转速度，如果对方换防及时，不要犹豫，大胆出手三分。",
+        "reason": "沃特斯（51号）突破能力不错（31），林庭谦（0号）的移动防守能力一般（31），可以利用沃特斯的突破撕扯对方的防线。同时，杜润旺（18号）的三分投射能力还可以（41），如果能获得空位出手机会，得分概率较高。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:34"
+    },
+    {
+        "id": "568e5ea775",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 70,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "31号詹姆斯，注意卡位，保护篮板球。",
+        "reason": "广东队外线投篮不中，詹姆斯篮板能力不错（52），提醒他要积极卡位，保护好防守篮板。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:31"
+    },
+    {
+        "id": "41e3e3b1b7",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 70,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）注意詹姆斯（31号）的篮下进攻，詹姆斯（31号）的篮下终结能力不错（50），尽量减少詹姆斯（31号）接球机会。",
+        "reason": "詹姆斯（31号）的篮下终结能力强（50），胡明轩（3号）的篮下防守效率低（15），错位防守容易被对手得分，提醒胡明轩注意防守。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:31"
+    },
+    {
+        "id": "2fbf307dfb",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 76,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "注意防守轮转，盯紧广东队的51号沃特斯，防止他的突破，他的突破比较犀利，同时注意协防，不要给他轻松上篮的机会。",
+        "reason": "沃特斯持球进攻，他的突破能力和组织能力都很强（突破31，组织31），提醒队员注意防守轮转，加强对他的防守，限制他的突破和传球。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:25"
+    },
+    {
+        "id": "086aa8e052",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 105
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 76,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，减少失误。可以尝试突破分球给到外线的队友，或者利用挡拆寻求中距离投篮机会。",
+        "reason": "沃特斯（51号）本场手感一般（42），且容易失误，组织串联能力（31）需要提高。而天津队的防守相对薄弱，可以利用突破或挡拆创造得分机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:25"
+    },
+    {
+        "id": "42e7e57c1d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 86,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:15"
+    },
+    {
+        "id": "0cc8144cf6",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 101,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制比赛节奏，不要过快，稳扎稳打，寻找机会给到内线任骏飞（20号）或者外线杜润旺（18号），注意天津队0号林庭谦的突破，他的突破速度很快，注意防守。",
+        "reason": "加时赛开始，比分胶着，需要控制节奏，稳扎稳打，同时，根据实时状态和历史数据，林庭谦突破能力较强，需要重点盯防。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "04:00"
+    },
+    {
+        "id": "795bc53dcf",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 104,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）积极跑位，寻找空位投篮机会；张皓嘉（25号）注意保护篮板球。",
+        "reason": "胡明轩本场手感一般，需要通过跑位调整状态，寻找空位机会；张皓嘉篮板能力较弱，需要提醒注意篮板。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:57"
+    },
+    {
+        "id": "582646219b",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 107,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "注意防守对方51号沃特斯的突破，尽量封堵他的突破路线，迫使他进行传球或远距离投篮。",
+        "reason": "51号沃特斯突破能力强，本场状态不错，根据历史数据他的三分命中率不高，因此我方应该尽量限制他的突破，同时可以适当放他投三分，我方0号林庭谦和13号张云梦的防守能力相对较弱，需要注意协防和换防。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:54"
+    },
+    {
+        "id": "361c7040f6",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 107,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）突破分球要果断，注意天津队的13号张云梦的防守，尽量减少失误。",
+        "reason": "沃特斯组织串联能力不错，但失误也较多，需要提醒他减少失误。张云梦虽然数据一般，但是拼抢积极，需要沃特斯注意。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:54"
+    },
+    {
+        "id": "f02d48a087",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 110,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "31号詹姆斯注意保护篮板球，对方25号张皓嘉的篮板能力较弱，要利用身高优势抢下篮板球，快速发动反击。",
+        "reason": "31号詹姆斯的篮板能力在本队中相对较强，而对方25号张皓嘉篮板能力偏弱，我方需要抓住这个机会，积极拼抢前场篮板，争取二次进攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:51"
+    },
+    {
+        "id": "70936b48d0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 110,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "杜润旺（18号）注意接球后出手时机，不要犹豫，要果断出手三分。",
+        "reason": "杜润旺三分能力不错，但本场手感不佳，需要鼓励他果断出手，找回手感。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:51"
+    },
+    {
+        "id": "48598690ed",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 115,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "加强对51号沃特斯的防守，注意他的传球路线，防止他与其他队友配合得分。",
+        "reason": "沃特斯不仅突破能力强，组织串联能力也不错，我方需要加强对他的防守，同时也要注意其他广东队球员的跑位，防止他们通过空切或挡拆获得得分机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:46"
+    },
+    {
+        "id": "92aed57fb2",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 107
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 115,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，稳扎稳打，尽量减少失误，把球交给更有把握的球员。",
+        "reason": "加时赛关键时刻，沃特斯需要控制节奏，减少失误，把球交给更有把握的球员。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:46"
+    },
+    {
+        "id": "a8bb33d6a9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 136,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:25"
+    },
+    {
+        "id": "afc60929d0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 248,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "林庭谦（0号）注意控制节奏，不要急于进攻，多组织一下进攻，寻找更好的出手机会，可以考虑多传球给内线的詹姆斯（31号）或者外线的时德帅（23号），利用他们的身高或投射优势。",
+        "reason": "比赛刚开始，比分焦灼，需要稳住节奏。林庭谦本场组织串联能力不错（实时状态40），可以让他多组织进攻，找到最佳的进攻点。詹姆斯篮板能力不错（实时状态50，历史数据13.0篮板），可以让他在内线发挥优势。时德帅的三分能力尚可（实时状态45，历史数据36.9%三分命中率），可以拉开空间。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:22"
+    },
+    {
+        "id": "d6da0b9cfd",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 248,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制比赛节奏，不要过快，稳扎稳打，寻找机会突破分球给外线杜润旺（18号），或者内线任骏飞（20号）,注意詹姆斯（31号）的篮板球，尽量卡好位置，保护好后场篮板。",
+        "reason": "加时赛开始，比分胶着，需要控制节奏，稳扎稳打。沃特斯（51号）组织串联能力不错，可以利用突破分球创造机会。同时，詹姆斯（31号）篮板能力较强，需要注意保护后场篮板。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:22"
+    },
+    {
+        "id": "9c341d502e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 251,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号），突破的时候注意观察队友位置，张皓嘉（25号）跑位积极，可以尝试传球给他，形成空位投篮机会。",
+        "reason": "沃特斯（51号）突破能力不错，可以利用突破吸引防守，为队友创造机会。张皓嘉（25号）的跑位比较积极，可以尝试传球给他。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:19"
+    },
+    {
+        "id": "29a18ec6a1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 253,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "詹姆斯（31号）注意卡位，保护好篮板球。",
+        "reason": "广东队突破到内线，天津队防守压力大，詹姆斯需要做好篮板球的保护，防止二次进攻。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:17"
+    },
+    {
+        "id": "873c745377",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 254,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "注意天津队0号林庭谦的突破，他的突破能力不错，尽量封堵他的突破路线，逼迫他投篮。",
+        "reason": "林庭谦（0号）突破能力数据显示为36，相对较高，需要注意他的突破，并进行针对性防守。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:16"
+    },
+    {
+        "id": "d579a5558d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 255,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "快速回防！",
+        "reason": "广东队抢到篮板球，发动快攻，天津队需要快速回防，阻止对手轻松得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:15"
+    },
+    {
+        "id": "fa7085a57c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 105
+        },
+        "video_time": 255,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "防守端注意轮转，不要漏人，保持防守强度,内线球员注意卡位，保护好后场篮板。",
+        "reason": "加时赛最后阶段，需要加强防守，避免给对手轻松得分的机会。提醒球员注意轮转和篮板球的保护。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:15"
+    },
+    {
+        "id": "03875d5d65",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 317,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "林庭谦（0号）注意控制比赛节奏，不要过快，多利用挡拆，寻找错位机会攻击篮筐或分球给外线投手，减少不必要的失误。",
+        "reason": "比赛刚开始，比分胶着，需要稳住节奏。林庭谦（0号）组织串联能力不错（组织串联：39），本赛季场均助攻6.2次，但失误也比较多（本场实时状态战术执行：40，失误2.2），因此提醒他控制节奏。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:14"
+    },
+    {
+        "id": "de76d04f4c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 319,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "时德帅（23号）注意防守杜润旺（18号）的三分球，他三分能力不是很强（三分投射：37），可以适当放他一步，但不要给他空位出手的机会。",
+        "reason": "杜润旺（18号）在三分线外接球，时德帅（23号）需要及时跟防。虽然杜润旺本赛季三分命中率38.5%，但实时三分能力一般（三分投射：37），可以适当放投不放突。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:12"
+    },
+    {
+        "id": "6ae46680e7",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 324,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "詹姆斯（31号）注意篮板球的保护，积极卡位，防止广东队二次进攻。",
+        "reason": "广东队投篮不中，詹姆斯（31号）篮板能力不错（篮板能力：49，场均篮板13），需要提醒他积极拼抢篮板。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:07"
+    },
+    {
+        "id": "a8a7a8fb01",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 324,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号），注意控制节奏，不要过早的出手三分，尽量突破到内线，利用你的速度优势，冲击篮筐，造成杀伤，或者为队友创造机会。",
+        "reason": "比赛刚开始，比分胶着，沃特斯（51号）本场状态一般，三分命中率不高。建议他发挥突破优势，冲击篮筐得分或者为队友创造机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:07"
+    },
+    {
+        "id": "6ab133ef08",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 327,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "林庭谦（0号），突破分球时，注意观察田雨（16号）的跑位，他处于空位，有机会获得三分出手机会。",
+        "reason": "林庭谦（0号）突破能力不错（突破能力：35），可以利用突破吸引防守，为队友创造机会，田雨（16号）本场状态一般（三分投射：32），但历史三分命中率34.6%，可以赌一把。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:04"
+    },
+    {
+        "id": "c03565d762",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 327,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）、张皓嘉（25号），注意对林庭谦（0号）的防守，尽量不要给他轻松投三分的机会。",
+        "reason": "天津队由林庭谦（0号）持球组织进攻，他的三分球有一定的威胁，需要重点盯防。本场胡明轩（3号）、张皓嘉（25号）防守状态一般，容易漏人。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:04"
+    },
+    {
+        "id": "02580bb835",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 331,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "全体防守球员注意轮转，沃特斯（51号）突破能力很强（突破能力：27），要及时补防，不要给他轻易上篮的机会。",
+        "reason": "沃特斯（51号）持球进攻，天津队防守球员需要注意轮转补防，限制他的突破和得分。同时，沃特斯本场状态一般（终结能力：37），可以适当放他投篮。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:00"
+    },
+    {
+        "id": "f31da4e599",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 109
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 331,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "任骏飞（20号），注意篮板球的保护，积极拼抢前场篮板，为球队争取二次进攻机会。",
+        "reason": "广东队进攻未果，任骏飞（20号）本场篮板球拼抢不积极，需要提醒他加强篮板保护，争取二次进攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "03:00"
+    },
+    {
+        "id": "ec58964308",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 355,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:36"
+    },
+    {
+        "id": "905635823e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 366,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "0号林庭谦，注意控制节奏，不要着急，有机会再投，尽量减少失误，稳扎稳打。",
+        "reason": "广东队比分追近，我们需要稳住节奏，减少失误，保证进攻成功率。林庭谦本场组织串联还可以，需要他控制节奏，不要盲目进攻。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:25"
+    },
+    {
+        "id": "3c9a6d3eb4",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 366,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，不要过早的出手三分，多利用突破分球，为队友创造机会。",
+        "reason": "虽然沃特斯（51号）的三分能力不错，但本场比赛手感一般，实时状态显示手感只有34，而他的突破能力26，组织串联26，可以利用突破撕裂对方防线，给队友创造得分机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:25"
+    },
+    {
+        "id": "f9377b38df",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 370,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "16号田雨，注意卡位，保护好篮板球！",
+        "reason": "篮板球非常关键，田雨的篮板能力相对较弱，需要提醒他注意卡位，保护好后场篮板，给对方二次进攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:21"
+    },
+    {
+        "id": "eb26dc72c8",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 372,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）加强对林庭谦（0号）的防守，尽量不要让他轻易出手三分或突破，他的三分和突破对我们威胁很大。",
+        "reason": "林庭谦（0号）是天津队的主要得分手，实时状态显示其三分投射能力43，突破能力34，组织串联38，对广东队的防守威胁很大，胡明轩（3号）需要加强对他的盯防。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:19"
+    },
+    {
+        "id": "d2b296acec",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 373,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "注意防守51号沃特斯，不要给他轻松投篮的机会，尽量逼迫他突破，利用我们的内线高度进行防守。",
+        "reason": "沃特斯的三分球比较准，本场实时状态不错，我们内线球员37号杜伯超的篮下防守效率很高，尽量让沃特斯突破到内线，利用高度优势进行防守。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:18"
+    },
+    {
+        "id": "7055278529",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 375,
+        "coach_for": "天津先行者",
+        "action_type": "暂停",
+        "action": "10号哈姆雷特换下16号田雨；加强对51号沃特斯的防守，尽量切断他和其他球员的联系，同时注意对篮板球的保护。",
+        "reason": "比赛还剩2分钟，我方只领先一分，局势比较紧张，暂停调整一下，换上得分能力更强的10号哈姆雷特，同时加强防守，保护篮板球，争取拿下比赛。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:16"
+    },
+    {
+        "id": "c3b16d2fa1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 106
+        },
+        "video_time": 375,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "注意保护篮板球！",
+        "reason": "广东队篮板球实时状态相对较弱，内线球员需要加强篮板球的保护，防止天津队二次进攻。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:16"
+    },
+    {
+        "id": "f73f594a6e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 109
+        },
+        "video_time": 380,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "02:11"
+    },
+    {
+        "id": "a3670f85ad",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 477,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:46"
+    },
+    {
+        "id": "73b9251146",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 481,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "林庭谦（0号），注意控制比赛节奏，多组织，尽量减少个人单打，把球给到内线的詹姆斯（31号）或者外线的时德帅（23号）,注意挡拆配合的质量，避免失误。",
+        "reason": "加时赛开始阶段，比分胶着，需要稳扎稳打。林庭谦（0号）组织串联能力不错（实时状态37，历史数据助攻6.2），本场可以多发挥他的组织能力，减少失误（历史数据2.2）。詹姆斯（31号）内线终结能力较强（实时状态41），时德帅（23号）有一定三分能力（实时状态41）。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:42"
+    },
+    {
+        "id": "136717c3f3",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 481,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯，注意控制节奏，不要着急，多组织一下进攻，多传导球，给杜润旺创造一些三分机会，他今天的状态不错。",
+        "reason": "沃特斯突破能力不错，但是本场体能消耗比较大，突破效率降低，组织能力很强。杜润旺的三分能力是优势，可以多利用他的三分球打开局面。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:42"
+    },
+    {
+        "id": "177e7bbbe6",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 485,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "时德帅（23号），注意防守杜润旺（18号）的投篮，他三分能力较强,减少他的三分出手。",
+        "reason": "广东队进攻，杜润旺（18号）有三分投射能力（实时状态34），历史数据三分命中率38.5%。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:38"
+    },
+    {
+        "id": "0b3e8c4a75",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 111
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 485,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "任骏飞，注意詹姆斯的篮板球，尽量卡住他，保护好防守篮板。",
+        "reason": "詹姆斯本场篮板能力不错，任骏飞需要重点盯防。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:38"
+    },
+    {
+        "id": "2ee5ab0516",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 489,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "詹姆斯（31号），注意篮板球的保护，积极拼抢进攻篮板。",
+        "reason": "詹姆斯（31号）篮板能力不错（实时状态45，历史数据13），在比分胶着的加时赛中，需要他积极拼抢篮板，争取二次进攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:34"
+    },
+    {
+        "id": "ebb57be079",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 489,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "张皓嘉，注意时德帅的突破，跟紧一点，尽量不要失位，他三分不是很准，可以适当放投三分。",
+        "reason": "时德帅的突破能力一般，三分能力还可以，可以适当放投三分，重点是跟进他的突破。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:34"
+    },
+    {
+        "id": "76a1d09355",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 524,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "提醒0号林庭谦控制节奏，寻找22号罗切斯特或者10号哈姆雷特，尽量创造外线投篮机会，减少突破。",
+        "reason": "比赛还剩1分32秒，比分焦灼，需要利用天津队外线投射能力强的球员创造得分机会。罗切斯特和哈姆雷特本场手感较好，三分能力强，而林庭谦的突破能力一般，组织串联能力不错，因此建议他控制节奏，寻找外线机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:32"
+    },
+    {
+        "id": "b33ff41e19",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 524,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，稳扎稳打，不要轻易失误。现在比分胶着，减少不必要的冒险，确保每一次进攻都有效。",
+        "reason": "比赛刚开始，双方比分接近，需要控制节奏，避免不必要的失误。沃特斯（51号）本场体能下降，组织串联能力也一般，容易出现失误，需要提醒他控制节奏。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:32"
+    },
+    {
+        "id": "6954adbdfc",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 526,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "提醒31号詹姆斯注意防守51号沃特斯的突破，沃特斯突破能力和速度比较快，注意控制他的突破路线，尽量逼迫他投篮。",
+        "reason": "沃特斯的突破能力相对较强，而詹姆斯的移动防守能力较弱，很容易被突破。为了限制沃特斯的得分，需要提醒詹姆斯注意防守策略。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:30"
+    },
+    {
+        "id": "892ebb3ea6",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 526,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "张皓嘉（25号），注意詹姆斯（31号）的突破，尽量干扰他的投篮。",
+        "reason": "詹姆斯（31号）持球，他的突破能力一般（30），但终结能力不错（41），需要张皓嘉（25号）贴身防守，干扰他的投篮。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:30"
+    },
+    {
+        "id": "821206069f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 527,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）准备接应，随时准备接沃特斯（51号）的传球。",
+        "reason": "沃特斯（51号）突破能力一般（23），需要其他球员接应，胡明轩（3号）本场体能和手感尚可，可以参与进攻。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:29"
+    },
+    {
+        "id": "fd25f2d8b1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 110
+        },
+        "video_time": 529,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "任骏飞（20号）注意卡位，保护篮板球！",
+        "reason": "沃特斯（51号）投篮不中，需要保护篮板球。虽然任骏飞（20号）篮板能力（26）一般，但也要积极卡位。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:27"
+    },
+    {
+        "id": "4fc52be17a",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 531,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "全体球员注意篮板球的保护！",
+        "reason": "加时赛最后时刻，每一个球权都至关重要。提醒球员注意篮板球，可以增加二次进攻机会或防止对方二次进攻。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "348b9f5bcf",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 531,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）快速推进，寻找快攻机会。",
+        "reason": "抢到篮板球后，要快速推进，打乱对方防守阵型，寻找快攻机会。沃特斯（51号）组织串联能力虽然一般（24），但也要抓住快攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "3e4fa3d208",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 532,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b657b5a67e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 533,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "e716eec12d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 534,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "632439e8b9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 535,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "8c3232aeaf",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 536,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "01ab87a366",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 537,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "7faa897424",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 538,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "42e1098f1d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 539,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "2e4c016bb2",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 540,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b7f7319948",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 541,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "d049b886a9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 542,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "73d311029d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 543,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "ee565ed419",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 544,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "03e79f88ce",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 545,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "5606729493",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 546,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "fe1569b478",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 547,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b4ad67c01a",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 548,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b16690fdf9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 549,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "1264916a7f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 550,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "4b5eb74d60",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 551,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "a656f149d0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 552,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "475100be24",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 553,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "2ce3dc45f5",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 554,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "261ccf06c4",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 555,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "04bdeb1d47",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 556,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b69e983914",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 557,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "88da84b3ef",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 558,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "222a0b5e97",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 559,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "51adedd814",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 560,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "8e35094dd1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 561,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "ea063fdb6d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 562,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "ef7c6d6ac1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 563,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "bdd709dbd7",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 564,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "7acdb2595d",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 565,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "333bc4841f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 566,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "c345313e54",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 567,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "90b4f56c53",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 568,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "dae35ed2af",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 569,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "e7ee7788d5",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 570,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "2e1387cbf1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 571,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "70301bdf60",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 572,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "bdc3c8307a",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 573,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "1344c05199",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 574,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "8e1ffa087c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 575,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "a31902dd88",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 576,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "31b376d986",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 577,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "a999d1f2ad",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 578,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "58758441b4",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 579,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "6fe9f482c7",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 580,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "036353a273",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 581,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "a2ada5dff0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 582,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "41454ce3b4",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 583,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "7c3833854c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 584,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "9332a506ca",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 585,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "0f5ef61302",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 586,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "c45f02643c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 587,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "27e682a8a8",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 588,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "da3bffb6a1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 589,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b139370713",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 590,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "b87e165817",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 591,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "356f3ae2ae",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 592,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "730c03e965",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 593,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "020d47c66e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 594,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "4923eed9f8",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 595,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "937479211e",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 596,
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:25"
+    },
+    {
+        "id": "2ec69cd3a9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 597,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，不要过快，有机会再给到内线任骏飞（20号），注意天津队詹姆斯（31号）的篮板球拼抢，保护好防守篮板。",
+        "reason": "比赛刚开始，比分焦灼，需要控制节奏，稳扎稳打。詹姆斯本场篮板能力不错，需要注意他的篮板球。同时，沃特斯的突破能力很强，可以利用他的突破分球，给到内线的任骏飞得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:24"
+    },
+    {
+        "id": "79128fcf26",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 603,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "提醒0号林庭谦，注意控制节奏，不要操之过急，多组织队友跑位，寻找空位机会，再发起进攻，不要勉强出手。",
+        "reason": "比赛时间还很充裕，比分落后2分，广东队51号沃特斯防守能力很强，0号林庭谦突破能力有限，应该减少单打，多传球给队友寻找机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:18"
+    },
+    {
+        "id": "2451460242",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 603,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）注意防守林庭谦（0号）的突破，尽量不要失位，可以适当放他投三分。",
+        "reason": "林庭谦的三分命中率一般，突破能力相对较强。胡明轩需要盯紧林庭谦，防止他突破得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:18"
+    },
+    {
+        "id": "484aedcbc1",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 608,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "提醒23号时德帅，要卡好20号任骏飞的位置，保护好后场篮板，防止对方二次进攻。",
+        "reason": "23号时德帅篮板能力比20号任骏飞稍弱，历史数据显示20号任骏飞前板能力较强，必须提醒时德帅注意篮板球的保护。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:13"
+    },
+    {
+        "id": "615ee06287",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 611,
+        "coach_for": "天津先行者",
+        "action_type": "暂停",
+        "action": "10号哈姆雷特换下16号田雨，22号罗切斯特换下13号张云梦；告诉队员要保持冷静，加强防守，减少失误，注意控制篮板球，进攻端多打挡拆配合，拉开空间，为罗切斯特和哈姆雷特创造得分机会。",
+        "reason": "比赛最后时刻，落后2分，需要换上进攻能力更强的22号罗切斯特和10号哈姆雷特，加强进攻，同时利用暂停调整战术，布置关键球的打法。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:10"
+    },
+    {
+        "id": "a2331c3846",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 611,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "进攻端，多打挡拆配合，沃特斯（51号）持球，其他人积极跑位，拉开空间，有机会就投三分，注意控制失误。",
+        "reason": "现在需要加强进攻，多打挡拆配合可以创造出更多的得分机会，同时，沃特斯和外线球员的三分能力不错，可以利用这一点拉开比分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:10"
+    },
+    {
+        "id": "aa17d68e95",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 644,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "注意对方51号沃特斯的突破，他是对方目前状态最好的球员，突破能力和终结能力都很强，突破时尽量减少不必要的犯规，注意协防保护。",
+        "reason": "比赛刚开始，提醒队员注意防守对方主要得分点51号沃特斯，沃特斯的突破能力很强，需要重点盯防。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:07"
+    },
+    {
+        "id": "1077580d2c",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 644,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制节奏，不要着急，多利用挡拆，寻找机会突破或分球给外线空位的队友，例如，杜润旺（18号），保持进攻的耐心和效率，减少失误。",
+        "reason": "比赛刚开始，沃特斯（51号）持球推进速度略快，容易造成失误。同时，根据实时状态显示，沃特斯（51号）手感和组织能力较好，突破能力也比较强，应该充分发挥他的优势。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:07"
+    },
+    {
+        "id": "08cdbdcca6",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 648,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "0号林庭谦，注意控制节奏，减少失误。",
+        "reason": "0号林庭谦本场组织串联能力一般，需要提醒他控制节奏。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:03"
+    },
+    {
+        "id": "6941385638",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 648,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号）加强对林庭谦（0号）的防守，注意他的突破和三分，尽量不要给他轻松出手的机会。",
+        "reason": "林庭谦（0号）是天津队的主要进攻点之一，具备一定的突破和三分能力，需要加强对他的防守，限制他的得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "01:03"
+    },
+    {
+        "id": "10a6e8dff9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 652,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "任骏飞（20号）注意卡位，保护好防守篮板，天津队的詹姆斯（31号）篮板能力不错，要积极拼抢。",
+        "reason": "比分胶着，篮板球至关重要。詹姆斯（31号）的篮板能力较强，任骏飞（20号）需要更积极的卡位和拼抢，保护好防守篮板。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:59"
+    },
+    {
+        "id": "f9868b1f66",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 653,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "16号田雨，注意篮板球的保护，积极拼抢。",
+        "reason": "16号田雨的篮板能力较弱，提醒他注意保护篮板球。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:58"
+    },
+    {
+        "id": "b095d3ece0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 653,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "进攻端多打挡拆配合，寻找错位机会，沃特斯（51号）可以利用突破分球给杜润旺（18号）投三分。",
+        "reason": "沃特斯（51号）突破能力出色，杜润旺（18号）有一定的三分能力，可以通过挡拆配合创造得分机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:58"
+    },
+    {
+        "id": "1e8230736f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 658,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "进攻端多利用挡拆配合，为31号詹姆斯和0号林庭谦创造得分机会，注意转移球，找到空位出手的机会。",
+        "reason": "比赛进入关键时刻，需要通过挡拆配合来创造得分机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:53"
+    },
+    {
+        "id": "bd3a44a9ef",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 658,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "注意防守轮转，不要漏人，保持防守强度。",
+        "reason": "加时赛最后时刻，需要加强防守，避免给对手轻松得分的机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:53"
+    },
+    {
+        "id": "99cdd569a9",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 719,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "詹姆斯（31号），注意防守沃特斯（51号）的突破，他的突破非常犀利，尽量减少他的突破路线，逼迫他进行中远距离投篮。",
+        "reason": "比赛最后时刻，比分胶着，沃特斯（51号）是广东队的主要进攻点，他的突破能力很强（突破能力：55），而詹姆斯（31号）的移动防守能力较弱（移动防守：22），需要提醒他重点盯防沃特斯的突破。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:16"
+    },
+    {
+        "id": "fca29580d0",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 719,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）注意控制比赛节奏，不要着急，多利用挡拆配合，寻找机会突破或分球给外线空位的队友，特别是杜润旺（18号），注意观察他的位置。",
+        "reason": "比赛刚开始，比分紧咬，需要沃特斯（51号）控制节奏，避免出现失误。同时，提醒他要多利用挡拆，发挥他突破和组织能力的优势。杜润旺（18号）的三分能力不错，需要沃特斯多注意他，创造投篮机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:16"
+    },
+    {
+        "id": "bfa8ddc44f",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 723,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "林庭谦（0号）注意控制比赛节奏，不要着急，稳扎稳打，寻找空位投篮机会，或者为队友创造机会。",
+        "reason": "比赛最后时刻，天津队领先1分，需要控制比赛节奏，林庭谦（0号）的组织串联能力不错（组织串联：33），可以让他来掌控比赛节奏。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:12"
+    },
+    {
+        "id": "937db3a467",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 723,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "张皓嘉（25号）和任骏飞（20号）要注意篮板球的保护！",
+        "reason": "詹姆斯（31号）篮板能力很强，张皓嘉（25号）和任骏飞（20号）的篮板能力相对较弱，需要提醒他们加强篮板保护，避免给对手二次进攻的机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:12"
+    },
+    {
+        "id": "9dbc31f659",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 725,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "胡明轩（3号），注意防守林庭谦（0号）的突破，尽量不要给他轻松突破的机会，他突破能力很强。",
+        "reason": "林庭谦（0号）突破能力不错，胡明轩（3号）的防守需要更加积极，避免被对手突破得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:10"
+    },
+    {
+        "id": "0aaa1e2e65",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 729,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "全体注意篮板球！",
+        "reason": "比赛最后时刻，篮板球非常关键，提醒所有球员注意保护篮板球。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:06"
+    },
+    {
+        "id": "669b494d82",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 729,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号），现在可以尝试突破，利用你的速度和技巧冲击篮筐，造成杀伤，或者吸引防守后分球给外线空位的队友，如杜润旺(18号)。",
+        "reason": "沃特斯（51号）的突破能力很强，可以利用突破来打乱天津队的防守，创造得分机会或者助攻队友。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:06"
+    },
+    {
+        "id": "c8ed7d30f3",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 730,
+        "coach_for": "天津先行者",
+        "action_type": "换人",
+        "action": "22号罗切斯特换下16号田雨",
+        "reason": "田雨（16号）的体能已经下降很多（体能：33），而且他的投篮手感和终结能力也不好（手感：23，终结能力：22）。换上罗切斯特（22号）加强进攻，他的体能、手感、三分和突破能力都很好（体能：92，手感：74，三分：74，突破：46）。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:06"
+    },
+    {
+        "id": "3c32b08e0a",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 734,
+        "coach_for": "广东华南虎",
+        "action_type": "暂停",
+        "action": "2号徐杰换下25号张皓嘉；提醒沃特斯（51号）减少个人单打，多组织进攻，利用挡拆配合，为队友创造得分机会，并提醒全队加强防守，注意保护篮板球。",
+        "reason": "暂停时间布置战术，换上徐杰（2号）加强组织进攻，加强对林庭谦（0号）的防守。沃特斯（51号）虽然个人能力很强，但是需要减少个人单打，多组织进攻，发挥团队的整体实力。提醒全队加强防守篮板的保护，限制天津队的二次进攻机会。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:06"
+    },
+    {
+        "id": "c0bb025e18",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 915,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "告诉0号林庭谦，接球后快速出手三分，不要犹豫。",
+        "reason": "时间只有0.6秒，落后1分，只能争取投三分球绝杀了。0号林庭谦本场三分命中率还可以，需要相信他。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:05"
+    },
+    {
+        "id": "9200b781e5",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 915,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）接球后，注意观察队友跑位，寻找空位机会，优先传球给三分线外的杜润旺（18号），如果天津队防守过于紧逼，可以自己持球突破，利用速度和技巧冲击篮筐，争取得分或造成犯规。",
+        "reason": "比赛时间还剩0.6秒，广东队落后1分，需要一次成功的进攻。沃特斯（51号）组织串联能力和突破能力较强，本场手感也较好，是关键时刻的进攻核心。杜润旺（18号）三分投射能力不错，可以埋伏在外线等待机会。如果无法找到空位，沃特斯可以凭借个人能力尝试得分。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:05"
+    },
+    {
+        "id": "9f3c6ea930",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 918,
+        "coach_for": "天津先行者",
+        "action_type": "建议",
+        "action": "提醒31号詹姆斯注意卡位，保护篮板球。",
+        "reason": "0号林庭谦三分出手后，31号詹姆斯篮板卡位不佳，提醒他注意保护篮板球。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:02"
+    },
+    {
+        "id": "76085f2978",
+        "game_id": "5fed5904a9e9",
+        "home_team": {
+            "team_id": "29138",
+            "team_name": "天津先行者",
+            "score": 113
+        },
+        "away_team": {
+            "team_id": "29124",
+            "team_name": "广东华南虎",
+            "score": 112
+        },
+        "video_time": 919,
+        "coach_for": "广东华南虎",
+        "action_type": "建议",
+        "action": "沃特斯（51号）突破后吸引了防守，注意观察篮下队友位置，如果队友处于空位，及时分球；如果队友被严密盯防，可以自己选择上篮或抛投，尽量避免强行出手，造成失误。",
+        "reason": "沃特斯（51号）突破后，天津队防守收缩，可能会出现篮下空位。如果队友处于有利位置，及时分球可以创造更好的得分机会。如果队友被严密盯防，沃特斯可以选择自己终结进攻，但要避免强行出手，造成失误。",
+        "quarter": "加时赛1",
+        "time_left_in_quarter": "00:01"
+    }
+]

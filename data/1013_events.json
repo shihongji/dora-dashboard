@@ -1,0 +1,6051 @@
+[
+    {
+        "id": "1998ed9599",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 0,
+        "quarter": "第3节",
+        "time_left_in_quarter": "12:00"
+    },
+    {
+        "id": "51415a1111",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 32,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "快速回防！",
+        "reason": "我方25号王仔路三分出手不中，提醒球员快速回防，防止对方打快攻反击。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:48"
+    },
+    {
+        "id": "94c043ec30",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 32,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "王岚嵚（33号）注意控制节奏，减少失误。可以尝试突破分球，为队友创造机会。",
+        "reason": "辽宁队快攻，王岚嵚（33号）持球推进，他的突破能力和组织能力不错，但历史数据显示失误率略高。提醒他控制节奏，减少失误。同时，浙江队的防守阵型还未完全落位，建议他尝试突破分球，为队友创造更好的得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:48"
+    },
+    {
+        "id": "aa98c5167f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 35,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "程帅澎（6号）注意对方37号李虎翼的三分，他三分命中率很高，尽量不要给他空位出手的机会。",
+        "reason": "对方37号李虎翼的三分能力很强，历史数据显示其三分命中率为30%。提醒我方6号程帅澎注意防守，尽量不要给对方轻松出手三分的机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:45"
+    },
+    {
+        "id": "301d1bddaf",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 35,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "防守端要注意盯防程帅澎（6号），他的三分球很准，尽量不要给他空位出手的机会，逼迫他突破或者传球。",
+        "reason": "浙江队进攻，程帅澎（6号）埋伏在外线，他的三分球命中率很高，本场状态也不错。提醒球员注意盯防，尽量不要给他空位出手的机会。程帅澎突破能力也不错，但终结能力相对较弱。可以适当放他一步，逼迫他突破或者传球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:45"
+    },
+    {
+        "id": "ddd75972a8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 53,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "弗格（4号）注意巴斯（35号）的低位单打，尽量减少他的接球机会。巴斯本场状态火热，篮下终结能力很强，要注意控制篮板球。",
+        "reason": "巴斯（35号）的低位单打能力很强，本场状态也不错。弗格（4号）虽然也有一定的防守能力，但是身高和力量上处于劣势，需要提醒他注意防守策略，并控制篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:36"
+    },
+    {
+        "id": "68a11c2aa6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 54,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意弗格（4号）的突破，他喜欢利用速度和变向突破，尽量贴身防守，不要给他轻松突破的机会。",
+        "reason": "弗格突破能力强，王仔路防守能力相对较弱，需要提醒注意防守。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:35"
+    },
+    {
+        "id": "27a6df0185",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 59,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号）要卡好位置，保护好篮板球。",
+        "reason": "辽宁队内线球员赵率舟篮板能力不错，余嘉豪需要在篮下卡位，保护防守篮板球，避免二次进攻。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:30"
+    },
+    {
+        "id": "9d158782c6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 59,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "王岚嵚（33号）突破时要注意保护球，对方程帅澎（6号）的抢断能力很强。",
+        "reason": "王岚嵚（33号）突破能力不错，但是浙江队程帅澎（6号）的防守和抢断能力也很突出。为了避免失误，需要提醒王岚嵚（33号）在突破过程中更加谨慎，保护好球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:30"
+    },
+    {
+        "id": "a8802ecc8e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 90,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路(25号)，注意防守对方的快攻，快速回防，盯紧33号王岚嵚，他速度很快，注意他的突破和三分。",
+        "reason": "辽宁队快攻推进速度很快，我方25号王仔路回防速度慢，33号王岚嵚的本场三分和终结能力数据很高，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:22"
+    },
+    {
+        "id": "2e6343e5ff",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 90,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "手骐（36号），注意防守王奕博（15号）的突破，他突破的时候，尽量卡住他的突破路线，逼迫他投篮或者传球。",
+        "reason": "王奕博（15号）突破能力强，鄢手骐（36号）防守能力稍弱，容易被突破，限制他的突破，可以降低他的进攻效率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:22"
+    },
+    {
+        "id": "30d6146f53",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 95,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "奕博(15号)和帅澎(6号)，注意控制失误，减少不必要的传球失误。",
+        "reason": "对方防守强度很大，15号王奕博和6号程帅澎的传球路线容易被对方球员判断，我方需要减少失误，稳扎稳打。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:17"
+    },
+    {
+        "id": "98db9d6ed6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 95,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "岚嵚（33号），有机会就投三分，你的手感不错，要相信自己。注意，要控制好节奏，不要太着急。",
+        "reason": "王岚嵚（33号）本场三分命中率不错，而且历史数据显示他的三分能力也不错，应该多利用他的三分优势。同时提醒他控制节奏，避免失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:17"
+    },
+    {
+        "id": "21da3ce980",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 101,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "嘉豪(11号)，篮下要位积极一点，巴斯(35号)多给他做球，对方内线防守相对较弱，利用好嘉豪的身高优势。",
+        "reason": "11号余嘉豪拥有身高优势，篮下终结能力强，应该充分利用这一点，多打内线，形成错位优势。而对方内线防守球员0号阿丘尔虽然篮下防守数据较高，但移动速度较慢，余嘉豪可以利用这一点。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:11"
+    },
+    {
+        "id": "2318d41e7b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 61
+        },
+        "video_time": 101,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "率舟（7号），注意篮板！保护好防守篮板。",
+        "reason": "赵率舟（7号）篮板能力较弱，提醒他注意保护防守篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "11:11"
+    },
+    {
+        "id": "9a95fb563c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 125,
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:47"
+    },
+    {
+        "id": "0ed2266ca8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 136,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王仔路（25号）注意接应球后，快速传导球给到内线余嘉豪（11号），利用他的身高优势强打篮下，如果辽宁本钢进行包夹，再分球给外线空位的程帅澎（6号）进行三分投射。",
+        "reason": "目前比分落后，需要加强进攻效率。余嘉豪（11号）篮下终结能力78，历史命中率62.2%，具有身高优势。程帅澎（6号）三分投射能力87，历史命中率26.9%，本场手感火热，可以抓住外线机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:36"
+    },
+    {
+        "id": "2937cf3174",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 136,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "篮下一定要卡好25号王仔路，37号李虎翼注意协防，不要失位。",
+        "reason": "浙江队25号王仔路篮下终结能力不错，辽宁队37号李虎翼的篮下防守能力较弱，容易失位，提醒李虎翼注意协防，防止王仔路篮下得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:36"
+    },
+    {
+        "id": "90d0e81d07",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 140,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意保护篮板球！",
+        "reason": "0号阿丘尔篮板能力不错，提醒他要积极拼抢篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:32"
+    },
+    {
+        "id": "57f0c88c82",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 141,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "巴斯（35号）背身单打时，要注意观察队友的跑位，王奕博（15号）要注意寻找空切机会，如果对方防守球员收缩到篮下，要及时传球给外线空位的队友，创造三分出手机会。",
+        "reason": "巴斯（35号）背身单打能力强，终结能力81，但容易被包夹，需要队友的配合。王奕博（15号）突破能力和组织能力一般，需要寻找更好的得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:31"
+    },
+    {
+        "id": "b819e2152a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 55
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 145,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，不要着急！有机会再突破。",
+        "reason": "王岚嵚突破能力不错，但是浙江队的防守很严密，提醒他控制节奏，寻找合适的突破时机。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:27"
+    },
+    {
+        "id": "eefd6f1edc",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 58
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 146,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "防守端要注意对辽宁本钢的33号王岚嵚的突破进行限制，他的终结能力很强，突破能力81分，注意收缩内线防守，减少他的突破路线。同时，要注意37号李虎翼的三分球，三分投射73，及时进行干扰，放他进行突破。",
+        "reason": "辽宁本钢的33号王岚嵚突破犀利，需要重点盯防，收缩内线，迫使他传球。37号李虎翼三分威胁较大，需要及时进行干扰，但他的突破能力较弱，可以适当放突不放投。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "10:26"
+    },
+    {
+        "id": "8cf7eaefff",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 177,
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:55"
+    },
+    {
+        "id": "3485037d27",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 271,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意对方33号王岚嵚的突破，他的突破速度很快，启动第一步比较突然，尽量贴身防守，不要给他轻松突破的机会。",
+        "reason": "对方33号王岚嵚持球，王岚嵚本场手感火热，突破能力也很强，实时状态显示，他的终结能力和三分投射能力都很高，需要对他进行重点盯防，防止他得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:53"
+    },
+    {
+        "id": "35e3d6986d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 271,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，稳扎稳打，多利用挡拆配合，寻找空位出手的机会，或者突破分球给内线的0号阿丘尔和7号赵率舟。",
+        "reason": "目前比分胶着，王岚嵚手感火热，突破和三分能力都不错，应该继续发挥他的优势，通过挡拆配合，找到最佳的进攻机会，同时要注意减少失误，保持进攻的稳定性。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:53"
+    },
+    {
+        "id": "75aa9f8b03",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 272,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "注意防守对方的6号程帅澎，他的三分球非常准，尽量不要给他空位出手的机会，可以适当放他一步突破，利用内线球员的协防来限制他的得分。",
+        "reason": "程帅澎的三分命中率很高，对我们的防守是一个很大的威胁，要重点盯防，限制他的外线投射。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:52"
+    },
+    {
+        "id": "006602cc55",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 276,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "奕博（15号），注意控制节奏，稳扎稳打，不要操之过急。",
+        "reason": "王奕博持球推进，从实时状态来看，他的突破能力和组织串联能力一般，需要提醒他控制节奏。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:48"
+    },
+    {
+        "id": "87da425d33",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 280,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "嘉豪（11号），篮下要位积极一点，注意卡位，准备抢篮板！",
+        "reason": "根据实时状态和历史数据，余嘉豪的篮板能力不错，提醒他要积极卡位准备抢篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:44"
+    },
+    {
+        "id": "ecdc539d80",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 280,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，积极拼抢篮板球，保护好防守篮板，为我们争取二次进攻的机会。",
+        "reason": "赵率舟的篮板能力不错，要充分发挥他的优势，在进攻和防守两端都要积极拼抢篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:44"
+    },
+    {
+        "id": "d83c46b789",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 285,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "全体注意回防，对方快攻速度很快，保护好篮板球！",
+        "reason": "辽宁队完成投篮，提醒球员注意回防，保护后场篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:39"
+    },
+    {
+        "id": "a7821393ef",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 64
+        },
+        "video_time": 285,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "进攻端多打内线，利用0号阿丘尔的篮下优势强攻，或者吸引防守后分球给外线的空位射手。",
+        "reason": "阿丘尔的内线进攻能力很强，可以利用他的优势来攻击对方的内线防守，同时也可以为外线球员创造得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:39"
+    },
+    {
+        "id": "2da874d115",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 67
+        },
+        "video_time": 286,
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:38"
+    },
+    {
+        "id": "3852eac714",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 69
+        },
+        "video_time": 309,
+        "quarter": "第3节",
+        "time_left_in_quarter": "09:15"
+    },
+    {
+        "id": "78075d576d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 329,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "da1e206858",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 330,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f0f33914e1",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 331,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "6abd6fc761",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 332,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "749d76ef10",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 333,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "4ac7dcfc84",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 334,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "76f69923fa",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 335,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "4dc9620f7d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 336,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "a722cadbaf",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 337,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "3240492ff7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 338,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d32f293d84",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 339,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "85827c1512",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 340,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c8458e6b9d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 341,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e2ad3fa373",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 342,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "86a9055e0b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 343,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d053b6f0e3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 344,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "7ee6d5f0ab",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 345,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d46baaf1f9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 346,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "36dd70427a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 347,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "64f96da3b1",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 348,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c5c9309836",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 349,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f36bdd064d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 350,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f4df036fc0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 351,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "6f261ee5bb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 352,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e87567fbc6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 353,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "93e5a21b04",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 354,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "97f80422c3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 355,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "43d71316ba",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 356,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c8b733a955",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 357,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d0a785f6ff",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 358,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d87dee7547",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 359,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ecf8386cb8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 360,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "78d64e38bb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 361,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "9a8939b85e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 362,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "b29a4a47d0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 363,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "0c686bdb62",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 364,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "7e4b07727d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 365,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e0894d6c53",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 366,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "7ed82aff83",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 367,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "db004e7f2c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 368,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e8e9a3f50e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 369,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "a146dbe396",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 370,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "7157ed5044",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 371,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e2edacabd4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 372,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "fb5212b0c2",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 373,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f4c2436e37",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 374,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "1808bebf56",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 375,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f1b55b814b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 376,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "04a05247d0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 377,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ca1e1937fd",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 378,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "5182d7fb04",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 379,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "27fe403dc1",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 380,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "348901e1eb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 381,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "356593fc71",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 382,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "2952a4c2cd",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 383,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "9dca798d0a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 384,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "8ded51bf85",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 385,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "332cff7f58",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 386,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "a0e98818bf",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 387,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "b2151cff0a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 388,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "1eda106565",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 389,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "079ddea5fe",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 390,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "a95fb112b9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 391,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ab72b50e1f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 392,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c9a6f8d7d5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 393,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "7441baa93a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 394,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e401d1c4d7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 395,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "27de08ea5b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 396,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "cd6c672a96",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 397,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c111d528c8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 398,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "dbf61dccc9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 399,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ab6fe2c3d9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 400,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "adcb71ad49",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 401,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "5b34d26ef5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 402,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "1858b0f7c0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 403,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "cbcb349218",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 404,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "1cebb5bdba",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 405,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "29b1653408",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 406,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ae6ed80ef0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 407,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "77afe44310",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 408,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "1d52c793fd",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 409,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "6af293ce30",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 410,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "e1ed2d9864",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 411,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "4569213669",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 412,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "36eb29e0d7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 413,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "3cd6de2a33",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 414,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c250a81076",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 415,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "c6033dc216",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 416,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "92b8fd958b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 417,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "021db5d638",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 418,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "3f69989caa",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 419,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "8f06f1675b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 420,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "084d49519e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 421,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "4e779ed512",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 422,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "446a4ee993",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 423,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "11daf6efd6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 424,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "ad62eb4306",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 425,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "aa814b09d6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 426,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "f5756dfaf8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 427,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:55"
+    },
+    {
+        "id": "d35fee24de",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 428,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意你的防守位置，不要给李虎翼（37号）轻易出手三分的机会，他三分能力很强，尽量贴身防守。",
+        "reason": "李虎翼（37号）的三分投射能力不错（三分投射:73），王仔路（25号）的防守位置不好，容易给对方轻松出手三分的机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:54"
+    },
+    {
+        "id": "adb537cae0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 428,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，突破的时候要注意观察队友的位置，有机会就分球给空位的队友，比如7号赵率舟和37号李虎翼，他们的三分命中率都不错，可以尝试拉开空间。",
+        "reason": "目前比分领先，可以尝试多打一些配合，提升进攻效率。33号王岚嵚突破能力不错，但是浙江队内线有11号余嘉豪，篮下防守能力很强。王岚嵚的组织串联能力和传球视野也很好，可以利用这一点，为外线队友创造机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:54"
+    },
+    {
+        "id": "2100e78e33",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 432,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "防守端要注意盯紧浙江队的6号程帅澎和35号巴斯，程帅澎的三分很准，巴斯突破能力很强，注意控制篮板球。",
+        "reason": "6号程帅澎的三分投射能力很强，本场实时状态也很好，需要重点盯防，尽量减少他的三分出手次数，35号巴斯历史数据显示，篮板和突破能力很强，需要注意他的突破和篮板球的保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:50"
+    },
+    {
+        "id": "33ea9baac5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 439,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），注意卡位，保护好篮板球！",
+        "reason": "篮下争抢激烈，提醒余嘉豪（11号）注意卡位，保护好后场篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:43"
+    },
+    {
+        "id": "e2bfe962df",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 440,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）注意控制节奏，不要着急，有机会再传给内线的余嘉豪（11号），利用他的身高优势强攻篮下。",
+        "reason": "辽宁队防守严密，快攻机会不好，建议王奕博（15号）控制节奏，打阵地战，利用余嘉豪（11号）的身高优势。 ",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:42"
+    },
+    {
+        "id": "08ed1b59ac",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 440,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意卡位，保护好防守篮板球! 37号李虎翼，积极跑位，寻找空位投篮机会。",
+        "reason": "篮板球的保护对于比赛的胜利至关重要。0号阿丘尔篮板能力不错，需要他积极卡位，保护好防守篮板球。同时，37号李虎翼的三分投射能力不错，需要他积极跑位，寻找空位投篮机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:42"
+    },
+    {
+        "id": "ea42822f93",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 468,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意对位李虎翼（37号）的防守，他的三分命中率很高，尽量不要给他轻松出手三分的机会，可以适当放他一步突破，利用你的身高臂展优势干扰他的投篮。",
+        "reason": "辽宁队李虎翼（37号）的三分球命中率很高，本场手感也不错，实时三分投射能力有73，而我方王仔路（25号）的防守能力一般，实时移动防守能力36，篮下防守能力28，需要提醒他注意防守策略。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:36"
+    },
+    {
+        "id": "3e6ce5eb19",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 468,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "加强防守强度，注意对持球人的压迫，尽量减少他们的投篮机会。33号王岚嵚注意防守6号程帅澎的三分，37号李虎翼注意卡位，保护篮板球。",
+        "reason": "比分落后，需要加强防守。浙江队6号程帅澎三分能力很强（实时状态三分投射80，历史三分命中率26.9%），需要重点盯防。同时，要保护好篮板球，37号李虎翼篮板能力较弱（实时状态篮板能力23），需要提醒他注意卡位。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:36"
+    },
+    {
+        "id": "7147da55f6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 472,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），篮下要卡好位置，积极拼抢篮板球。赵率舟（7号）篮板能力一般，实时篮板能力21，你要利用好你的身高和篮板能力优势（实时篮板能力64），保护好后场篮板。",
+        "reason": "余嘉豪（11号）内线优势明显，历史数据和实时数据篮板能力都很强，而赵率舟（7号）的篮板能力较弱，浙江队需要充分利用余嘉豪的优势，控制篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:32"
+    },
+    {
+        "id": "d4bfe578c4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 472,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，积极跑位，寻找空位投篮机会。0号阿丘尔，注意挡拆质量，给队友创造得分机会。",
+        "reason": "进攻端需要更多得分点，7号赵率舟的空位三分命中率较高（实时状态三分投射62，历史三分命中率16.7%），需要积极跑位，寻找空位投篮机会。0号阿丘尔可以利用挡拆为队友创造得分机会（实时状态篮下防守53）。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:32"
+    },
+    {
+        "id": "91ac2efd8b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 477,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "全体注意，快速退防！保持防守阵型，不要被辽宁队打快速反击。",
+        "reason": "辽宁队喜欢打快速反击，浙江队需要提醒球员注意退防，避免被对手轻松得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:27"
+    },
+    {
+        "id": "6860f56ba8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 61
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 477,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "快速回防！",
+        "reason": "防止浙江队快攻。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:27"
+    },
+    {
+        "id": "ae807b7696",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 496,
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:08"
+    },
+    {
+        "id": "9fcfe9137c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 502,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）要注意控制比赛节奏，现在比分落后，不要盲目快速推进，稳扎稳打，寻找合适的进攻机会，多利用余嘉豪（11号）的内线优势。",
+        "reason": "浙江稠州金租落后7分，需要稳住阵脚，王奕博（15号）组织串联能力不错（实时状态42，历史数据助攻3.8），余嘉豪（11号）内线优势明显（终结能力78，篮板能力64），应该多利用这一点。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:02"
+    },
+    {
+        "id": "47787ef579",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 502,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，突破分球给到外线的队友，37号李虎翼的三分命中率不错，可以多尝试给他创造一些三分出手机会。",
+        "reason": "浙江稠州金租的内线防守较强，35号巴斯和11号余嘉豪的篮下防守效率很高，直接强攻内线比较困难。33号王岚嵚本场手感火热（手感80，三分82），突破能力也不错（突破37），可以利用突破吸引防守，然后分球给到外线空位的队友，37号李虎翼的三分能力不错（三分73），可以多尝试。同时，要注意控制失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "08:02"
+    },
+    {
+        "id": "52a711030d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 507,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "程帅澎（6号），有机会就果断出手三分，你的三分能力很强（实时状态76，历史数据三分命中率26.9%），注意出手时机和选择。",
+        "reason": "程帅澎（6号）本场三分感觉不错，可以利用他的外线投射能力来追分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:57"
+    },
+    {
+        "id": "d22f5ebe65",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 507,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，注意卡位，保护好篮板球！",
+        "reason": "7号赵率舟的篮板能力相对较弱（篮板21），在与浙江稠州金租的内线球员对抗中处于劣势，需要更加积极的卡位，保护好防守篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:57"
+    },
+    {
+        "id": "e51ab62926",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 510,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），注意卡位，保护好篮板球! 篮板球很关键！",
+        "reason": "余嘉豪（11号）篮板能力很强（实时状态64，历史数据篮板9.2），要充分发挥他的优势，控制篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:54"
+    },
+    {
+        "id": "4371fce2fa",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 510,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，不要着急，多组织一下进攻。",
+        "reason": "连续的快速进攻没有取得好的效果，需要放慢节奏，重新组织进攻，寻找更好的得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:54"
+    },
+    {
+        "id": "068bdca814",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 515,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "巴斯（35号），注意控制失误，你的失误次数有点多（历史数据失误4.0），减少不必要的传球，稳扎稳打。",
+        "reason": "巴斯（35号）虽然能力全面，但是历史数据显示失误较多，提醒他减少失误，保证进攻效率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:49"
+    },
+    {
+        "id": "baa8a38c1f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 64
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 515,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "全体队员，注意防守轮转，15号王奕博的突破能力很强（突破37），要及时补防，限制他的突破。",
+        "reason": "15号王奕博的组织串联能力很强（组织42），需要加强对他的防守，限制他的突破和传球，避免浙江队轻松得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:49"
+    },
+    {
+        "id": "fce2f73095",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 71
+        },
+        "video_time": 526,
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:38"
+    },
+    {
+        "id": "554202147f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 618,
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:19"
+    },
+    {
+        "id": "fae50970b3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 624,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "15号王奕博，注意控制节奏，多利用挡拆突破分球，为外线创造机会，同时注意保护篮板。",
+        "reason": "辽宁队防守强度提升，比分落后，需要王奕博加强组织串联能力，利用其突破和分球能力，创造得分机会，同时提醒其注意保护篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:13"
+    },
+    {
+        "id": "a7c072f7ca",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 625,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，多组织进攻，不要一味地自己进攻，要充分调动队友，发挥团队优势。",
+        "reason": "王岚嵚本场手感火热，得分欲望强烈，但几次进攻选择不够合理，导致进攻效率下降。本场王岚嵚的组织串联能力数据为39，历史数据助攻7.0，需要他更多组织。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:12"
+    },
+    {
+        "id": "86cb197252",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 630,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "6号程帅澎，有机会就果断出手三分，保持侵略性。11号余嘉豪，积极卡位抢篮板，保护好防守篮板。",
+        "reason": "程帅澎本场三分命中率较高，手感正佳，鼓励其继续保持侵略性。同时提醒余嘉豪注意篮板球的保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:07"
+    },
+    {
+        "id": "1943193bc3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 66
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 630,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "防守端要注意对浙江队6号程帅澎的盯防，他的三分命中率很高，本场三分投射能力74，历史三分命中率26.9%，要尽量限制他的三分出手。",
+        "reason": "浙江队6号程帅澎的三分球是他们的重要得分手段，本场他的状态不错，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "07:07"
+    },
+    {
+        "id": "0037050cb1",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 703,
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:59"
+    },
+    {
+        "id": "b5fe515eb9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 706,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王仔路（25号）注意防守李虎翼（37号）的三分，他的三分命中率很高，实时状态显示，他的三分投射能力值为73，接近联盟顶级水平。",
+        "reason": "李虎翼（37号）的三分能力很强，本场状态也很好，需要注意防守他的三分出手。实时状态显示，他的三分投射能力值为73，接近联盟顶级水平。虽然他的历史数据看起来一般，但是样本量很小，参考价值不大。本场需要重点盯防。王仔路（25号）的防守能力一般，需要提醒他注意防守。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:56"
+    },
+    {
+        "id": "2b4a9fe159",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 706,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意对方6号程帅澎的三分，他的三分命中率很高，突破的时候注意他的第一步启动速度很快，尽量不要失位。",
+        "reason": "对方6号程帅澎的三分球命中率很高，实时状态三分投射能力85，历史三分命中率26.9%，而我方33号王岚嵚的移动防守只有33，篮下防守26，需要提醒他注意防守对方6号程帅澎的三分和突破。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:56"
+    },
+    {
+        "id": "8c9512a41b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 708,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号）注意卡位，保护篮板球！",
+        "reason": "对方投篮不中，余嘉豪（11号）篮板能力很强，需要他积极卡位，保护好防守篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:54"
+    },
+    {
+        "id": "ebdbf8ba2a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 708,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，篮下要卡好位置，保护好篮板球。",
+        "reason": "0号阿丘尔的篮下防守不错，实时状态篮下防守46，篮板能力40，但需要提醒他注意篮板球的保护，因为对方35号巴斯的篮板能力很强，实时状态篮板能力72，历史篮板12.2。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:54"
+    },
+    {
+        "id": "e438c671ce",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 714,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "进攻端多打挡拆配合，程帅澎（6号）持球突破后，注意观察队友位置，及时分球，巴斯（35号）注意内线要位，为队友创造得分机会。",
+        "reason": "程帅澎（6号）突破能力和终结能力都不错，可以利用他的突破来撕裂对方防线，为队友创造得分机会。巴斯（35号）内线终结能力强，需要积极要位，准备接球得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:48"
+    },
+    {
+        "id": "bc36d61d98",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 69
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 714,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，注意对方11号余嘉豪的篮下进攻，他的终结能力很强，实时状态终结能力76，尽量减少他的低位单打机会。",
+        "reason": "7号赵率舟的防守能力相对较弱，实时状态移动防守23，篮下防守20，而对方11号余嘉豪的终结能力很强，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:48"
+    },
+    {
+        "id": "10f38d6b1a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 715,
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:47"
+    },
+    {
+        "id": "5c50811302",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 753,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）要注意控制节奏，稳扎稳打，多利用余嘉豪（11号）的内线优势，打高位策应，不要轻易出手三分，把球更多地交到内线球员手中。",
+        "reason": "辽宁队内线防守相对薄弱，余嘉豪（11号）在内线有身高优势，应该多利用这一点。王奕博（15号）本场手感一般（65），他的突破和组织能力更强，应该发挥他的优势。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:33"
+    },
+    {
+        "id": "37cd192775",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 753,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，稳扎稳打，多利用挡拆配合，寻找错位机会，突破分球给外线空位球员，或者自己投篮。",
+        "reason": "浙江稠州金租的防守比较紧密，需要王岚嵚通过组织串联来调动防守，创造得分机会。王岚嵚本场状态不错，手感火热，三分投射能力强，突破能力也不错，可以利用他的优势来攻击对方的防守弱点。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:33"
+    },
+    {
+        "id": "505e3de6f5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 755,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，注意卡位，保护篮板球。",
+        "reason": "赵率舟的篮板能力相对较弱，需要提醒他积极卡位，避免对方二次进攻。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:31"
+    },
+    {
+        "id": "c1f2b6d407",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 756,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "程帅澎（6号），注意对王岚嵚（33号）的防守！他的三分很准，尽量不要给他空位出手的机会。",
+        "reason": "王岚嵚（33号）的三分投射能力很强（82），本场手感火热（79），必须对他进行严防，限制他的得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:30"
+    },
+    {
+        "id": "26db79d76e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 757,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "37号李虎翼，注意防守6号程帅澎的三分球，程帅澎的三分球命中率很高，不要给他轻易出手的机会。",
+        "reason": "程帅澎是浙江稠州金租队的主要得分点之一，三分球命中率很高，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:29"
+    },
+    {
+        "id": "abc58e0104",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 758,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），篮下要强硬！积极拼抢篮板球！",
+        "reason": "余嘉豪（11号）虽然身高占优，但篮板能力还没有完全发挥出来，需要提醒他更积极地拼抢篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:28"
+    },
+    {
+        "id": "444c99dcae",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 758,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意篮下防守11号余嘉豪，余嘉豪身高臂长，在篮下有很大的优势，尽量干扰他的投篮，减少他的得分。",
+        "reason": "余嘉豪的篮下进攻能力很强，需要阿丘尔在防守端给予足够的重视，尽量限制他的得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:28"
+    },
+    {
+        "id": "2980c5fc4c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 782,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "降低比赛节奏，稳扎稳打，减少不必要的失误。",
+        "reason": "比赛刚开始，双方球员体能都比较充沛，容易出现快节奏攻防转换，我们需要控制比赛节奏，稳扎稳打，减少不必要的失误，保证进攻成功率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:27"
+    },
+    {
+        "id": "0d57cadc55",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 782,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，突破分球要果断，注意观察队友位置，不要犹豫。",
+        "reason": "浙江稠州金租的防守球员6号程帅澎的移动防守能力一般（32），王岚嵚突破能力不错（37），可以利用突破为队友创造机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:27"
+    },
+    {
+        "id": "1f1976fe6d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 783,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "15号王奕博，注意控制运球高度，33号王岚嵚的防守很积极，尽量避免被他抢断。",
+        "reason": "王岚嵚移动防守能力不错，抢断能力突出，王奕博需要降低运球高度避免失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:26"
+    },
+    {
+        "id": "6b8f9f8286",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 783,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "37号李虎翼，注意6号程帅澎的三分投射，适当收缩防守，不要给他空位出手的机会。",
+        "reason": "6号程帅澎的三分投射能力很强（85），本场手感也很好（80），要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:26"
+    },
+    {
+        "id": "d1ea32a1bb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 784,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "35号巴斯，注意和队友的配合，不要强攻，对方内线防守比较强硬。",
+        "reason": "巴斯终结能力很强，但对方内线0号阿丘尔篮下防守效率也不低，建议巴斯不要强攻，多和队友配合，寻找更好的进攻机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:25"
+    },
+    {
+        "id": "930373d1ca",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 71
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 784,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意保护篮板球，卡位要积极！",
+        "reason": "35号巴斯的篮板能力非常强（72），0号阿丘尔的篮板能力一般（38），需要更加积极的卡位。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:25"
+    },
+    {
+        "id": "9f70288aaa",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 72
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 848,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）注意控制节奏，减少不必要的失误，多利用挡拆配合寻找空位机会，或者为余嘉豪（11号）创造篮下进攻机会。",
+        "reason": "辽宁队防守强度提升，王奕博（15号）连续出现失误，需要调整进攻节奏。余嘉豪（11号）在内线有身高优势，可以利用这一点打辽宁队的内线。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:22"
+    },
+    {
+        "id": "a3c903b4c0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 72
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 848,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "提醒33号王岚嵚和37号李虎翼注意防守6号程帅澎的三分球，程帅澎的三分命中率很高（本场三分4中3，历史数据三分命中率26.9%），尽量不要给他空位出手的机会。",
+        "reason": "浙江队6号程帅澎本场三分球4投3中，手感火热。虽然历史数据显示其三分命中率一般，但本场需要重点盯防，限制其三分出手。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:22"
+    },
+    {
+        "id": "54d75fd7b0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 72
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 852,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "鼓励7号赵率舟积极拼抢篮板球，保护好防守篮板。同时提醒0号阿丘尔注意卡位，保护篮下，防止浙江队二次进攻。",
+        "reason": "7号赵率舟和0号阿丘尔篮板能力相对较弱（赵率舟篮板能力21，阿丘尔篮板能力38），需要提醒他们更积极的拼抢篮板。浙江队拥有35号巴斯和11号余嘉豪这样的强力内线球员，篮板球的争夺至关重要。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:18"
+    },
+    {
+        "id": "8596fab092",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 72
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 855,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "加强对王岚嵚（33号）的防守，限制他的突破和三分球，尽量逼迫他进行中距离跳投。",
+        "reason": "王岚嵚（33号）手感火热，连续得分，需要对他进行重点盯防，降低他的得分效率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:15"
+    },
+    {
+        "id": "f6756232b0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 72
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 855,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚组织进攻时，多注意与0号阿丘尔进行挡拆配合，利用阿丘尔的掩护创造得分机会。同时提醒其他球员，要积极跑位，拉开空间，为王岚嵚的突破和传球创造机会。",
+        "reason": "33号王岚嵚组织能力不错（组织串联39），0号阿丘尔有一定的终结能力（终结能力46），两人挡拆配合可以打乱浙江队的防守，创造得分良机。提醒其他球员跑位，可以更好地拉开空间，增加进攻效率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:15"
+    },
+    {
+        "id": "0a510947ca",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 75
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 857,
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:13"
+    },
+    {
+        "id": "52f5d8b460",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 75
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 860,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "保护好后场篮板球，注意卡位，尽量不让辽宁队打二次进攻。",
+        "reason": "浙江队篮板球保护不力，给了辽宁队二次进攻机会，需要加强篮板球的拼抢。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:10"
+    },
+    {
+        "id": "9bce2ba4f6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 75
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 73
+        },
+        "video_time": 860,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "提醒37号李虎翼注意防守轮转，协防内线，保护篮下。浙江队35号巴斯篮下进攻能力很强，需要加强内线防守。",
+        "reason": "浙江队35号巴斯终结能力出色（终结能力84），对辽宁队内线造成很大威胁。37号李虎翼虽然篮下防守较弱（篮下防守20），但需要提醒他积极参与防守轮转和协防，避免巴斯轻易得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:10"
+    },
+    {
+        "id": "071ed77483",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 75
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 869,
+        "quarter": "第3节",
+        "time_left_in_quarter": "06:01"
+    },
+    {
+        "id": "41492f00b9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 900,
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:30"
+    },
+    {
+        "id": "c2501eb988",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 907,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "15号王奕博，注意控制节奏，稳扎稳打，多利用挡拆配合，给35号巴斯创造低位单打的机会，或者给6号程帅澎创造外线投篮的机会。",
+        "reason": "辽宁队防守强度提升，我方进攻有些停滞，需要通过挡拆来创造得分机会。35号巴斯内线终结能力强，6号程帅澎本场三分球手感火热，应该多为他们创造机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:23"
+    },
+    {
+        "id": "b6afd51ab7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 907,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "岚嵚（33号），注意控制节奏，多组织一下进攻，不要一味地自己突破，要充分调动队友。",
+        "reason": "浙江队防守比较严密，王岚嵚（33号）连续两次突破都没有成功，而且队友的站位也比较分散，没有形成有效的进攻配合。王岚嵚（33号）本场手感火热（79），但突破能力（37）相对一般，组织串联能力（39）不错，应该发挥他的组织优势，带动全队进攻。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:23"
+    },
+    {
+        "id": "ac716f0a1d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 912,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "全体注意防守篮板！35号巴斯和11号余嘉豪，保护好篮板球！",
+        "reason": "辽宁队连续获得进攻篮板，说明我们的篮板保护出现问题，需要强调篮板球的重要性。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:18"
+    },
+    {
+        "id": "3a6500e45d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 912,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "注意防守巴斯（35号），篮下尽量包夹他，不要给他轻松得分的机会。李虎翼（37号），你的防守位置要注意，不要失位。",
+        "reason": "巴斯（35号）是浙江队的主要得分点，终结能力很强（79），篮板能力（68）也很出色，篮下防守必须加强。李虎翼（37号）的防守比较薄弱，移动防守能力（21）和篮下防守效率（20）都不高，容易成为对方突破的点，需要及时提醒他注意防守位置。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:18"
+    },
+    {
+        "id": "57848220ec",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 915,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "25号王仔路，加强对33号王岚嵚的防守，不要给他轻易出手三分的机会。",
+        "reason": "33号王岚嵚的三分球命中率很高，本场实时状态也很好，需要对他进行重点盯防，限制他的得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:15"
+    },
+    {
+        "id": "0d809fc0a4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 75
+        },
+        "video_time": 915,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "进攻篮板！注意保护篮板球！",
+        "reason": "辽宁队进攻没有打成，而且没有抢到前场篮板，错失了二次进攻的机会。本场辽宁队的篮板球保护做得不好，特别是前场篮板，需要提醒球员加强篮板球的拼抢。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:15"
+    },
+    {
+        "id": "26851b6d69",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 77
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 77
+        },
+        "video_time": 919,
+        "quarter": "第3节",
+        "time_left_in_quarter": "05:11"
+    },
+    {
+        "id": "4471854ceb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 77
+        },
+        "video_time": 943,
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:47"
+    },
+    {
+        "id": "73afe55d0a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1013,
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:31"
+    },
+    {
+        "id": "6ce9b53553",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1016,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意对位球员（33号王岚嵚）的三分投射，他的三分命中率很高，尽量不要给他轻易出手三分的机会。",
+        "reason": "王岚嵚（33号）本场手感火热，三分投射能力很强，实时状态和历史数据都显示他的三分很准。王仔路（25号）需要加强对他的防守，尽量贴近，干扰他的投篮。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:28"
+    },
+    {
+        "id": "e21160617e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1016,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意对35号巴斯的防守，尽量不要失位，巴斯历史数据篮板球能力很强，注意卡位，保护篮板球。",
+        "reason": "35号巴斯在篮下卡位，0号阿丘尔篮下防守能力较弱（篮下防守:37），容易失位，巴斯历史数据显示篮板能力出色（篮板:12.2），提醒0号阿丘尔注意防守和卡位。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:28"
+    },
+    {
+        "id": "ccf0d8eb37",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1021,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "奕博（15号），注意控制比赛节奏，稳扎稳打，减少失误。",
+        "reason": "王奕博（15号）在组织串联方面需要更加谨慎，根据历史数据，他的失误率较高，需要控制好比赛节奏。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:23"
+    },
+    {
+        "id": "c7f12197c9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 80
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1022,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，15号王奕博突破能力和组织能力一般（突破:37，组织:42），三分投射比较准（三分%:65%），尽量不要给他轻松出手三分的机会，可以适当放他突破。",
+        "reason": "15号王奕博持球，根据实时状态和历史数据，王奕博三分能力较强，突破能力一般，提醒33号王岚嵚注意防守策略。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:22"
+    },
+    {
+        "id": "e482d13d54",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1038,
+        "quarter": "第3节",
+        "time_left_in_quarter": "04:06"
+    },
+    {
+        "id": "ae3752418c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 79
+        },
+        "video_time": 1096,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意对位球员李虎翼（37号）的三分投射，他的三分命中率很高，尽量不要给他空位出手的机会。",
+        "reason": "辽宁队李虎翼（37号）的三分能力不错（三分投射:73），本场手感看起来也不错，而王仔路（25号）的防守数据一般（移动防守:36 篮下防守:28），需要提醒他注意防守。本场比分焦灼，需要限制对方的得分点。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:52"
+    },
+    {
+        "id": "ba51498e88",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1099,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:49"
+    },
+    {
+        "id": "08ef13b353",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1102,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "奕博（15号），有机会就攻击鄢手骐（36号），他的防守是辽宁队最大的漏洞。",
+        "reason": "鄢手骐（36号）的防守能力在本场球员里最差（移动防守:11 篮下防守:9），王奕博（15号）的突破和组织能力不错（突破能力:37 组织串联:42），应该利用错位优势打对方防守弱点。同时，多攻击鄢手骐也能消耗他的体能，为后续比赛的轮换作准备。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:46"
+    },
+    {
+        "id": "fe03566e39",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1102,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "赵率舟（7号）注意卡位，保护篮板！",
+        "reason": "浙江队6号程帅澎突破上篮，虽然没有命中，但是我们内线球员7号赵率舟没有卡位，给了对方二次进攻的机会。本场赵率舟篮板能力数据只有21，表现不佳。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:46"
+    },
+    {
+        "id": "9c7d93d59c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1105,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "注意对程帅澎（6号）的防守！",
+        "reason": "浙江队6号程帅澎再次获得出手机会，虽然没有命中，但是连续在外线获得空位出手机会，需要提醒队员加强对他的防守。本场程帅澎三分和终结能力数据很高，分别达到83和76，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:43"
+    },
+    {
+        "id": "a4b1c092f9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1110,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），注意卡位，保护好后场篮板。",
+        "reason": "余嘉豪（11号）的篮板能力不错（篮板能力:49），是浙江队内线屏障，提醒他注意篮板球，巩固防守。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:38"
+    },
+    {
+        "id": "c36c15ad9f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 82
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1110,
+        "coach_for": "辽宁本钢",
+        "action_type": "暂停",
+        "action": "3号赵继伟换下36号鄢手骐，8号沙约克换下0号阿丘尔；强调防守，收缩内线，保护篮板，限制浙江队6号程帅澎的突破和投篮。",
+        "reason": "浙江队再次获得轻松得分的机会，说明目前的防守策略和球员状态都不能很好的限制对手。36号鄢手骐本场状态不佳，各项数据均低于28，体能也下降到38，需要换下。0号阿丘尔虽然篮板不错，但是对对方外线球员的防守效果不好，需要换上防守和组织能力更强的3号赵继伟和进攻更稳定的8号沙约克。比分差距在持续扩大，需要叫暂停来调整防守策略，加强篮板球的保护，并布置针对浙江队6号程帅澎的防守战术。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:38"
+    },
+    {
+        "id": "65a4801179",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 80
+        },
+        "video_time": 1119,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:29"
+    },
+    {
+        "id": "5e3a17dad7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1138,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a29225a8bb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1139,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "8e6d3defd3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1140,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "11a49b5e8c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1141,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "c8320278c5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1142,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "57bfdbd0be",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1143,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "730d84f9ff",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1144,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "9e0c107804",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1145,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a16308cc87",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1146,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "765bcc9a19",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1147,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "ed5118bf20",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1148,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a7d74a25f5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1149,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "317b82014f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1150,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "df23c0127e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1151,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b9c24a4dec",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1152,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "315c033aa9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1153,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "4981a026b7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1154,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "ecf2805654",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1155,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "3155b07b57",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1156,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "833801f7a5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1157,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "639def3ec5",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1158,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "665c80a1ff",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1159,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a06475da8a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1160,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "32458b35b8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1161,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "d9a37738b2",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1162,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "f22b6a3864",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1163,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b6a35aab63",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1164,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "25a5177ddb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1165,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a00e7caf7d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1166,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "cb8ff97986",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1167,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "fb036fd55c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1168,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "2bdf8e6cf4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1169,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "c6115d7bd6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1170,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "c024def505",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1171,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "a029a4b6d3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1172,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "873956e1e8",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1173,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "29b5848099",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1174,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "52e0941749",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1175,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "8df7477d80",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1176,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "9bc898004a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1177,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b65ebca33e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1178,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "d4a9fe3c49",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1179,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "ca2b65b19c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1180,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "2c9baba63d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1181,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "f39f34ab8c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1182,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "bbaa379d09",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1183,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "71c4579af6",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1184,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "0c4fbca9a4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1185,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "e9f1746817",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1186,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "44505fc3ef",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1187,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "4bad1d2adc",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1188,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "2ce78beae4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1189,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b64e43e8c7",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1190,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "c66733ab91",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1191,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "bec559aa16",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1192,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "920525d20c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1193,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "e030d6e400",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1194,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "df386a194c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1195,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "4f3b3445c0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1196,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "1353c7a4b0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1197,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b22b07c23f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1198,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "c7d3cc609b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1199,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "82cf0f4671",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1200,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "47072f4936",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1201,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "1ce82db1f3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1202,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "1c185697c0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1203,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "5552d04ade",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1204,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b4582858f0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1205,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "9328d2576c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1206,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "ab95b788e3",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1207,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "b9eb976c5a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1208,
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:10"
+    },
+    {
+        "id": "61a621eb2a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1214,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王仔路（25号），注意你的防守位置，阿丘尔（0号）有中投能力，不要给他轻易出手的机会。",
+        "reason": "辽宁队0号球员阿丘尔在上线接球后，25号王仔路防守位置略微靠后，给了阿丘尔中投的空间。阿丘尔本赛季手感不错，应该给予更紧密的防守。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:04"
+    },
+    {
+        "id": "ccdab43d40",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1214,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意篮板球的保护！",
+        "reason": "浙江队35号巴斯投篮不中，0号阿丘尔卡位不及时，被对方球员抢到篮板球。虽然阿丘尔的篮下防守效率不错（62），但是篮板能力一般（56），需要提醒他注意篮板球的卡位和保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:04"
+    },
+    {
+        "id": "650af2b562",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1218,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意防守浙江队6号程帅澎的三分球，他的三分球命中率很高（历史数据26.9%，本场手感78，三分投射83），尽量不要给他空位出手的机会。",
+        "reason": "浙江队6号程帅澎的三分能力很强，本场手感火热，王岚嵚的防守能力（移动防守30，篮下防守24）相对较弱，需要提醒他注意防守程帅澎的三分，可以适当放他一步突破，重点是限制他的三分出手。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "03:00"
+    },
+    {
+        "id": "9c12bc49f1",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1219,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），注意卡位，保护好篮板球。",
+        "reason": "虽然巴斯（35号）投篮命中，但11号余嘉豪的篮板卡位不够积极，需要提醒他加强篮板球的保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:59"
+    },
+    {
+        "id": "69f02eaf00",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1223,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "各位，加强防守轮转！注意王岚嵚（33号）的空切，他是辽宁队的主要得分点之一。",
+        "reason": "浙江队防守轮转出现空隙，导致33号王岚嵚轻松空切上篮得分。提醒球员加强防守轮转，重点盯防王岚嵚。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:55"
+    },
+    {
+        "id": "c210ecfa5c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 84
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1223,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，积极跑位，寻找空位投篮机会！",
+        "reason": "进攻端，7号赵率舟的跑位不够积极，没有很好的拉开空间，为队友创造进攻机会。虽然他的得分能力不强（场均得分1.7），但是需要他积极跑位，吸引防守，为队友创造机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:55"
+    },
+    {
+        "id": "618d628240",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 86
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1235,
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:43"
+    },
+    {
+        "id": "2cac7b327d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1260,
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:18"
+    },
+    {
+        "id": "208b71ed1e",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1303,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意接球后出手速度，尽量在李虎翼（37号）贴上来之前完成出手，利用你的身高优势，出手点要高。",
+        "reason": "辽宁队换上了李虎翼（37号），他的防守能力不错。王仔路（25号）的三分出手速度需要加快，避免被干扰。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:00"
+    },
+    {
+        "id": "2231868e4b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1303,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "赵率舟（7号）注意卡位，保护篮板球。",
+        "reason": "浙江队进攻，赵率舟篮板能力相对较弱（实时状态21），需要提醒其注意卡位，保护防守篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "02:00"
+    },
+    {
+        "id": "bfe6232fb0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1307,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "奕博（15号），注意控制节奏，不要轻易失误。多利用余嘉豪（11号）的内线优势，给他喂球，让他在低位强打。",
+        "reason": "王奕博（15号）的失误需要控制，应该充分发挥余嘉豪（11号）的内线优势。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:56"
+    },
+    {
+        "id": "0b84c0a50b",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1307,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "李虎翼（37号）注意防守6号程帅澎的三分，程帅澎的三分命中率很高（实时状态三分77，历史三分命中率26.9%），不要给他轻易出手的机会。",
+        "reason": "程帅澎的三分能力比较强，需要重点盯防，避免其在外线获得轻松出手的机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:56"
+    },
+    {
+        "id": "0d1ffe102c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1312,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "巴斯（35号），注意篮板球的保护，积极卡位，保护好防守篮板。",
+        "reason": "巴斯（35号）在篮板球的拼抢上需要更积极，保护好防守篮板才能发起快速反击。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:51"
+    },
+    {
+        "id": "f7cfbe0070",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1312,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "王岚嵚（33号）要控制节奏，稳扎稳打，不要盲目突破。",
+        "reason": "王岚嵚突破能力一般（实时状态36），组织能力也一般（实时状态41），需要提醒他控制节奏，稳扎稳打。保证球的转移和进攻的流畅性，避免失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:51"
+    },
+    {
+        "id": "e2b1aff564",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1315,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "程帅澎（6号），注意防守王岚嵚（33号）的突破，他突破能力很强，尽量不要给他轻松突破的机会，逼迫他进行中远距离投篮。",
+        "reason": "王岚嵚（33号）的突破能力很强，程帅澎（6号）需要加强对他的防守。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:48"
+    },
+    {
+        "id": "68953dd21c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1315,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "快速回防！",
+        "reason": "浙江队快攻，提醒球员快速回防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:48"
+    },
+    {
+        "id": "99ffae2d64",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1326,
+        "coach_for": "辽宁本钢",
+        "action_type": "暂停",
+        "action": "3号赵继伟换下36号鄢手骐，8号沙约克换下7号赵率舟；加强防守，盯紧程帅澎（6号）和巴斯（35号），注意保护篮板球。",
+        "reason": "比分一直落后，暂停调整战术。换上赵继伟，提升组织串联能力（实时状态71）和三分能力（实时状态85）。换上沙约克提升进攻火力（历史得分17.2）和篮板能力（实时状态41），同时提升体能。强调防守重要性，盯防浙江队主要得分点程帅澎和巴斯，并提醒球员保护好篮板球，避免浙江队二次进攻。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:48"
+    },
+    {
+        "id": "a87e2aaacd",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1338,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "15号王奕博，注意控制节奏，稳扎稳打，多利用挡拆配合，把球给到内线的11号余嘉豪或者外线的6号程帅澎，减少不必要的个人单打。",
+        "reason": "辽宁队防守强度提升，15号王奕博的突破效率不高。余嘉豪在内线有身高优势，程帅澎的三分球手感不错，可以利用他们的优势创造得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:40"
+    },
+    {
+        "id": "3af3dabb38",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1338,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，突破的时候要注意分球给两侧的队友，37号李虎翼和7号赵率舟，他们两个在底角的三分命中率不错，要充分利用他们的投射能力。",
+        "reason": "浙江稠州金租的防守阵型收缩，33号王岚嵚突破到内线之后容易被包夹，分球给外线的队友是更好的选择。37号李虎翼和7号赵率舟的三分球能力不错，可以创造更好的得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:40"
+    },
+    {
+        "id": "39ce7be485",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1341,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意篮板球的保护！",
+        "reason": "0号阿丘尔虽然身高臂长，但是篮板球的卡位意识还不够强，容易被对手抢到进攻篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:37"
+    },
+    {
+        "id": "c325ede78f",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 88
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1342,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "防守端要注意33号王岚嵚的突破和三分，他今天的状态很好，尽量减少他的出手次数。",
+        "reason": "王岚嵚本场手感火热，需要重点盯防，限制他的得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:36"
+    },
+    {
+        "id": "c63dfe5342",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1344,
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:34"
+    },
+    {
+        "id": "a9b6df65d4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1345,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "保护好后场篮板！",
+        "reason": "进攻没有打成，大家需要迅速回防，防止辽宁队打反击。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:33"
+    },
+    {
+        "id": "6a405b61c4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1345,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "注意防守浙江稠州金租的快攻，尤其是15号王奕博的推进速度很快，要及时回防！",
+        "reason": "浙江稠州金租的快攻打得很有特点，15号王奕博的推进速度非常快，要做好防守的准备，防止对手轻松得分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:33"
+    },
+    {
+        "id": "104cfeb4bb",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1462,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "仔路（25号），注意你的防守位置，不要给李虎翼（37号）轻松投三分的机会！他的三分命中率很高，尽量贴身防守，逼迫他突破。",
+        "reason": "李虎翼（37号）本场三分球手感火热，而王仔路（25号）的防守位置稍远，容易给对方轻松出手的机会。根据李虎翼（37号）的数据，他的突破能力相对较弱，可以利用这一点进行防守策略调整。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:29"
+    },
+    {
+        "id": "0a516aacf4",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1465,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号），篮下要强硬一点！注意卡位，保护好篮板球！",
+        "reason": "虽然余嘉豪（11号）身高占优，但在篮板球的争夺上不够积极，需要提醒他加强篮下防守的硬度和篮板球的保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:26"
+    },
+    {
+        "id": "dcc2608ce0",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1465,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，注意卡位，保护篮板球！",
+        "reason": "浙江队11号余嘉豪在篮下卡位，0号阿丘尔篮板能力虽然不错，但本场篮下防守效率一般（62），需要提醒他注意篮板球的保护。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:26"
+    },
+    {
+        "id": "917c427da9",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1470,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号），加快进攻节奏，多利用挡拆，寻找突破或分球的机会，不要过多粘球。",
+        "reason": "浙江稠州金租进攻节奏有些缓慢，王奕博（15号）的组织串联能力没有完全发挥出来。建议他利用挡拆，增加进攻的变化性，为队友创造得分机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:21"
+    },
+    {
+        "id": "ba4a294cab",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1470,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意防守6号程帅澎的三分球，他的三分命中率很高，不要给他轻易出手的机会。",
+        "reason": "6号程帅澎的三分能力很强，本场手感火热（70），三分投射能力也很高（74），历史三分命中率26.9%，需要重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:21"
+    },
+    {
+        "id": "76272d9072",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1475,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "帅澎（6号），有机会就果断出手！注意控制失误，减少不必要的传球。",
+        "reason": "程帅澎（6号）本场进攻欲望不是很强烈，需要鼓励他积极进攻，抓住机会得分。同时，也要提醒他控制失误，避免不必要的失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:16"
+    },
+    {
+        "id": "9dc8400113",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 90
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1475,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，注意保护后场篮板！",
+        "reason": "7号赵率舟篮板能力（21）相对较弱，提醒他注意保护后场篮板。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "01:16"
+    },
+    {
+        "id": "a2da78a0be",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1492,
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:59"
+    },
+    {
+        "id": "b3c2ecf474",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1592,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）要注意控制比赛节奏，不要着急，尽量把球交给内线的余嘉豪（11号），利用他的身高优势强攻篮下，或者寻找外线空位投篮机会。",
+        "reason": "目前比分差距较大，需要稳扎稳打，利用内线优势得分，同时要注意控制失误。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:22"
+    },
+    {
+        "id": "6c1894b229",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1592,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "33号王岚嵚，注意控制节奏，多组织进攻，不要一味地单打，要充分调动队友，发挥团队优势。",
+        "reason": "比分落后，需要稳扎稳打，王岚嵚本场手感不错（手感76，三分78），但组织串联能力也比较出色（47），可以多组织进攻，串联全队。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:22"
+    },
+    {
+        "id": "b321675a4d",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1596,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "余嘉豪（11号）接球后，要注意观察队友的跑位，如果对方包夹，要及时分球给外线空位的队友，比如程帅澎（6号）和王仔路（25号），给他们创造三分投篮的机会。",
+        "reason": "对方内线防守相对较弱，余嘉豪有身高优势，但也要防止对方包夹，要提高进攻效率。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:18"
+    },
+    {
+        "id": "ffa023721a",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1596,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "7号赵率舟，注意卡位，保护篮板球！",
+        "reason": "赵率舟篮板能力相对较弱（21），需要提醒他积极卡位，保护篮板球。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:18"
+    },
+    {
+        "id": "a8cc133361",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1599,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "注意对方6号程帅澎的突破，他的突破比较有冲击力，尽量封堵他的突破路线，逼迫他投篮。",
+        "reason": "程帅澎突破能力不错（41），需要对他进行重点盯防。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:15"
+    },
+    {
+        "id": "5d0dc2d7fe",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1600,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "防守端要注意盯紧辽宁队的王岚嵚（33号）和李虎翼（37号），他们的三分球很准，尽量不要给他们轻松出手的机会。巴斯（35号）要镇守篮下，保护好篮板球。",
+        "reason": "王岚嵚和李虎翼的三分球是辽宁队的重要得分手段，限制他们的外线投篮非常重要。同时，保护好篮板球才能保证防守的有效性。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:14"
+    },
+    {
+        "id": "6a7b911542",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1601,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "0号阿丘尔，积极拼抢前场篮板！",
+        "reason": "阿丘尔篮下防守和篮板能力较强（篮下防守61，篮板55），需要他积极拼抢前场篮板，创造二次进攻机会。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:13"
+    },
+    {
+        "id": "8747dd687c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1606,
+        "coach_for": "浙江稠州金租",
+        "action_type": "建议",
+        "action": "王奕博（15号）突破的时候要注意保护球，对方可能会采取包夹或者绕前防守，尽量减少失误。",
+        "reason": "王奕博的突破能力不错，但也要注意保护球，避免不必要的失误，从而影响比赛节奏。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:08"
+    },
+    {
+        "id": "2f1bd88928",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 92
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1606,
+        "coach_for": "辽宁本钢",
+        "action_type": "建议",
+        "action": "落后十分了，进攻端打得不够坚决，出手不够果断，37号李虎翼和33号王岚嵚要增加三分出手，有机会就果断投。防守端要注意轮转，对位跟紧一点。",
+        "reason": "比分落后，需要加强进攻，同时提升防守强度。李虎翼和王岚嵚的三分能力不错，可以利用他们的外线投射追分。",
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:08"
+    },
+    {
+        "id": "c908ce415c",
+        "game_id": "e41304a4894a",
+        "home_team": {
+            "team_id": "29129",
+            "team_name": "辽宁本钢",
+            "score": 94
+        },
+        "away_team": {
+            "team_id": "29140",
+            "team_name": "浙江稠州金租",
+            "score": 82
+        },
+        "video_time": 1612,
+        "quarter": "第3节",
+        "time_left_in_quarter": "00:02"
+    }
+]

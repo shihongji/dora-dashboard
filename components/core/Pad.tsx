@@ -24,7 +24,7 @@ const Pad = () => {
         console.error("Failed to fetch game info:", error);
       }
     };
-    if ((gameInfos.length > 0 && currentSecond + 2160 < gameInfos[gameInfos.length - 1].game_time)) {
+    if ((gameInfos.length > 0 && currentSecond  < gameInfos[gameInfos.length - 1].video_time)) {
       // backwards in time, fetch new data
       fetchGameInfo();
     } else if (currentSecond % 10 === 0) {
@@ -40,12 +40,12 @@ const Pad = () => {
       team2={gameInfos[gameInfos.length - 1]?.away_team?.team_name || "Team B"}
       score1={gameInfos[gameInfos.length - 1]?.home_team?.score || 0}
       score2={gameInfos[gameInfos.length - 1]?.away_team?.score || 0}
-      quarter={gameInfos[gameInfos.length - 1]?.quarter?.toString() || "1"}
+      quarter={gameInfos[gameInfos.length - 1]?.quarter?.toString() || ""}
       timeRemaining={gameInfos[gameInfos.length - 1]?.time_left_in_quarter || "12:00"}
       />
       <div className="flex-1 bg-gray-100 p-4 flex items-center justify-center">
       <div className="flex items-center justify-center h-full">
-        <AlertText gameInsight={gameInfos.slice().reverse().find(info => info.event_type === "Substitution") || null} />
+        <AlertText gameInsight={gameInfos.slice().reverse().find(info => info.action_type === "换人" || info.action_type === "暂停") || null} />
       </div>
       </div>
     </div>
