@@ -3,12 +3,9 @@ export interface GameInfo {
   game_id: string;
   home_team: Partial<TeamInfo>;
   away_team: Partial<TeamInfo>;
-  venue: string;
-  status: string;
   video_time: number;
   quarter: number;
   time_left_in_quarter: string;
-  possession: string;
   action_type?: string;
   action?: string;
   coach_for?: string;

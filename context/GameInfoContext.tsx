@@ -22,15 +22,13 @@ export const GameInfoProvider = ({ children }: { children: ReactNode }) => {
           "team_name": "天津先行者",
           "score": 59
         },
-        "game_date": "2024-10-24",
-        "venue": "辽宁体育馆",
-        "status": "In Progress",
-        "game_time": 2160,
+        "video_time": 0,
         "quarter": 4,
         "time_left_in_quarter": "12:00",
-        "possession": "home",
-        "event_type": "3-pointer",
-        "event_description": "小楼昨夜又东风，故国不堪回首月明中。（李煜《虞美人》）"
+        "action_type": "建议",
+        "action": "16号田雨，积极拼抢篮板球！",
+        "coach_for": "辽宁本钢",
+        "reason": "16号田雨篮板能力一般（实时状态24，历史数据3.6个），需要提醒他加强篮板球的拼抢。"
     }]);
 
     return (
