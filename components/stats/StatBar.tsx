@@ -13,7 +13,7 @@ const StatBar: React.FC<StatBarProps> = ({ value, max }) => {
         <div
           className="h-full bg-emerald-400"
           style={{
-            width: `${value}%`,
+            width: `${value * 100 / max}%`,
             backgroundSize: `100% 100%`,
             backgroundPosition: `${(max - value)/max}% 0`,
           }}

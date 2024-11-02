@@ -14,21 +14,21 @@ export const GameInfoProvider = ({ children }: { children: ReactNode }) => {
         "game_id": "zbrwuymsf39",
         "home_team": {
           "team_id": "ln020",
-          "team_name": "辽宁本钢",
+          "team_name": "",
           "score": 74
         },
         "away_team": {
           "team_id": "tj002",
-          "team_name": "天津先行者",
+          "team_name": "",
           "score": 59
         },
         "video_time": 0,
         "quarter": 4,
         "time_left_in_quarter": "12:00",
-        "action_type": "建议",
-        "action": "16号田雨，积极拼抢篮板球！",
-        "coach_for": "辽宁本钢",
-        "reason": "16号田雨篮板能力一般（实时状态24，历史数据3.6个），需要提醒他加强篮板球的拼抢。"
+        "action_type": "",
+        "action": "",
+        "coach_for": "",
+        "reason": "1"
     }]);
 
     return (
