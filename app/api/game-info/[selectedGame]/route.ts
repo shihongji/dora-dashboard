@@ -8,7 +8,6 @@ export async function GET(
   { params }: { params: { selectedGame: string } }
 ) {
   const { selectedGame } = params;
-  console.log(selectedGame);
   const vidTime = req.nextUrl.searchParams.get("vidTime");
   const lookupTime = Number(vidTime);
   if (!vidTime) {
@@ -18,7 +17,7 @@ export async function GET(
     );
   }
 
-  const fileName = "gameInfo.json";
+  const fileName = selectedGame === "1013" ? "1013_events.json" : "0406_events.json";
 
   // Read and parse the player data from the JSON file
   const infoData = await fs.readFile(
@@ -27,7 +26,7 @@ export async function GET(
   );
   const parsedData: GameInfo[] = JSON.parse(infoData);
   const targetInfos = parsedData.filter(
-    (info) => info.game_time <= lookupTime + 2160
+    (info) => info.video_time <= lookupTime
   );
 
   return NextResponse.json(targetInfos);

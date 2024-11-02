@@ -13,10 +13,10 @@ const AlertText: React.FC<AlertTextProps> = ({ gameInsight }) => {
   return (
     <div className="mt-4 p-4">
       <h3 className="text-4xl font-semibold text-cp-orange text-center mb-4">
-      {gameInsight ? gameInsight.event_type : t('pinned')}
+      {gameInsight ? gameInsight.action_type : t('pinned')}
       </h3>
       <div className="flex items-center justify-between text-2xl my-4">
-        <span className="text-gray-700 font-medium">{gameInsight ? gameInsight.event_description : t('pinnedDescription')}</span>
+        <span className="text-gray-700 font-medium">{gameInsight ? gameInsight.action : t('pinnedDescription')}</span>
       </div>
     </div>
   );
