@@ -68,9 +68,9 @@ export const statsMap = [
   { labelEn: "Stamina", labelCn: "体能", img: "/icons/Stamina.png" },
   { labelEn: "Shooting Form", labelCn: "手感", img: "/icons/ShootingForm.png" },
   {
-    labelEn: "Three-Point Shooting",
-    labelCn: "三分投射",
-    img: "/icons/ThreePointAbility.png",
+    labelEn: "Playmaking",
+    labelCn: "组织串联",
+    img: "/icons/undefined.png",
   },
   {
     labelEn: "Finishing",
@@ -93,14 +93,14 @@ export const statsMap = [
     img: "/icons/RimProtection.png",
   },
   {
-    labelEn: "Tactical Execution",
-    labelCn: "战术执行",
-    img: "/icons/TaciticalAbiligy.png",
+    labelEn: "Mid-Range Shooting",
+    labelCn: "中投能力",
+    img: "/icons/MidRange.png",
   },
   {
-    labelEn: "Playmaking",
-    labelCn: "组织串联",
-    img: "/icons/undefined.png",
+    labelEn: "Three-Point Shooting",
+    labelCn: "三分投射",
+    img: "/icons/ThreePointAbility.png",
   },
   {
     labelEn: "Rebounding",
