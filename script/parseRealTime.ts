@@ -3,7 +3,7 @@ import * as path from "path";
 
 // Load the JSON data
 const jsonData = fs.readFileSync(
-  path.join(__dirname, "../data/players_info/1013_pre_rt.json"),
+  path.join(__dirname, "../data/0406_pre_rt.json"),
   "utf-8"
 );
 // Step-by-step transformation
@@ -29,7 +29,16 @@ const validJson = `[\n${transformedLines.join("\n")}\n]`;
 try {
   // Parse to ensure it's valid JSON
   const parsedData = JSON.parse(validJson);
-  const outputPath = path.join(__dirname, "rt-test.json");
+  parsedData.forEach((entry: any) => {
+    if (entry["实时数据"]) {
+      const rtData = entry["实时数据"];
+  
+      // Replace the "实时数据" key with "rt" and assign modified data
+      entry.rt = rtData;
+      delete entry["实时数据"];
+    }
+  });
+  const outputPath = path.join(__dirname, "0406_rt.json");
   // Save to a JSON file
   fs.writeFileSync(outputPath, JSON.stringify(parsedData, null, 2), "utf8");
 
