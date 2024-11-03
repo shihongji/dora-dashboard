@@ -17,7 +17,7 @@ export async function GET(
     );
   }
 
-  const fileName = selectedGame === "1013" ? "1013_events.json" : "0406_events.json";
+  const fileName = `${selectedGame}_events.json`;
 
   // Read and parse the player data from the JSON file
   const infoData = await fs.readFile(
