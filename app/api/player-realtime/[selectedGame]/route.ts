@@ -8,8 +8,8 @@ interface PlayerStats {
   三分投射: [number, number];
   终结能力: [number, number];
   突破能力: [number, number];
-  移动防守: [number, number];
-  篮下防守: [number, number];
+  外线防守: [number, number];
+  内线防守: [number, number];
   战术执行: [number, number];
   组织串联: [number, number];
   篮板能力: [number, number];

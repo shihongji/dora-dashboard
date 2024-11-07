@@ -34,10 +34,17 @@ const RealTimeStatsContainer: React.FC<RealTimeStatsContainerProps> = ({
         const playerStats = data.rt[playerId];
         // Map to the desired structure
         const stats = statsMap.map((stat) => {
+          let refinedCn = stat.labelCn;
+
           const [value, max] = playerStats[stat.labelCn] || [0, 0]; // Default to [0, 0] if stat not found
+          if (stat.labelCn === "移动防守") {
+            refinedCn = "外线防守";
+          } else if (stat.labelCn === "篮下防守") {
+            refinedCn = "内线防守";
+          }
           return {
             labelEn: stat.labelEn,
-            labelCn: stat.labelCn,
+            labelCn: refinedCn,
             max,
             value: value,
             img: stat.img,
