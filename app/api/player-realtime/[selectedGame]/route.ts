@@ -8,8 +8,8 @@ interface PlayerStats {
   三分投射: [number, number];
   终结能力: [number, number];
   突破能力: [number, number];
-  移动防守: [number, number];
-  篮下防守: [number, number];
+  外线防守: [number, number];
+  内线防守: [number, number];
   战术执行: [number, number];
   组织串联: [number, number];
   篮板能力: [number, number];
@@ -37,7 +37,7 @@ export async function GET(
     );
   }
 
-const fileName = selectedGame === "1013" ? "1013_rt.json" : "0406_rt.json";
+const fileName = `${selectedGame}_rt.json`;
 
   // Read and parse the player data from the JSON file
   const playerData = await fs.readFile(

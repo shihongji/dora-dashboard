@@ -15,16 +15,15 @@ export async function GET(
     | "lastSeason";
   const playerId = req.nextUrl.searchParams.get("playerId");
   let fileName: string;
-  if (home) {
-    fileName =
-      selectedGame === "1013"
-        ? "1013_Liaoning_updated.json"
-        : "0406_Tianjin_updated.json";
-  } else {
-    fileName =
-      selectedGame === "1013"
-        ? "1013_Zhejiang_updated.json"
-        : "0406_Guangdong_updated.json";
+  switch (selectedGame) {
+    case "1013":
+      fileName = home ? "1013_Liaoning_updated.json" : "1013_Zhejiang_updated.json";
+      break;
+    case "0406":
+      fileName = home ? "0406_Tianjin_updated.json" : "0406_Guangdong_updated.json";
+      break;
+    default:
+      throw new Error("Invalid game selection");
   }
   // Read the player data from the JSON file
   const playerData = await fs.readFile(
