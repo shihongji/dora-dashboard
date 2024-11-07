@@ -37,8 +37,7 @@ export async function GET(
     );
   }
 
-let fileName: string;
-fileName = `${selectedGame}_rt.json`;
+const fileName = `${selectedGame}_rt.json`;
 
   // Read and parse the player data from the JSON file
   const playerData = await fs.readFile(
