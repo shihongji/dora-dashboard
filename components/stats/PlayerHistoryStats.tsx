@@ -36,7 +36,7 @@ const PlayerHistoryStats: React.FC<PlayerHistoryStatsProps> = ({
     if (!playerId || selectedTab !== 2) {
       return;
     }
-    const selectedGame = localStorage.getItem("selectGame"); // '1013' or '0406'
+    const selectedGame = localStorage.getItem("selectedGame"); // '1013' or '0406'
     const requestUrl = teamHome
       ? `/api/player-history/${selectedGame}?home=true&period=${statsPeriod}&playerId=${playerId}`
       : `/api/player-history/${selectedGame}?home=false&period=${statsPeriod}&playerId=${playerId}`;
